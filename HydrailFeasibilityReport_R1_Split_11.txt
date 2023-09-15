@@ -1,0 +1,2000 @@
+and safety regulation issues that might emerge as the rail vehicles are designed and tested.
+
+
+
+Significance: High - This risk has high significance because the key objective of the RER Program is
+to introduce enhanced rail services on the GO network from 2025.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+251
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Mitigation: Metrolinx has already initiated the two HFC rail vehicle projects to mitigate this risk.
+The HFC Bi-level EMU Concept Design Project has the objective of obtaining assurance that a
+hybrid HFC system can be integrated into manufacturers existing EMU products. The HFC
+Locomotive Concept Design Project has a similar objective and in addition will further progress
+the systems integration development by proceeding with preliminary and detailed designs. It is
+intended that this work is completed during the DBFOM procurement process so that bidders can
+confidently plan for the production design and delivery of an HFC rail vehicle fleet within the
+required RER timescales.
+
+
+
+Comparative Assessment with Electrification: The equivalent uncertainty in relation to the
+Electrification Program relates to the timescales for completing the electrification infrastructure on
+each GO corridor. If significant risks emerge in relation to corridor access, utilities diversions and
+infrastructure modifications then this could also delay the achievement of the 2025 target.
+
+4.12.2.3 Ability of Market to Provide Equipment and Design Services
+There is a risk that hydrogen technology component vendors will have trouble scaling up to supply
+the quantity of hydrogen infrastructure required by the Hydrail System.
+
+
+Type: System Implementation
+
+
+
+Probability of Risk Occurring: Medium - Even though individual vendors will be able to anticipate
+that Hydrail is likely to procure a considerable volume of components they may not be able to
+scale-up within the time required by RER. However, the whole hydrogen market is expanding in
+parallel to the development of Hydrail so the risk is likely to be reduced.
+
+
+
+Significance: Medium - A delay in the initial supply of key subsystem components would lead to a
+delay in the commencement of services and slow down the incremental roll-out.
+
+
+
+Mitigation: Proactive engagement with the market and provincial government to share the
+ongoing development efforts. This will provide the hydrogen market with expectations, allowing
+them to ramp up on their ability to deliver services.
+
+
+
+Comparative Assessment with Electrification: Electrification components are commoditized, and
+since there are major players with electric locomotives and EMUs which are certified and exist in
+the market, there are fewer uncertainties about the ability of the market to provide equipment and
+services related to electrification.
+
+4.12.2.4 Zoning and Planning
+There might be objections raised by planning authorities and local communities to proposed
+locations for the hydrogen production facilities.
+
+
+Type: System Implementation
+
+
+
+Probability of Risk Occurring: Medium - The likelihood of this risk occurring will depend on the
+number of location options that are available and the success of the preceding public
+communication strategy.
+
+
+
+Significance: Medium - If there are delays in obtaining planning consents it would still be possible
+to commence an initial Hydrail service through the purchase of hydrogen from existing industrial
+suppliers.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+252
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Mitigation: Proactive engagement will be required with the municipal and provincial governments
+to begin the planning work and obtain the zoning approvals required to set up the support
+infrastructure for Hydrail.
+
+
+
+Comparative Assessment with Electrification: Electrification also has planning consent risks in
+relation to the siting of substations.
+
+Table 4-55 collates the risks identified above and orders them using a rough risk ranking score of
+Probability multiplied by Significance, based on High = 3, Medium = 2 and Low = 1.
+The risks that have a score from 6 to 3 are of sufficient importance that their further investigation is
+included within the scope of activities outlined in the “Recommended Next Steps” section.
+TABLE 4-55 HYDRAIL SYSTEM IMPLEMENTATION RISK MATRIX
+Risk
+
+Probability
+
+Significance
+
+Risk Score
+
+Uncertainty Regarding Rate at which HFC Rail Vehicles can be
+Introduced into Revenue Service
+
+Medium
+
+High
+
+6
+
+Public Perception of Hydrogen
+
+Medium
+
+Medium
+
+4
+
+Ability of Market to Provide Equipment and Design Services
+
+Medium
+
+Medium
+
+4
+
+Zoning and Planning
+
+Medium
+
+Medium
+
+4
+
+4.12.3 System Operational Risks
+4.12.3.1 Forecasting the Future Price of Electricity
+The actual average price differential between peak and off-peak rates might change from the forecast
+rates provided by IESO.
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Medium - The electricity price forecasts used to calculate the
+operating costs of Hydrail and Electrification have been provided by IESO and are based on the
+2017 Long Term Energy Plan for Ontario
+
+
+
+Significance: High – If the differencebetween the price of electricity paid by Hydrail and that for
+Electrification narrows, this would weaken the economic case for Hydrail.
+
+
+
+Mitigation: Engage with the provincial government to define, or pre-establish, the cost of
+electricity relating to Hydrail.
+
+
+
+Comparative Assessment with Electrification: If the difference between the price of electricity paid
+by Hydrail and that for Electrification increases, this would weaken the economic case for
+Electrification.
+
+4.12.3.2 Hydrail Operational Complexity
+There are uncertainties about how HFC rail vehicles will be brought into service at the start of each
+day and refuelled at the end of each day. There are also uncertainties around the type and frequency
+of maintenance and renewal operations of the HFC components. These could have a significant
+negative impact on the expected operational efficiency of the RER level of service.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+253
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Medium - The probability of there being a significant negative
+impact on the RER level of service from the adoption of HFC rail vehicles is not considered to be
+high as Metrolinx currently has experience of managing a fleet of rail vehicles that requires
+refuelling every day and that requires in-house maintenance activities to be carried out on the
+vehicles’ propulsion systems.
+
+
+
+Significance: High - This is a risk that is important because one of the key factors in determining
+the viability of the Hydrail System is ensuring that it has a high level of operational efficiency
+
+
+
+Mitigation: As part of the proposed “Recommended Next Steps” activities it is intended to
+undertake further analysis of the operational capabilities of the Hydrail System and how they align
+with the RER level of service.
+
+
+
+Comparative Assessment with Electrification: This is a much lower risk for the Electrification
+Program as electric locomotives and EMUs have well proven operational and maintenance
+requirements. In addition, the electric rail vehicles do not require to be refuelled.
+
+4.12.3.3 Maintenance Staff Capabilities
+It might be difficult to find sufficient numbers of staff with the specialized skills to maintain the Hydrail
+System components, both on the locomotive and at offsite facilities.
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Low - The likelihood of this risk occurring is low because there is
+sufficient time to mitigate it and the demand for skilled hydrogen technicans will follow the
+incremental introduction of an HFC fleet.
+
+
+
+Significance: Medium - The impact of this risk will be on train service performance.
+
+
+
+Mitigation: Engage with Ontario Ministry of Advanced Education and colleges in Ontario to ensure
+that courses are available to train and certify existing and new staff as hydrogen technicians.
+
+
+
+Comparative Assessment with Electrification: Electrification will have a similar risk, since the new
+electric locomotives and EMUs will require maintenance staff with new skills.
+
+4.12.3.4 Hydrogen Production Failure
+There is a risk of a shortage of supply of hydrogen due to a failure in the hydrogen production
+subsystem or in the supply of electricity from the grid.
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Low - The probability of this occurring is low as it is intended to store
+up to three days supply of hydrogen at each hydrogen production facility. If this is not sufficient at
+one particular location, contingency plans will be put in place to transport hydrogen from one of
+the other production facilities.
+
+
+
+Significance: Medium - This is not a significant risk as there will be built-in supply buffers in the
+system to limit the severity of the impact.
+
+
+
+Mitigation: As part of the proposed “Recommended Next Steps” activities it is intended to
+produce a concept design of a generic hydrogen production facility. Within the design process
+consideration will be given to mitigating this risk to an acceptable level.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+254
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Comparative Assessment with Electrification: There is an equivalent risk in the Electrification
+Program which relates to the reliability of supply of electricity. Redundancy has been built into the
+connection of the OCS with the electricity grid to reduce this risk to an acceptable level.
+
+4.12.3.5 Reliability of HFC Trains
+There is a risk that the availability and performance of the HFC rail vehicles could be compromised
+due to failures of components in the rail vehicle subsystem.
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Medium - A rail vehicle is a harsh environment particularly due to
+climatic conditions and vibration. However, there is a considerable amount of experience of
+operating HFC-powered buses where these conditions are probably worse than on a rail network.
+In addition, the HFC subsystem will be designed so that the failure of one component will not have
+a catastrophic impact on the operation of the rail vehicle. For example: the fuel cells will be
+arranged in parallel stacks so that a failure of one unit will only result in a reduced amount of
+output power and not the shut down of the complete fuel cell subsystem; even if the whole fuel
+cell subsystem becomes unavailable there will be sufficient power in the battery system to enable
+the rail vehicle to operate in degraded mode so that it can reach a place of safety; the battery
+subsystem will also be designed so that a failure in one battery will only lead to a reduction in peak
+power available to accelerate the train. It is likely that in this scenario that it will be possible to
+continue to operate the train at close to normal performance. Furthermore, the planned train
+consists will have the following redundancies: EMUs have multiple powered coaches so that the
+train should be able to continue to operate even if the system on coach fails; adopting a two
+locomotive consist for 12 carriages means that even if one locomotive fails it will still be possible
+for the consist to continue working.
+
+
+
+Significance: High - This is a risk of significant importance because it is fundamental to the
+operational viability of the Hydrail System.
+
+
+
+Mitigation: Gaining assurance about how the HFC rail vehicles will be able to continue to function
+is one of the factors that will be investigated as part of the HFC Bi-level Concept Design project
+and the HFC Locomotive project.
+
+
+
+Comparative Assessment with Electrification: There are similar risks with the electric locomotives
+and EMUs. Even though there is a highlevel of reliability of the electrical components on an
+electric locomotive or an EMU, there is a lower level of sytem redundancy than with a HFC rail
+vehicle. In addition, any failure of the overhead contact wire on a section of corridor would lead to
+significant operational disruption.
+
+4.12.3.6 Impact on Passengers of a Train Accident
+In the event of a train accident there is the potential that passengers could be hurt due to the ignition
+or explosion of leaking hydrogen.
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Low - The likelihood of this is low because: when hydrogen escapes
+it disperses into the atmosphere very quickly; if a hydrogen leak does ignite then it burns with a
+flame rather than explodes; the hydrogen will be stored on the rail vehicles in multiple tanks so
+that it is unlikely that more than one tank would be damaged in an accident; the hydrogen will be
+stored at 700 bar in the storage tanks which will encourage the hydrogen to escape quickly; in the
+case of the HFC EMU the hydrogen tanks will be installed near the roof of the train where the gas
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+255
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+can quickly escape in the event of tank rupture; in the case of the HFC locomotive the tanks will be
+isolated from the adjacent passenger coach by a fire proof barrier; the rail vehicle subsystem will
+be designed to achieve a high level of crashworthiness; the rail vehicle subsystem will be
+designed with automated shut-off systems that are designed to limit the amount of hydrogen that
+can escape.
+
+
+Significance: High - Any risk relating to safety will be treated with the highest level of significance
+during the design of the HFC rail vehicles.
+
+
+
+Mitigation: Gaining assurance about how the HFC subsystem will respond to an accident will be
+part of the activities that we propose to undertake in Q1 and Q2 2018. It will also feature as part of
+the HFC Bi-level Concept Design project and the HFC Locomotive project.
+
+
+
+Comparative Assessment with Electrification: In the event of an electric rail vehicle accident, there
+could be a risk to passengers due to damaged overhead catenary infrastructure.
+
+4.12.3.7 Implications to RER due to Hydrail
+There is a risk that the operation of the Hydrail System might have a negative impact on the ability to
+achieve the planned RER level of service.
+
+
+Type: System Operational
+
+
+
+Probability of Risk Occurring: Low - The feasibility study has not identified any area of the
+operation of the Hydrail System that is likely to have a significant impact on the operation of RER.
+The areas that this risk is most relevant to are: the performance and operation of a two-locomotive
+consist; and the refuelling process.
+
+
+
+Significance: Medium - The objective of the design of the Hydrail System is to match the RER level
+of service in terms of terms of the RER train service plan. If this risk occurs it seems likely that the
+reduction in level of service will be small. This risk also generates an opportunity whereby a small
+reduction in train performance could lead to a significant reduction in Hydrail’s operating cost.
+
+
+
+Mitigation: As part of the proposed “Recommended Next Steps” activities it is intended that the
+Hydrail team will develop a more refined assessment of the train service capability of the HFC rail
+vehicles and the operating processes of refuelling. We will also work with the RER Program team
+to model operating cost savings that could be achieved from a range of reductions in train
+performance and how this might impact the BCR for the Hydrail System.
+
+
+
+Comparative Assessment with Electrification: This exact risk is unlikely to be experienced with
+electrification as electric locomotives and EMUs that are available for the major rail vehicle
+manufacturers have performance characteristics that have been used in the simulation modelling
+of RER. However, there might be the reverse risk if rail vehicles supplied have more performance
+characteristics than required for RER (acceleration, top speed).
+
+Table 4-56 collates the risks identified above and orders them using a rough risk ranking score of
+Probability multiplied by Significance, based on High = 3, Medium = 2 and Low = 1.
+The risks that have a score from 6 to 3 are of sufficient importance that their further investigation is
+included within the scope of activities outlined in the “Recommended Next Steps” section.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+256
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-56 HYDRAIL SYSTEM OPERATIONAL RISK MATRIX
+Risk
+
+Probability
+
+Significance
+
+Risk Score
+
+Forecasting the Future Price of Electricity
+
+Medium
+
+High
+
+6
+
+Reliability of HFC Trains
+
+Medium
+
+High
+
+6
+
+Hydrail Operational Complexity
+
+Medium
+
+High
+
+6
+
+Impact on Passengers of a Train Accident
+
+Low
+
+High
+
+3
+
+Maintenance Staff Capabilities
+
+Low
+
+Medium
+
+2
+
+Hydrogen Production Failure
+
+Low
+
+Medium
+
+2
+
+Implications to RER due to Hydrail
+
+Low
+
+Medium
+
+2
+
+4.12.4 Opportunities
+4.12.4.1 Incremental Service Introduction
+Electrification requires the infrastructure on each corridor to be completed before electrified services
+can commence.
+With the Hydrail System an electrified service can be introduced incrementally starting from a single
+HFC rail vehicle on a corridor and then building up to a full service over a period of time.
+The benefits of this approach are:
+
+
+The possible earlier introduction of electrified services on any corridor than would be the case
+with electrification which would improve the revenue benefits profile for RER;
+
+
+
+Because there is less up-front fixed CAPEX for the Hydrail System compared to Electrification the
+NPV for Hydrail is more aligned to the profile of the rolling stock delivery, whereas the NPV for
+Electrification is more aligned to the up-front CAPEX. This should create a comparative advantage
+for the Hydrail System in the business case analysis.
+
+
+
+Most of the capital cost for Hydrail System is related to manufacture of the rolling stock and
+therefore this is spread over the production period a longer period over which the capital cost of a
+reduced dependency between the completion of RER infrastructure and the introduction of
+electric rolling stock onto the GO network which could be beneficial in terms of public relations.
+
+4.12.4.2 Advantage of Using Surplus Electricity
+The Hydrail System will generally use surplus baseload electricity generated in the province to
+produce hydrogen and will therefore pay for its power using rates that will not include the GA factor.
+The OCS electrification option will largely use the higher day time rates of electricity that will also
+include the GA.
+Because the Hydrail System will use about 15 percent of the surplus power that is generated it
+potentially could have an impact on the size of the GA that is added to the bills of all Ontario power
+users.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+257
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.12.4.3 Remove Diesel Locomotive Services from the Milton and
+Richmond Hill Corridors
+The rail infrastructure of the Milton and Richmond Hill corridors are not owned by Metrolinx. As a
+result, it is not possible to install overhead electrification infrastructure on these corridors. However,
+the Hydrail System option provides the ability to operate electric train services on these two corridors.
+The benefits of this would be improved RER services being operated on these corridors and a
+reduction in greenhouse gas emissions for the GO network compared to electrification.
+However, there would be additional capital and operating costs for the Hydrail System which would
+need to be assessed against the revenue benefits of providing RER services on these corridors.
+
+4.12.4.4 Hydrail as a Catalyst for the Implementation of a ‘Hydrogen Economy’
+in Ontario
+One of the constraints to the broader adoption of hydrogen as a replacement to fossil fuels as an
+energy carrier is the current limited availability of hydrogen outside of industrial applications.
+An investment in the infrastructure of hydrogen production and storage could be used as a lever by
+the government of Ontario and/or the private sector to make hydrogen available to users outside of
+Metrolinx.
+There is the opportunity for Metrolinx to work with a broad cross-section of government departments
+to develop a strategy similar to that recently published by the South Australia government203 for a
+roadmap for a broader use of hydrogen across Ontario.
+The potential benefits of this are:
+
+
+Sharing of the costs of the fixed infrastructure assets
+
+
+
+Reductions in the use of fossil fuels as energy sources
+
+
+
+Development of businesses and jobs with a hydrogen technology focus
+
+
+
+The development of Ontario as a global leader in the implementation of hydrogen technologies
+
+
+
+Adoption of hydrogen as an energy storage material in combination with renewable energy
+sources and the associated benefits in relation to the stabilization of the electricity grid in response
+to variations in demand.
+
+4.12.4.5 Shared Cost of Fixed Infrastructure
+Hydrogen could also have other applications within Metrolinx that could then use the same hydrogen
+production infrastructure.
+Metrolinx is already considering the use of HFC-powered buses as replacements for its diesel bus
+fleet.
+There is the potential integrate this strategy with the development of the Hydrail System which could
+lead to a shared hydrogen production, storage and refuelling infrastructure.
+
+203 http://ourenergyplan.sa.gov.au/hydrogen.html
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+258
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+In addition, there is the potential to use HFCs as main power sources or back-up power sources for
+Metrolinx’s property portfolio. This could potentially lead to a reduction in operating costs or at least
+improved energy security.
+
+4.12.4.6 Capture of Energy through Regenerative Braking
+All modern electric rail vehicles use their traction motors, working in reverse, as part of the vehicle’s
+braking system. This means that the traction motor is working as a generator. Regenerative braking is
+the ability to capture this electrical energy for a beneficial use.
+With rail vehicles operating in an overhead catenary system this energy is fed back into the grid via
+the vehicle’s pantograph. The amount of energy that is captured in this way is relatively small
+compared to the total potential energy that would be available because there is no resulting benefit
+to the operating of the vehicle and so vehicle’s electrical systems are not optimized for this purpose.
+With the Hydrail System we believe that there is an opportunity to capture a significant additional
+amount of the rail vehicle’s braking energy and to feed it into the batteries and utltracapacitors that
+are part of the hybrid HFC subsystem.
+We would do this by specifically focusing on the design of the rail vehicle’s electrical systems
+(batteries, utltracapacitors and fuel cell) to optimize the amount of energy that can be cost effectively
+captured (that is, within the constraints of space availability and equipment cost).
+By doing this it should be possible to optimize the design of the subsystem to minimize the volume of
+hydrogen that will be consumed on each trip. In this way, it should be possible to increase the overall
+range of the Hydrail rail vehicles from what we can be maximized and the minimize the amount of
+hydrogen that needs to be produced for the overall Hydrail System.
+We plan to investigate this opportunity as part of the HFC Bi-Level EMU and HFC Locomotive projects
+that will be undertaken during Q1 and Q2 2018.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+259
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+5
+
+RER Program Electrification
+
+This section describes the scope of the currently proposed by the RER Program, including the
+proposal for overhead electrification, and the issues that need to be resolved during preliminary
+design and implementation.
+
+5.1
+
+Current RER Program
+
+5.1.1
+
+Scope
+
+The Regional Transportation Plan for the Greater Toronto and Hamilton Area (GTHA), or The Big
+Move, identifies the need for a significant increase in rail service across the GO network. Accordingly,
+the RER program is being planned to provide more frequent, faster, and higher-capacity service204.
+In January 2010, a study of the electrification of the GO rail system was initiated as a future alternative
+to diesel trains currently in service. The objective of the Electrification Study was to provide
+information so that a decision about how GO trains will be powered in the future – using electricity,
+enhanced diesel technology, or other means – can be made, as this fleet propulsion upgrade has a
+key role in delivering the Big Move205.
+The IBC was published in 2015 and scoped the RER program by defining, analyzing, and reporting
+the feasibility of various scenarios for GO RER service and infrastructure206.
+In the RER business case, Scenario 1 (Do Minimum) is the base case that assumes a continuation of
+today’s peak-focussed service patterns and diesel technology. All other scenarios are compared to it.
+Scenario 2 (Two-Way All-Day) and Scenario 3 (10-Year Plan) consider more frequent all-day service,
+looking at the costs and benefits of all-diesel and some limited electrification. Scenario 4 (Full Build) is
+a maximum-build scenario, with frequent all-day service and overhead electrification on all corridors.
+These four scenarios were studied so that different levels of service (LOSs) and infrastructure could be
+assessed and compared to understand if and how they would achieve strategic objectives, how much
+they would cost to build and operate, and how effective they would be at generating benefits, all
+while considering deliverability constraints.
+Scenario 5 (10-Year Plan Optimized) was then developed based on available funds and a 10-year
+build period for delivery (Figure 5-1). This program includes electrification and frequent service on
+most inner corridors207. For the purposes of this feasibility report, Hydrail is assessed against RER
+Scenario 5.
+
+204 Metrolinx. 2017. GO Rail Network Electrification Transit Project Assessment Process Environmental Project Report. Prepared by
+Morrison Hershfield Limited and Gannet Fleming Canada ULC. October 5. Accessed October 2017.
+http://www.gotransit.com/electrification/en/docs/technicalreports/GO percent20Rail percent20Network percent20Electrification
+percent20Environmental percent20Project percent20Report_Volume percent201.pdf.
+205 Metrolinx. 2010. GO Electrification Study Final Report. Prepared by Delcan Arup Joint Venture. December. Accessed October 2017.
+http://www.gotransit.com/electrification/en/project_history/docs/ElectricificationStudy_FinalReport.pdf.
+206 Metrolinx. 2015. GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+207 ibid.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+260
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+To sum up, by 2024, the GO rail network is planned to:
+
+
+Be expanded to enable electrified train service in core system areas at 15-minute frequencies or
+better
+
+
+
+Offer up to four times the current number of train trips during off-peak hours
+
+
+
+Offer twice the current number of trips during peak hours throughout the network208
+
+The scope of the RER project, as described in Scenario 5, involves electrification of the following GO
+rail corridors:
+1. Union Station Rail Corridor (Figure 5-2) – From Union Pearson (UP) Express Union Station to
+Don Yard Layover
+2. Lakeshore West Corridor – From just west of Bathurst Street (Mile 1.20) to Burlington
+3. Kitchener Corridor – From UP Express Spur 8 (at Highway 427) to Bramalea
+4. Barrie Corridor – From Parkdale Junction (off Kitchener Corridor) to Allandale GO Station
+5. Stouffville Corridor – From Scarborough Junction (off Lakeshore East Corridor) to Lincolnville GO
+6. Station
+7. Lakeshore East Corridor – From Don Yard Layover to Oshawa GO Station209
+Electrification of the system is one of the components of the RER program. It is being undertaken in
+parallel with other projects to build all infrastructure needed to increase service210.
+The infrastructure must accommodate the busiest hour of service during the peak-hour period, as well
+as any track occupancy required by other rail operators (freight and intercity services). During the
+peak hours, the number of trains may vary slightly; therefore, the worst-case scenario, or high peak
+hour, was used to develop the infrastructure requirements for the 10-year plan (Scenario 5)211.
+
+208 Metrolinx. 2017. GO Rail Network Electrification Transit Project Assessment Process Environmental Project Report. Prepared by
+Morrison Hershfield Limited and Gannet Fleming Canada ULC. October 5. Accessed October 2017.
+http://www.gotransit.com/electrification/en/docs/technicalreports/GO percent20Rail percent20Network percent20Electrification
+percent20Environmental percent20Project percent20Report_Volume percent201.pdf.
+209 ibid.
+210 ibid.
+211 Metrolinx. 2015. GO RER Initial Business Case. Accessed October 2017.
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+261
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 5-1 SCENARIO 5 EXTENT OF ELECTRIFICATION212
+
+212 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+262
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 5-2 SCENARIO 5 PRELIMINARY INFRASTRUCTURE CONSIDERATIONS FOR THE UNION STATION RAIL
+CORRIDOR213
+
+Figure 5-1 gives us an idea of the breadth of the civil works required to implement the electrification
+infrastructure. Further to the overhead catenary system itself, there are signal immunization services to
+be implemented, traction power stations to be built, modifications that need to be made to existing
+stations, and changes required for existing bridges and layover facilities.
+
+5.1.2
+
+Train Service Plan
+
+All-day EMU services would operate every 15 minutes to Aldershot, Bramalea, Aurora, Unionville, and
+Oshawa; with hourly services to Hamilton (diesel, express Oakville-Union), Barrie (EMU, express
+Aurora-Union), and Mount Joy (EMU, as an extension of one in four Unionville trains). Milton and
+Richmond Hill would remain peak-only diesel corridors214.
+Table 5-1 provides a summary of the Scenario 5 train service plan, by corridor. Figure 5-3 shows the peak
+periods, while Figure 5-4 shows off-peak periods.
+
+213 ibid.
+214 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+263
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 5-1 SCENARIO 5 SUMMARY OF SERVICES215
+Lakeshore West
+Scenario 5
+(10-year Plan
+Optimized)
+
+Electrification with
+EMUs; Diesel to
+Hamilton
+
+Richmond Hill
+
+Kitchener
+
+Lakeshore East
+
+Milton
+
+Electrification with
+EMUs
+
+Do Minimum – Peak
+Only as Existing
+
+Do Minimum –
+Barrie
+EMUs to Bramalea;
+Peak-only
+Peak-only Diesel to Electrification with Commuter Rail
+Kitchener
+EMUs
+as Existing
+
+Stouffville
+Electrification with
+EMUs
+
+Peak Service – As Capacity added to
+existing plus
+match demand
+
+Capacity added to
+match demand
+
+Capacity
+constrained
+
+Capacity
+Capacity added to Capacity
+Capacity added to
+constrained beyond match demand
+added to
+match demand
+Bramalea; UPX
+match demand
+every 15 minutes
+(EMU)
+
+All-day service –
+Inner
+
+Every 15 minutes
+Aldershot – Oshawa
+(EMU)
+
+Every 15 minutes
+Aldershot – Oshawa
+(EMU)
+
+Peak-only service
+
+Every 15 minutes
+Every 15 minutes
+Bramalea (EMU); UP Aurora (EMU)
+Express every 15
+minutes
+
+All-day service Outer
+
+Hourly all-day
+Hamilton (diesel);
+Express from
+Oakville
+
+-
+
+-
+
+Peak-only service
+
+Hourly all day
+Barrie (EMU);
+Express from
+Aurora
+
+Peak-only
+service
+
+Every 15 minutes
+Unionville (EMU)
+
+-
+
+One train per hour
+extended to Mount
+Joy
+
+Notes:
+- = not applicable
+
+215 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+264
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 5-3 SCENARIO 5 PROPOSED SERVICE CONCEPT – PEAK PERIODS216
+
+216 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+265
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 5-4 SCENARIO 5 PROPOSED SERVICE CONCEPT – OFF-PEAK PERIODS217
+
+5.1.3
+
+Procurement of Rolling Stock
+
+Passenger rail rolling stock is traditionally built in fleets customized for a specific application. This is
+because, although there are standard technical platforms, railways differ sufficiently in local technical
+and environmental requirements. In comparison with automobile or even aircraft manufacture,
+production runs are considered small218.
+In Scenario 5, approximately 140 EMU cars would be required for the Lakeshore route, and
+approximately 30 cars for each additional electrified route.
+Procurement of a new rolling stock fleet is assumed to take 4 to 8 years, although it may be possible
+to reduce this timeframe. The process entails:
+
+
+Development of the customer requirements (car size, configuration of doors, seats)
+
+
+
+Definition of detailed technical requirements
+
+
+
+Definition of procurement contracting structure and finance
+
+
+
+Option of long-term maintenance contract with extended warranty
+
+
+
+Tender preparation period
+
+217 ibid.
+218 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+266
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Tender evaluation, negotiation, and award
+
+
+
+Fundraising and financial close (if privately financed)
+
+
+
+Final design and approval
+
+
+
+Establishment of manufacturing arrangements
+
+
+
+Car manufacture
+
+
+
+Testing and commissioning
+
+It is possible to get small fleets faster if there is an existing off-the-shelf design, and if trains can be
+purchased as an add-on to an existing order.
+Additional time may be required if:
+
+
+There is no off-the-shelf design
+
+
+
+The design is not already approved by regulatory authorities
+
+
+
+The customer wishes to facilitate local manufacture
+
+
+
+AFP methods are to be used219
+
+219 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+267
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+5.2
+
+RER Electrification Infrastructure Extent and Possible
+Scope Changes due to Hydrail
+
+Table 5-2 summarizes the key infrastructure requirements for the traditional electrification of the GO
+network, as well as the description of each category, and the extent of the required equipment and
+services. Information is also provided on the infrastructure required for Hydrail deployment.
+TABLE 5-2 SUMMARY OF KEY INFRASTRUCTURE REQUIREMENTS FOR RER ELECTRIFICATION
+Category
+Line side
+equipment
+
+Implementation
+
+Type
+OCS
+
+Description
+The overhead power distribution
+system consists of:
+
+
+Contact and supporting wires
+
+
+
+Supporting gantries, foundations,
+anchors, guys, braces, and similar
+reinforcing attachments
+
+DATE: 02/02/2018
+
+Required for
+Hydrail
+
+250-km length of corridor
+
+No
+
+Substations
+
+A typical traction power substation
+includes power utility interface
+equipment, disconnect switches,
+circuit breakers, traction power
+transformers, switchgear, control
+equipment, and auxiliary system.
+
+Four new facilities
+
+No
+
+Maintenance
+and renewal
+
+Maintenance and renewal of the
+OCS and substation components
+due to performance degradation,
+design life, and failure.
+
+Regular cycle of
+preventative maintenance
+and renewal work
+
+No
+
+Utilities
+diversions
+
+The need to relocate away from the
+rail corridor existing utilities that
+physically or electrically interfere
+with the OCS
+
+The scope of work is not
+explicitly identified in the
+IBC
+
+No
+
+Vegetation
+clearing
+
+The installation and operation of the
+OCS requires a 7-m vegetation
+clearing zone from the centre of the
+outermost track.
+
+The scope of work is not
+explicitly identified in the
+IBC
+
+No
+
+Property
+acquisition
+
+A typical substation adjacent to the
+rail corridor would require an area of
+approximately 45 m by 100 m, which
+may need to be acquired for this
+project.
+
+The scope of work is not
+explicitly identified in the
+IBC
+
+No
+
+Operational
+disruption
+
+The impacts of undertaking
+construction work in live rail
+corridors will include:
+
+The scope of work is not
+explicitly identified in the
+IBC
+
+No
+
+
+
+CPG-PGM-RPT-245
+
+Required for RER
+Electrification
+
+Ad hoc replacement of
+failed components
+
+Property might
+need to be
+acquired for
+Hydrail, but there
+is more flexibility
+on location
+
+Undertaking work during nighttime and out of peak possessions
+where only a few hours of work
+can be completed on any one
+occasion, but t his style of work is
+
+268
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 5-2 SUMMARY OF KEY INFRASTRUCTURE REQUIREMENTS FOR RER ELECTRIFICATION
+Category
+
+Type
+
+Description
+
+Required for RER
+Electrification
+
+Required for
+Hydrail
+
+inefficient and adds a significant
+overhead cost
+
+Rail vehicle
+
+DATE: 02/02/2018
+
+Closing sections of track for
+extended periods of time enables
+the work to be carried out
+efficiently on that section, but it
+means that there are reduced
+services over that section
+
+
+
+Closing sections of a corridor for
+extended periods of time enables
+extensive work to be undertaken
+as quickly as possible, but it
+means that replacement bus
+services need to be put into
+operation for that period
+
+Infrastructure
+modification
+
+Modifications and rebuilding of
+bridges and station canopies to gain
+sufficient vertical clearance for OCS
+installation
+
+Requires 39 interventions
+to modify stations, 19
+bridge clearance
+interventions, and 2 bridge
+rebuild interventions
+
+No
+
+Electrical
+immunization
+of signalling
+and other
+systems
+
+Modifications to the signal system
+and other electrical systems to
+immunize them against the effects of
+electromagnetic interference
+
+A cost for this of $703
+million has been included
+in the IBC
+
+No
+
+Electric
+locomotives
+
+Electric locomotives will be used to
+replace the existing diesel
+locomotives to pull the existing
+unpowered BL carriages; t he electric
+locomotives will have enhanced
+performance characteristics to meet
+RER service requirements.
+
+35 units (in 2024)
+
+Yes
+
+EMUs
+
+Might be used as part of the RER
+fleet to provide the additional peak
+and off-peak services that are
+defined in RER.
+
+84 four-car sets (2024)
+
+The periodical preventive
+maintenance activities required for
+the efficient use of rail vehicles
+includes daily cleaning, regular
+maintenance and inspection, and the
+replacement of mechanical
+components. It also includes the
+additional effort to maintain rail
+vehicles (cleaning, brakes, air dryers,
+pantograph carbon strips, and
+motors) due to winter weather.
+
+Comprehensive nonmechanical refurbishment
+every 8 years
+
+Maintenance
+
+CPG-PGM-RPT-245
+
+
+
+269
+
+Hydrail requires
+an electric
+locomotive for
+every six
+carriages
+Yes
+Hydrail may
+require additional
+unpowered
+coaches to obtain
+the required
+seating capacity
+Partially
+External
+mechanical and
+electrical
+components
+related to the
+pantograph are
+not required
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 5-2 SUMMARY OF KEY INFRASTRUCTURE REQUIREMENTS FOR RER ELECTRIFICATION
+Category
+
+Type
+Workforce
+training
+
+Required for RER
+Electrification
+
+Description
+Professional qualification training
+required for staff who will be
+operating and maintaining the
+electric rail vehicles.
+
+The scope of work is not
+explicitly identified in the
+IBC
+
+Required for
+Hydrail
+Yes
+Staff will need to
+be trained in the
+maintenance of
+hybrid HFC
+systems
+
+Notes:
+IBC = Initial Business Case
+
+m = metre
+
+km = kilometre
+
+OCS = Overhead Contact System
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+270
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+6
+
+Recommended Next Steps
+
+This section recommends actions arising from the findings within this report, in relation to the further
+development of the Hydrail System, in relation to the broader questions that inter-relate with the
+Provincial government, and in relation to the development of the RER DBFOM.
+
+6.1
+
+Actions to Further Develop Hydrail
+
+The proposed next steps for the development of the Hydrail System are focussed on the need to
+maintain alignment between the development of Hydrail and the preparation activities for the RER
+DBFOM procurement.
+The primary objective of the proposed next steps is to enable the design of the whole Hydrail System
+to be taken forward to conceptual design level so that by the time the DBFOM bidders start to
+prepare their bids they will have access to high quality information about the design and operation of
+the Hydrail System. This will enable the DBFOM bidders to more accurately assess the risks and
+benefits of Hydrail in comparison with electrification than would otherwise be the case.
+In particular, it is proposed that further work is undertaken in those areas of the Hydrail System where
+the DBFOM bidders are likely to want a greater level of certainty than currently exists, at the
+completion of the feasibility study. These are:
+
+
+Refine the Hydrail System design in terms of system size, based on a more accurate representation
+of the system configuration in the Operational Simulation model;
+
+
+
+Comission concept designs for a HFC EMU, a HFC Locomotive and the hydrogen production,
+hydrogen storage and hydrogen fuelling subsystems;
+
+
+
+Identify preferred options for location of hydrogen production facilities for each corridor;
+
+
+
+Confirm how the Hydrail System would function as an operational railway, particularly in areas
+such as maintenance and refuelling;
+
+
+
+Confirm the capital and operating cost estimates of the whole Hydrail System based on further
+engagement with component vendors and a more formal approach to estimating infrastructure
+and vehicle delivery costs;
+
+
+
+Confirm how the Hydrail System could be implemented through its development and build
+phases and particularly the transition plan of Hydrail into revenue service across the GO network;
+
+
+
+Develop a Safety Case roadmap for Hydrail based on consultation with Transport Canada and
+organizations responsible for maintaining and developing hydrogen related safety standards;
+
+
+
+Build and operate a small-scale prototype of the Hydrail System including an HFC Locomotive.
+
+6.1.1
+
+System Size
+
+The definition of the Hydrail System presented in this feasibility study is based on modelling work that
+simulates how the whole system will operate every day. The Operational Simulation Model has been
+specifically designed to simulate the performance of each of Hydrail’s subsystems and the design is
+based on the following principles:
+
+
+The fleet mix and train service pattern defined as Scenario 5 of the IBC for RER has been used to
+calculate the peak and average power requirements for train trips on each GO corridor;
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+271
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+This data is used to size (power and physical dimensions) the fuel cell and batteries on the rail
+vehicles;
+
+
+
+This in turn determines how much hydrogen is required to operate the train for each trip, which
+enables the total volume of hydrogen that is needed each day to be calculated;
+
+
+
+From this the size of the electrolyzer components has been calculated, and
+
+
+
+From this the amount of electrical power required each day for the Hydrail System has been
+calculated.
+
+At each step in this process, assumptions have been made about the:
+
+
+RER GO network infrastructure and train services from 2025 onwards, and
+
+
+
+Functional performance of each of the components in the Hydrail subsystems
+
+It has been necessary to make these assumptions because:
+
+
+The scope of RER has been developing in parallel to the Hydrail feasibility study, and
+
+
+
+Our access to data on forecast component functional performance has been based on estimates
+from a limited number of industry sources.
+
+It is considered by the Hydrail team that many of the assumptions in the model are quite conservative
+and therefore it is the team’s view that it would be beneficial to undertake further work to improve the
+accuracy of the model’s outputs.
+We intend to do this by:
+
+
+Improving the sophistication of the model’s algorithms to more accurately simulate the power
+requirements of the rail vehicles;
+
+
+
+Cross-referencing the algorithms in the model with those being used by the rail vehicle
+manufacturers who are participating in the HFC Bi-Level EMU Concept Design and HFC
+Locomotive Concept Design projects, and
+
+
+
+Obtaining access to actual component performance data from a range of manufacturers.
+
+6.1.2
+
+Subsystem Concept Designs
+
+Even though the feasibility study concludes that there are no technology-related flaws with Hydrail
+and that all elements required to assemble this system already exist elsewhere in similar applications,
+the scale of Hydrail is bigger than anything that has currently been implemented. As a consequence,
+there are technical areas of the Hydrail System definition where the levels of uncertainty need to be
+reduced so that the risk profile of these areas is comparable to those of the overhead catenary system
+solution.
+By undertaking subsystem concept designs a much more precise sizing of all the components of the
+overall Hydrail System will be achieved. For example, it would enable us to demonstrate how the
+expected fuelling time can be achieved and to assess the way in which a Hydrail network could be
+operated and maintained.
+This reduces these risks so that the DBFOM bidders will be better able to assess the risks and benefits
+of Hydrail in comparison with electrification.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+272
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Therefore, we intend to initiate engineering concept design studies of:
+1. A HFC bi-Level EMU. A procurement process is already underway to commission a number of rail
+vehicle manufacturers to produce concept designs that integrates a hybrid fuel cell system into
+their existing bi-level EMU models. The output of this work will provide valuable information on
+whether the performance of the HFC bi-level EMU will meet the RER requirements, the range of
+the vehicle between refueling, the likely unit price of the vehicle and the phases in the
+development of production models;
+2. A HFC Locomotive. A procurement process has started to commission a number of rail vehicle
+manufacturers to produce concept designs that integrates a hybrid fuel cell system into their
+existing electric locomotive models. The output of this work will provide the same range of useful
+information as for the HFC bi-level EMU;
+3. A hydrogen production and storage facility of a size that would be needed for one of the GO
+corridors. This will provide us with equipment layout information and component sizing and an
+understanding of how the facility will be connected to the electricity grid;
+4. A hydrogen refuelling and dispensing facility of a size that would be needed to refuel an HFC EMU
+fleet and an HFC locomotive fleet. This will also provide us with equipment layout information and
+component sizing and an understanding of how the facility will operate in its interface with the rail
+vehicles. In particular, it would be designed to achieve the objective of a refuelling time that meets
+the fleet operation and maintenance expectations of Metrolinx.
+We intend to undertake this work by assembling a team of consultants, government agencies and
+universities that we have already engaged with during the feasibility study who have specialist
+knowledge and capabilities in these areas. This work wouldbe project managed by the existing
+Metrolinx Hydrail team.
+
+6.1.3
+
+Hydrogen Production Location Identification
+
+One of the key variables in the configuration of the Hydrail System are the proposed locations for the
+hydrogen production facilities. The factors that will need to be considered in deciding on these
+locations include:
+
+
+The area required for the facility (this has been covered by the work described above)
+
+
+
+The locations for rail vehicle stabling facilities in the RER program
+
+
+
+Land that is currently available within Metrolinx’s ownership that could be suitable for such a
+facility
+
+
+
+Land that is outside Metrolinx’s ownership but is close to the proposed rail vehicle stabling
+facilities
+
+
+
+Land that is suitable for such a facility that is located at some distance from the rail network and
+would be suitable to enable transportation of hydrogen by truck or pipeline to the rail network
+
+
+
+The potential to expand the facility for hydrogen production use beyond that required for
+Metrolinx’s Hydrail
+
+
+
+The planning and permitting constraints that would relate to any identified land
+
+
+
+The cost of purchase and/or remediation of any identified land
+
+We intend to undertake work that will identify a range of options for the hydrogen production
+locations to enable the Hydrail system to function in both its Scenario 5 and full network
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+273
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+configurations. We will then assess these options using the criteria of capital cost, operating cost and
+planning feasibility and determine the optimized solution.
+The team undertaking this work will include Metrolinx property staff and RER fleet maintenance
+planning staff.
+
+6.1.4
+
+Operational Functionality
+
+Although the feasibility study has not identified any flaws in how GO would operate using a Hydrail
+System, there are operational processes that need to be considered in more detail to give DBFOM
+bidders sufficient assurance that it is feasible to operate. These processes include:
+
+
+Cyclical maintenance and renewal regimes for the rail vehicle subsystem
+
+
+
+Refuelling the trains as part of the end of day processes
+
+
+
+Management of degraded rail vehicle operability due to failure of a component within the hybrid
+HFC subsystem
+
+
+
+Response to degraded rail services that prevents access to a refuelling facility
+
+
+
+Start of day and end of day routines for the rail vehicle subsystem
+
+
+
+Operational and maintenance routines for the hydrogen production, storage and transportation
+subsystems
+
+We intend to create system diagrams for each of these processes so that it is clear how a Hydrail
+System would integrate with the railway operational processes that DBFOM bidders will be familiar
+with from operating railway systems based on overhead catenary system of electrification.
+
+6.1.5
+
+Cost Estimates
+
+The feasibility study has identified all the key capital and operating cost components in the Hydrail
+System. The cost values that have been used in the Operational Simulation Model have been
+obtained for information provided by discussions with industry sources and have been validated
+against published data.
+As a result of the further system sizing work, concept design work and hydrogen production facility
+location work that we have identified above it will be possible to undertake a more formal cost
+estimating exercise of the capital and operating costs. This will also be accompanied by a quantified
+risk assessment to more accurately evaluate the forecast cost distribution for different risk parameters.
+As part of this process there will be a further evaluation of the forecast prices of electricity that it is
+appropriate to use in the calculation of the Hydrail System’s operating cost.
+
+6.1.6
+
+Implementation Plan
+
+Section 4.11 of this report provides an initial view of how the Hydrail System could transition into initial
+operation. As stated in that section there are many interdependencies of a physical and a timing
+nature between the RER program’s infrastructure upgrades and the Hydrail System.
+We intend to work with the RER planning team so that we can create a more detailed transition
+scenario that integrates with the proposed sequence of infrastructure work and identifies:
+
+
+Which corridor would be best suited for the initial testing of the HFC rail vehicles
+
+
+
+Which corridor would be best suited for the initial revenue service
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+274
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+The preferred sequence of corridors that would then introduce the service and how this would
+relate to the incremental build of the hydrogen production, storage and dispensing facilities
+
+6.1.7
+
+Safety Case Roadmap
+
+Section 4.6 of this report provides an overview of the existing codes and standards that apply to
+hydrogen systems and identifies the need to undertake work that will:
+
+
+Assess the risks relating to the operation of the Hydrail System
+
+
+
+The development of further codes and standards for the operation of the Hydrail System
+particularly in relation to the refuelling subsystem and the rail vehicle subsystem
+
+During the feasibility study the Hydrail team has commenced engagement with Transport Canada and
+held initial discussions with them about evaluating the safety risk of the Hydrail System concept.
+In taking forward this area of work the Hydrail team intends to form a working committee that will
+include Transport Canada, TSSA, CSA, the Canadian Hydrogen Installation Code Standards
+Committee and equivalents in the United States. The objective of this group will be to develop a
+pathway for the development of a full suite of codes and standards that will apply to Hydrail.
+
+6.1.8
+
+Prototype Hydrail System
+
+Irrespective of how much systems modelling and concept design work is undertaken the complete
+viability of the Hydrail System can only be demonstrated by designing, building and operating an
+example of the complete end to end system.
+At the conclusion of the above activities Metrolinx intends to:
+
+
+Commission the building of a single prototype HFC Locomotive that can enter revenue service
+
+
+
+Commission the development and prototyping of the refueling and hydrogen production subsystems that can work with the prototype HFC Locomotive.
+
+Operating this prototype Hydrail System over an extended period will enable Metrolinx to learn
+valuable lessons concerning Hydrail System’s operations, performance and reliability which can then
+be fed back into the design and implementation planning of a full Hydrail System.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+275
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+6.2
+
+Actions to Align the Hydrail System with Provincial
+Government Policy
+
+6.2.1
+
+Electricity Price Policy
+
+As outlined in Section 4.4, the calculation of the net present value of the operating cost of the Hydrail
+System is sensitive to the forecast hourly prices of electricity from 2025 onwards. For the Hydrail
+System to retain its BCR equivalence to the conventional overhead electrification system, the
+differential between the average off-peak price of electricity to the average peak price of electricity
+needs to remain at the level used in this analysis (which is: off-peak = 0.4 x peak).
+Therefore, any narrowing of the differential between the price of electricity paid by Hydrail and that
+for conventional electrification would weaken the economic case for Hydrail. Due to the many
+variables that could influence the price of off-peak electricity in the future this is considered to be a
+highly significant risk (as described in 4.12.3.1).
+As a consequence, this risk needs to be mitigated to avoid DBFOM bidders including a substantial
+risk premium into their operating cost calculations for the Hydrail System. A recommended next step
+is therefore for Metrolinx to engage with the provincial government to determine if it is possible to
+define, or pre-establish, the cost of electricity relating to the Hydrail System.
+
+6.2.2
+
+Hydrogen Economy
+
+As outlined in Section 4.9.1, there are opportunities for the Hydrail System to be a catalyst for the
+broader adoption of hydrogen in the Ontario economy. As described in Section 4.12.4.4, the benefits
+of this Hydrogen Economy concept could be:
+
+
+Sharing of the costs of implementing the fixed infrastructure assets
+
+
+
+Reductions in the use of fossil fuels as energy sources
+
+
+
+Development of businesses and jobs with a hydrogen technology focus
+
+
+
+The development of Ontario as a global leader in the implementation of hydrogen technologies
+
+
+
+Adoption of hydrogen as an energy storage material in combination with renewable energy
+sources and the associated benefits in relation to the stabilisation of the electricity grid in response
+to variations in demand.
+
+Taking forward the development of those opportunities, which are beyond Metrolinx’s transportation
+mandate, will require consideration and guidance from the provincial government, and potentially
+part of a broader “hydrogen roadmap”. A recommended next step is therefore to work with the
+provincial government to develop a cross-government business case for an Ontario Hydrogen
+Economy.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+276
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+6.3
+
+Actions to Integrate the Hydrail System into the
+DBFOM Procurement Process
+
+As stated at the start of Section 6.1 one of the objectives of the “Recommended Next Steps” is to
+provide high quality information on the Hydrail System to the DBFOM bidders.
+As such the Hydrail team will work with the Metrolinx team that is managing the DBFOM procurement
+process over the course of 2018 to ensure that the activities to further develop the Hydrail System
+concept are aligned with the DBFOM’s timescales and objectives.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+277
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+7
+
+References
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Abuelsamid, Sam. 2017.
+
+“GM Teams Up With Honda To Manufacture Fuel Cells Near Detroit. Autos/#UnderTheHood.”
+Forbes. January 30. Accessed November 2017.
+https://www.forbes.com/sites/samabuelsamid/2017/01/30/gm-and-honda-form-joint-ventureto-manufacture-fuel-cells-near-detroit/#2d388c438a93
+
+Air Products and
+Chemicals, Inc. 19962017.
+
+Frequently Asked Questions. Accessed October 2017.
+http://www.airproducts.com/industries/Energy/Power/Power-Generation/faqs.aspx
+
+Air Products and
+Chemicals, Inc. 2017.
+
+“Air Products’ California Fueling Stations Offering Hydrogen Below $10 Per Kilogram.” News
+Release. Lehigh Valley, Pa. March 6. Accessed November 2017.
+http://www.airproducts.com/Company/news-center/2017/03/0306-air-products-californiafueling-stations-offering-hydrogen-below-$10-per-kilogram.aspx
+
+Air Resources Board.
+2005.
+
+Marketing, Communications, and Public Education Topic Team Report, California 2010
+Hydrogen Highway Network. California Environmental Protection Agency. January 5. Accessed
+November 2017.
+https://www.arb.ca.gov/msprog/zevprog/hydrogen/documents/historical/pubedreport.pdf
+
+Air Resources Board.
+2017a.
+
+California's Hydrogen Transportation Initiatives. California Environmental Protection Agency.
+October 27. Accessed November 2017.
+https://www.arb.ca.gov/msprog/zevprog/hydrogen/hydrogen.htm
+
+Air Resources Board.
+2017b.
+
+2017 Annual Evaluation of Fuel Cell Electric Vehicle Deployment and Hydrogen Fuel Station
+Network Development. California Environmental Protection Agency. August. Accessed
+November 2017. https://www.arb.ca.gov/msprog/zevprog/ab8/ab8_report_2017.pdf
+
+Alstom. 2017.
+
+"Alstom’s hydrogen train Coradia iLint first successful run at 80 km/h." Press Centre. March, 14.
+Accessed November 2017. http://www.alstom.com/press-centre/2017/03/alstoms-hydrogentrain-coradia-ilint-first-successful-run-at-80-kmh
+
+California 2010 Hydrogen
+Highway Network ars
+Technica. 2017.
+
+Amazon will replace some of its battery forklifts with hydrogen fuel cell ones. Conde Nast. April
+5. Accessed October 2017. https://arstechnica.com/information-technology/2017/04/amazonwill-replace-some-of-its-electric-forklifts-with-hydrogen-fuel-cell-ones/
+
+Cargnelli, Joseph, Chief
+Technology Officer,
+Hydrogenics. 2017.
+
+Personal communication (via teleconference) with Nirmal Gnanapragasam Canadian Nuclear
+Laboratories. August 16.
+
+Ballard Power Systems
+(Ballard). 2017.
+
+"Ballard Powered Fuel Cell Electric Bus Achieves 25,000 Hours of Revenue Operation."
+Newsroom. August. Accessed October 2017. http://ballard.com/aboutballard/newsroom/news-releases/2017/08/29/ballard-powered-fuel-cell-electric-bus-achieves25-000-hours-of-revenue-operation
+
+BASF We create
+chemistry. 2017.
+
+“Beating the Battery Barrier.” New Scientist. Issue 3144. September 23. Accessed November
+2017. https://www.newscientist.com/article/mg23531440-100-beating-the-battery-barrier/.
+
+Bloomberg L.P. 2017.
+
+China's Buses Bolster Ballard's Three-Decade Quest for Hydrogen. Natalie Obiko Pearson,
+author. March 26. Accessed October 2017. https://www.bloomberg.com/news/articles/201703-26/china-s-buses-bolster-ballard-s-three-decade-quest-for-hydrogen
+
+Brightling, J. 2014.
+
+"A long history in steam reforming at Billingham." Nitrogen+Syngas. 327. pp. 46-50. JanuaryFebruary. Accessed October 2017. http://www.jmprotech.com/pdfs-library/NS327_Steam_Reforming.pdf
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+278
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 7-1 REFERENCES
+Reference
+
+Document Title
+
+Brouillette, Marc. 2016a.
+
+Ontario’s Emissions and the Long-term Energy Plan: Phase 1 – Understanding the Challenges.
+Strategic Policy Economics. November. Accessed November 2017.
+https://strapolec.ca/uploads/Ontario_s_Emissions_and_the_LTEP__Phase_1_Final_Report_November_2016.pdf
+
+Brouillette, Marc. 2016b.
+
+Ontario’s Emissions and the Long-Term Energy Plan; Phase 2 Meeting the Challenge. Strategic
+Policy Economics. December. Accessed October 2017.
+https://www.generationenergy.ca/images/documents/Strapolec%20%20Ontarios_Emissions_and_the_LTEP_-_Ph_2_Report_Final_December_2016.pdf
+
+Buttler, A., and H.
+Spliethoff. 2017.
+
+Current status of water electrolysis for energy storage, grid balancing and sector coupling via
+power-to-gas and power-to-liquids: A review. September 9. Accessed October 2017.
+http://www.sciencedirect.com/science/article/pii/S136403211731242X.
+
+California Environmental
+Protection Agency. 2005.
+
+California Hydrogen Blueprint Plan – Volume 1. May. Accessed November 2017.
+http://www.casfcc.org/2/StationaryFuelCells/PDF/CA%20Hydrogen%20Highway%20Blueprint
+%20Volume%201_050505.pdf
+
+CALSTART, Inc. 2017.
+
+Best Practices in Hydrogen Fueling and Maintenance Facilities for Transit Agencies, presented
+at the Ohio Fuel Cell Symposium. March.
+
+Campbell, R., Chief
+Commercial Officer,
+Ballard Power. 2017.
+
+Personal communication with Nirmal Gnanapragasam Canadian Nuclear Laboratories.
+
+Canadian Hydrogen and
+Fuel Cell Association
+(CHFCA). 2016.
+
+Case Study - Walmart Canada Fuel Cell Forklift Fleet. Accessed October 2017.
+http://www.chfca.ca/say-h2i/materials-handling/walmart-canada-fuel-cell-forklift-fleet
+
+Casey, Tina. 2015.
+
+"Boom! China Adds 333 Fuel Cell Electric Buses." CleanTechnica. September 29. Accessed
+October 2017. https://cleantechnica.com/2015/09/29/boom-china-adds-333-fuel-cell-electricbuses/
+
+Clean Energy Partnership
+(CEP). 2017a.
+
+"What is the CEP." Clean Energy Partnership. Accessed October 2017.
+https://cleanenergypartnership.de/en/clean-energy-partnership/what-is-the-cep/
+
+Clean Energy Partnership
+(CEP).
+
+2017b. 2002-2016 Clean Energy Partnership. Accessed October 2017.
+https://cleanenergypartnership.de/fileadmin/Assets/06_h2-mediathek/_pdfdownload/CEP_Abschlussdokumentation_EN.pdf
+
+Comond O, D. Perreux, F.
+Thiébaud, P. Delobelle, D.
+Chapelle, P. Robinet, M.
+Weber, and H.
+Barthelemy. 2009.
+
+Analysis of the fatigue life of hydrogen high pressure tanks. FEMTO-ST - Franche-Comté

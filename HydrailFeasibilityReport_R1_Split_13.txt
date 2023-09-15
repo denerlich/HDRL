@@ -1,0 +1,2000 @@
+
+Leak in pipe wall
+or fittings
+
+Release of H2
+
+Same potential hazards as small
+opening (crack or hole) failure in the
+storage tank.
+
+Same preventative measures as small opening (crack or hole)
+failure in the storage tank.
+
+Storage tank
+
+
+
+Select materials that are less susceptible to hydrogen
+embrittlement (low carbon, low allow and low strength
+steels are less susceptible)
+
+223 Air ingress due to an accident, tank was not purged of air, or air was added to the hydrogen supply line
+224 Failure can be due to hydrogen embrittlement, corrosion due to exposure to the elements, over pressurization or external forces
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+301
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-2 HAZARD ASSESSMENT OF GASEOUS HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+Pipes/Valves/TP
+RD/PRD
+
+Failure
+Flow
+blockage225
+
+Consequence
+Components
+upstream of the
+blockage will
+pressurize.
+
+Potential Hazard
+Upstream component protected by
+a PRD or Pressure relief valve:
+
+
+Same potential hazards as for
+activation of a TPRD/PRD device.
+
+Preventative Measure
+
+
+Foreign material exclusion program
+
+
+
+Valve failure can introduce foreign materials into the
+hydrogen transport system
+
+
+
+Prevent moisture building in the hydrogen transport system
+or ensure hydrogen transport system are above freezing
+point of water.
+
+Upstream component not protected
+by a PRD or pressure relief
+valve226:
+
+
+TPRD/PRD
+TPRD/PRD are
+assumed to be
+piped to be
+discharged into
+the
+environment.
+
+Activation and
+also false
+activation (when
+pressure is at or
+below design
+pressure)
+
+Release of
+hydrogen
+
+The upstream device will overpressurize and fail. Same
+potential hazards as small and
+large opening (crack or hole)
+failures in the storage tank.
+
+The potential hazards are the same
+as for small and large opening (crack
+or hole) failures in the storage tank
+in an unconfined space.
+
+Same preventative measures as small and large opening (crack
+or hole) failures in the storage tank, with these additional
+preventative measures:
+
+
+Sizing of venting rate from TPRD/PRD to limit the size of the
+hydrogen cloud during discharge.
+
+
+
+Direction of the vent should be away from people (and
+other energy sources and control/safety systems)
+
+
+
+Protection from environment (e.g. ice buildup)
+
+
+
+Periodic functionality testing (this may not be possible as
+these devices are designed to remain open once they are
+activated).
+
+
+
+Warning system for activation of TPRD/PRD
+
+225 Foreign material inside the pipe (valves, TPRD/PRD) or pipe walls are crushed together.
+226 For example, the flow blockage occurs on the downstream piping of a TPRD/PRD (which is protecting the storage tank)
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+302
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-2 HAZARD ASSESSMENT OF GASEOUS HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+TPRD/PRD
+
+Failure
+Fails to activate
+when needed
+
+Consequence
+
+Potential Hazard
+
+Tank overpressurizes until
+either the tank wall
+cracks or a fitting
+fails.
+
+Same potential hazards as small and
+large opening (crack or hole) failures
+in the storage tank, with the
+following additional potential
+hazards:
+
+
+Pressure gauge
+
+Valves on
+supply side
+
+Incorrect pressure
+reading
+
+Fail open
+
+Catastrophic failure of a Type I
+or II storage tank resulting in:
+1.
+
+Pressure pulse can damage
+nearby humans and
+equipment
+
+2.
+
+Projectiles
+
+Tank or pipes are
+over-pressurized
+and TPRD/PRD
+activates
+
+Same potential hazards as for
+TPRD/PRD.
+
+Tank will continue
+to be filled until its
+pressure is equal to
+the supply line
+pressure. Worst
+case scenario is the
+TPRD/PRD
+activates.
+
+Same potential hazards as for
+TPRD/PRD.
+
+Preventative Measure
+Same preventative measures for activation of TPRD/PRD, with
+the following additional preventative measure:
+
+
+Protection from missiles for surrounding
+personnel/equipment.
+
+
+
+Protection from pressure pulse for surrounding
+personnel/equipment.
+
+The preventative measures are the same as for TPRD/PRD, with
+one additional preventative measures:
+
+
+Periodic inspection/testing of pressure gauge
+
+The preventative measures are the same as for TPRD/PRD, with
+one additional preventative measures:
+
+
+Periodic inspection/testing of valve
+
+Valve on supply
+side
+
+Fail closed
+
+None – system
+designed for valve
+to be closed.
+
+(left blank)
+
+Periodic inspection/testing of valve
+
+Valves on
+demand side
+
+Fail open
+
+Unwanted
+discharge of
+hydrogen (possibly
+in a location with
+people)
+
+If the discharge end is open, then
+the potential hazards for the
+discharge end is the same as the
+potential hazards for small and large
+opening (crack or hole) failures in
+the storage tank.
+
+If the discharge end is open, then the preventative measures for
+the discharge end is the same as the preventative measures for
+small and large opening (crack or hole) failures in the storage
+tank, with the following additional preventative measures:
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+303
+
+
+
+Redundant valves (e.g. two valves need to be opened to
+allow hydrogen flow)
+
+
+
+Exclusion zone to limit personnel may not be possible as
+regular work may occur at the discharge end. So, additional
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-2 HAZARD ASSESSMENT OF GASEOUS HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+Preventative Measure
+safety systems will need to be in place to protect against
+unexpected hydrogen discharges.
+
+Fittings for
+valves/ gauges/
+PRV/TPRD/PRD
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Leak
+
+leak of hydrogen
+
+Same potential hazards as small
+opening (crack or hole) failure in the
+storage tank.
+
+304
+
+Same preventative measures as small opening (crack or hole)
+failure in the storage tank, with the following additional
+preventative measures:
+
+
+Leak testing
+
+
+
+Fittings and threaded sections can be wrapped with
+hydrogen detection tape (tape changes colour when it
+comes into contact with hydrogen).
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-3 HAZARD ASSESSMENT OF LIQUID HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+Double-walled
+vacuum
+insulated
+vessel
+
+Failure
+Leak of liquid
+hydrogen from
+liquid hydrogen
+storage tank
+
+Consequence
+Leakage of
+liquid hydrogen
+to the
+environment227
+
+Potential Hazard
+
+Preventative Measure
+Common:
+
+Common Hazards:
+
+
+Formation of a pool of liquid
+hydrogen
+
+
+
+Periodic inspection
+
+Cryogenic temperatures
+
+
+
+Barriers to protect against external impacts
+
+
+
+Heavier than air hydrogen cloud
+
+
+
+
+
+
+Reduced buoyancy forces (and
+also lower diffusion rate) would
+slow dilution and dispersion
+
+Exclusion zone
+o No ignition sources
+
+
+
+Asphyxiation due to formation of
+a low hanging hydrogen cloud
+
+
+
+A pool of liquid hydrogen will
+condense and solidify air
+constituents such as water vapour
+to produce oxygen-enriched
+zones to form shock-explosive
+mixtures.
+
+Located in a confined space:
+
+
+Combustion of a hydrogen cloud
+formed in a confined space
+
+Located in an unconfined space:
+
+
+Combustion of a hydrogen cloud
+formed in an unconfined space
+(duration and size of cloud will be
+limited by H2 transport to the
+environment)
+
+o
+
+No obstructions to aid in flame acceleration/DDT
+
+o
+
+Limited personnel access
+
+
+
+Liquid hydrogen liquid level monitoring and warning system for
+unexpected loss of liquid hydrogen
+
+
+
+Liquid hydrogen temperature monitoring and warning system
+for unexpected rise in temperature.
+
+
+
+Select materials that are less susceptible to hydrogen
+embrittlement (low carbon, low allow and low strength steels
+are less susceptible)
+
+
+
+Isolation from heat sources
+
+
+
+Direct liquid hydrogen flow to safe areas
+
+Located in a confined space:
+
+
+Ventilation may not be sufficient. Blow-out panels (needed for
+protection against pressurization) will need to be located to aid
+in venting of hydrogen.
+
+
+
+Blow out panels to protect against pressurization due to high
+expansion ratio for liquid hydrogen to gas.
+
+
+
+Hydrogen detection and warning system
+
+Located in an unconfined space:
+
+
+Protect from environment to ensure its mechanical integrity.
+
+227 Liquid hydrogen will vaporize when exposed to ambient temperatures. It can also result in a heavier than air hydrogen cloud which can remain grounded. Failure of both walls of the
+vessel will also eliminate the vacuum insulation.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+305
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-3 HAZARD ASSESSMENT OF LIQUID HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+Double-walled
+vacuum
+insulated
+vessel
+
+Failure
+Leak of gaseous
+hydrogen from
+liquid hydrogen
+storage tank
+
+Consequence
+Leakage of
+gaseous
+hydrogen to the
+environment228
+
+Potential Hazard
+The potential hazards are the same
+as for a small opening in the storage
+tank for gaseous hydrogen
+(Table B-4)
+
+Preventative Measure
+The preventative measures are the same as for a small opening in
+the storage tank for gaseous hydrogen (Table B-4), except it does
+not require:
+
+
+Pressure monitoring and warning system for unexpected
+depressurization of the component.
+
+Additional preventative measures include:
+
+
+Liquid hydrogen liquid level monitoring and warning system for
+unexpected loss of liquid hydrogen
+
+
+
+Liquid hydrogen temperature monitoring and warning system
+for unexpected rise in temperature.
+
+Double-walled
+vacuum
+insulated
+vessel
+
+Opening in inner
+wall below the
+liquid hydrogen
+level
+
+Leak of liquid
+hydrogen to the
+environment229
+
+The potential hazards are the same
+as for failure “Leak of liquid hydrogen
+from liquid hydrogen storage tank”.
+
+The preventative measures are the same as failure “Leak of liquid
+hydrogen from liquid hydrogen storage tank”.
+
+Double-walled
+vacuum
+insulated
+vessel
+
+Opening in inner
+wall – above
+liquid hydrogen
+level
+
+Leak of gaseous
+hydrogen to the
+environment230
+
+The potential hazards are the same
+as for failure “Leak of gaseous
+hydrogen from liquid hydrogen
+storage tank”.
+
+The preventative measures are the same as for failure “Leak of
+gaseous hydrogen from liquid hydrogen storage tank”.
+
+Double-walled
+vacuum
+insulated
+vessel
+
+Hydrogen
+embrittlement
+
+Failure of the
+tank wall
+
+The potential hazards are the same
+as for through vessel opening or
+opening in the inner wall.
+
+Select materials that are less susceptible to hydrogen
+embrittlement (low carbon, low allow and low strength steels are
+less susceptible)
+
+Double-walled
+vacuum
+insulated
+vessel
+
+Hydrogen
+permeation
+
+Very slow leak
+of hydrogen
+
+None
+
+Unconfined location or appropriately vented confinement
+
+228 Leakage of gaseous hydrogen will be limited by the boil-off rate. Failure of both walls of the vessel will also eliminate the vacuum insulation.
+229 Liquid hydrogen in the vacuum space will vaporize and pressurize the vacuum space and activate the vacuum space pressure relief device. This will also result in loss of vacuum.
+230 Leak of gaseous hydrogen into vacuum space will result in loss of vacuum. If pressure in the vacuum space rises sufficiently, it will activate the vacuum jacket pressure relief device and
+release gaseous hydrogen to the environment.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+306
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-3 HAZARD ASSESSMENT OF LIQUID HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+Preventative Measure
+
+Double-walled
+vacuum
+insulated
+vessel
+
+Presence of
+oxygen inside the
+storage tank231
+
+Combustible
+hydrogen air
+mixture within
+the tank
+
+Ignition of hydrogen-air mixture
+within the tank.
+
+
+
+Monitor oxygen content in the storage tank and pipes
+
+
+
+No ignition sources.
+
+Double-walled
+vacuum
+insulated
+vessel
+
+Loss of vacuum
+insulation232
+
+Increased boiloff and venting
+
+If the vessel pressure cannot be
+maintained by Boil-off system, then
+the pressure relief devices activates
+and release hydrogen to the
+environment at the boil-off rate. The
+potential hazards are the same as for
+failure “Leak of gaseous hydrogen
+from liquid hydrogen storage tank”
+
+The preventative measures are the same as for failure “Leak of
+gaseous hydrogen from liquid hydrogen storage tank”.
+
+Pipes
+
+Crack/break in
+pipe wall233
+
+Release of
+liquid hydrogen
+which will
+vaporize when
+exposed to
+ambient
+temperatures
+
+The potential hazards are the same
+as for failure “Leak of liquid hydrogen
+from liquid hydrogen storage tank”.
+
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”.
+
+Pipes
+
+Loss of insulation
+
+Condensation
+of oxygen on
+exposed pipe
+surface
+
+Fire is possible when liquid oxygen
+comes into contact with organic
+matter
+
+
+
+Inspection of pipe insulation
+
+
+
+Remove organic matter away from pipes.
+
+Release of
+liquid hydrogen
+which will
+vaporize when
+exposed to
+ambient
+temperatures
+
+The potential hazards are the same
+as for failure “Leak of liquid hydrogen
+from liquid hydrogen storage tank”.
+
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”.
+
+Pipes and
+fittings
+
+Leak in pipe wall
+or fittings
+
+231 Tank was not purged of air, or air was added to the hydrogen supply line.
+232 Loss of vacuum insulation can be due to leakage of air into the vacuum space which result in free convection heat transfer between the two walls (with a differential temperature
+difference of about 250°C. Loss of vacuum can also be due to contact between inner and outer walls to provide a direct path for conduction heat transfer.
+233 Failure can be due to hydrogen embrittlement, corrosion due to exposure to the elements, over pressurization or external forces.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+307
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-3 HAZARD ASSESSMENT OF LIQUID HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+Boil-Off System
+
+Boil-Off System
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+Boil-off valve fails
+to open
+
+Tank pressurizes
+and pressure
+relief devices
+are activated
+and releases H2
+
+The potential hazards are the same
+as for failure “Leak of liquid hydrogen
+from liquid hydrogen storage tank”.
+
+Release of H2
+
+The potential hazards are the same
+as for failure “Leak of liquid hydrogen
+from liquid hydrogen storage tank”.
+
+Boil off system
+fails to oxidize the
+hydrogen
+
+Preventative Measure
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”. Additional
+preventative measure includes:
+
+
+Inspection and testing of boil-off system.
+
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”. Additional
+preventative measure includes:
+
+
+Inspection and testing of boil-off system.
+
+Pressure relief
+devices for
+inner vessel
+(liquid
+hydrogen
+storage).
+
+Activation and
+also False
+activation (when
+pressure is at or
+less than design
+pressure)
+
+Release of H2
+
+The potential hazards are the same
+as for activation of TPRD/PRD for a
+gaseous hydrogen storage tank
+(Table B-4)
+
+The preventative measures are the same as for activation of
+TPRD/PRD for a gaseous hydrogen storage tank (Table B-4).
+
+Pressure relief
+devices for
+inner vessel
+(liquid
+hydrogen
+storage).
+
+Fails to activate
+when needed
+
+Inner vessel
+burst disk opens
+and vacuum
+insulation is
+lost234
+
+Hydrogen build-up in the vacuum
+jacket.
+
+
+
+Maintenance and inspection of PRD
+
+
+
+Periodic functionality testing (this may not be possible as these
+devices are designed to remain open once they are activated).
+
+Pressure relief
+devices for
+Outer vessel
+(protecting the
+vacuum jacket).
+
+False activation
+
+Results in
+another failure
+(loss of vacuum
+insulation)
+
+See potential hazard for loss of
+vacuum insulation.
+
+
+
+Maintenance and inspection of PRD
+
+
+
+Periodic functionality testing (this may not be possible as these
+devices are designed to remain open once they are activated).
+
+Pressure relief
+devices for
+Outer vessel
+(protecting the
+vacuum jacket).
+
+Activation (due to
+leak of H2 or
+liquid from the
+inner vessel)
+
+Release of
+gaseous or
+liquid hydrogen
+
+Liquid hydrogen release:
+
+Common:
+
+
+
+The potential hazards are the
+same as for failure “Leak of liquid
+hydrogen from liquid hydrogen
+storage tank”.
+
+
+
+Sizing of venting rate from PRD to limit the size of the hydrogen
+cloud during discharge.
+
+
+
+Direction of the vent should be away from people (and other
+energy sources and control/safety systems)
+
+Gaseous hydrogen release:
+234 Inner vessel over-pressurizes, activates burst disk and discharges hydrogen into the vacuum space. This results in another failure – loss of vacuum insulation.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+308
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-3 HAZARD ASSESSMENT OF LIQUID HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+
+The potential hazards are the
+same as for failure “Leak of
+gaseous hydrogen from liquid
+hydrogen storage tank”.
+
+Preventative Measure
+
+
+Protection from environment (e.g. ice buildup)
+
+
+
+Periodic functionality testing (this may not be possible as these
+devices are designed to remain open once they are activated).
+
+
+
+Warning system for activation of TPRD/PRD
+
+Liquid hydrogen release:
+
+
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”.
+
+Gaseous hydrogen release:
+
+Pressure relief
+devices for
+Outer vessel
+(protecting the
+vacuum jacket).
+
+Fails to activate
+when needed
+
+Tank overpressurizes and
+fails235
+
+Liquid hydrogen release:
+
+
+The potential hazards are the
+same as for failure “Leak of liquid
+hydrogen from liquid hydrogen
+storage tank”.
+
+Gaseous hydrogen release:
+
+
+The potential hazards are the
+same as for failure “Leak of
+gaseous hydrogen from liquid
+hydrogen storage tank”.
+
+The preventative measures are the same as for failure “Leak of
+gaseous hydrogen from liquid hydrogen storage tank”.
+
+Common:
+
+
+Maintenance and inspection of PRD
+
+
+
+Periodic functionality testing (this may not be possible as these
+devices are designed to remain open once they are activated).
+
+Liquid hydrogen release:
+
+
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”.
+
+Gaseous hydrogen release:
+
+
+The preventative measures are the same as for failure “Leak of
+gaseous hydrogen from liquid hydrogen storage tank”.
+
+Liquid level
+indicator
+
+Liquid level
+indicator gives
+incorrect
+hydrogen liquid
+level.
+
+Overfill the
+hydrogen
+storage
+container
+
+Could lead to pressurization of the
+liquid hydrogen storage container.
+
+Periodic inspection of liquid level indicator
+
+Valves on
+liquid
+hydrogen fill
+
+Valves on liquid
+hydrogen fill fails
+open when
+hydrogen fill
+
+Tank will
+continue to be
+filled until its
+pressure is
+equal to the
+
+Liquid hydrogen release:
+
+Common:
+
+
+
+The potential hazards are the
+same as for failure “Leak of liquid
+hydrogen from liquid hydrogen
+storage tank”.
+
+
+
+Maintenance and inspection of valve
+
+
+
+Monitor liquid fill level inside the tank
+
+235 When the outer wall fails, there will be a sudden release of the hydrogen gas to depressurize the tanks. Then hydrogen gas will be released at a steady rate that depends on the heat
+transfer to the liquid hydrogen.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+309
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-3 HAZARD ASSESSMENT OF LIQUID HYDROGEN STORAGE (PRODUCTION SITE)
+Main Parts or
+Process
+
+Failure
+return valve is
+closed.
+
+Consequence
+
+Potential Hazard
+
+supply line
+pressure. Worst
+case scenario is
+the PRD
+activates,
+releasing
+hydrogen
+
+Gaseous hydrogen release:
+
+
+The potential hazards are the
+same as for failure “Leak of
+gaseous hydrogen from liquid
+hydrogen storage tank”.
+
+Preventative Measure
+
+
+Independent shutoff valve controlled by liquid level inside the
+tank.
+
+Liquid hydrogen release:
+
+
+The preventative measures are the same as for failure “Leak of
+liquid hydrogen from liquid hydrogen storage tank”.
+
+Gaseous hydrogen release:
+
+
+The preventative measures are the same as for failure “Leak of
+gaseous hydrogen from liquid hydrogen storage tank”.
+
+Valves on
+liquid
+hydrogen fill
+
+Fail closed
+
+None – system
+designed for
+valve to be
+closed.
+
+(left blank)
+
+(left blank)
+
+Hydrogen fill
+return valve
+
+Fail open
+
+H2 flow down
+the fill return
+line
+
+None – hydrogen return line is
+designed to receive hydrogen during
+liquid hydrogen fill.
+
+(left blank)
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+310
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-4 HAZARD ASSESSMENT OF GASEOUS HYDROGEN DISTRIBUTION BY PIPELINES
+Main Parts or Process
+Pipeline
+
+Pipeline
+
+Failure
+Pipeline failure due to:
+
+
+Corrosion
+
+
+
+Material defect and aging
+(pipe seam, welds, gasket,
+control relief equipment)
+
+
+
+Embrittlement
+
+
+
+Permeation
+
+Pipe rupture due to:
+
+
+Natural force (landslide, frost
+heave, earthquake)
+
+
+
+Third party, mechanical
+damage
+
+Consequence
+
+Potential Hazard
+Gas buildup in confined
+service areas, leading to
+fire or explosion
+
+Leak of H2
+
+Large release of H2
+(limited by critical
+flow for the pipe
+diameter)
+
+Fire or explosion
+
+Preventative Measure
+
+
+Sufficient venting in confined service areas
+
+
+
+Leak detection or monitoring device
+
+
+
+Regular in-line inspection
+
+
+
+Cathodic protection monitoring system
+
+
+
+Limit H2 fraction in the blends (i.e., <50
+percent)
+
+
+
+Shut off the main valve
+
+
+
+Separation distance from the mainline to the
+public
+
+Meters
+
+Malfunction or failure
+
+Inaccurate flow rate
+
+No safety hazard
+
+Regular calibration and testing
+
+Regulators
+
+Failure or malfunction leads to
+pressurize of downstream pining
+
+Leak of H2 through
+PRD
+
+Fire or explosion
+
+Regular calibration and testing
+
+Emergency shut off
+valves
+
+Fail to close in a pipe rupture
+accident
+
+Large release of H2
+
+Fire or explosion
+
+Regular service and testing
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+311
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-5 HAZARD ASSESSMENT OF GASEOUS HYDROGEN DISTRIBUTION BY TUBE TRAILERS
+Main Parts or
+Process
+Trailer tube
+
+Trailer tube
+
+Trailer tube
+
+Connection hose
+
+PRD
+PRD
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Failure
+Tube failure due to
+road vibration
+
+Consequence
+Release of H2 to atmosphere
+
+Piping failure due to
+vehicle impact during
+unloading or staging
+
+Release of H2 to the atmosphere
+
+Tube failure due to
+external fire
+
+Release of H2 to the atmosphere
+
+Leaks during
+attachment or
+detachment
+
+Release of H2
+
+Unintended open
+
+Release of H2 to atmosphere
+
+Fail to open in an
+accident (i.e., fire)
+
+Release of H2 to atmosphere
+due to tube failure
+
+Potential Hazard
+Potential fire
+
+Potential fire or explosion
+
+Potential fire or explosion
+
+Potential fire
+
+Potential fire or explosion
+Potential fire or explosion
+
+312
+
+Preventative Measure
+
+
+H2 leak detectors
+
+
+
+Unloading inspection
+
+
+
+Isolation dampers to protect tank from road
+vibrations
+
+
+
+Driver training
+
+
+
+Separation distance between vehicles
+
+
+
+Sufficient staging area
+
+
+
+Design should consider stations dispensing
+both hydrogen and gasoline
+
+
+
+Separation distance from the H2 fill to any
+gasoline storage
+
+
+
+Leak check when making connections
+
+
+
+Driver training
+
+
+
+Unloading checklist/procedure
+
+
+
+PRD vent through a stack on the trailer
+
+
+
+Regular inspection and testing
+
+Regular inspection and testing of PRD
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-6 HAZARD ASSESSMENT OF LIQUID HYDROGEN DISTRIBUTION BY ROAD
+Main Parts or
+Process
+Outer tank
+
+Outer tank
+
+Connecting hose
+
+Failure
+Mechanical failure due to road
+vibration
+
+Consequence
+Leak of liquid H2
+
+Piping failure due to vehicle impact
+while unloading
+
+Leak of liquid H2
+
+Mechanical failure or improper
+connection
+
+Leak of liquid H2
+
+Potential Hazard
+
+Preventative Measure
+
+
+Unloading inspection
+
+
+
+H2 leak detectors
+
+
+
+Isolation dampers to protect tank from
+road vibrations
+
+
+
+Driving training
+
+
+
+Separation distance of vehicles from
+unloading
+
+
+
+Wear Nomex suit in handling
+connections
+
+
+
+Leak check prior to unloading
+
+Cryogenic burn
+
+
+
+Driver training
+
+Potential fire/explosion
+
+
+
+Unloading checklist or procedure for
+cryogenics
+
+Potential fire
+
+Potential fire/explosion
+
+Cryogenic burn
+Potential fire/explosion
+
+Not vented prior to disconnect
+(human error)
+
+Leak of liquid H2
+
+Inner storage tank
+
+Loss of vacuum between inner and
+outer vessel
+
+Release of gaseous H2 from
+PRD
+
+Potential fire
+
+
+
+PRD vents at elevated location
+
+Storage tank
+
+Overfill (human error or instrument
+failure)
+
+Release of liquid H2 from PRD
+
+Potential fire
+
+
+
+PRD vents at elevated driver training
+
+
+
+Procedures for unloading cryogenics
+
+
+
+Verification of fill level
+
+
+
+PRD vents at elevated location
+
+
+
+High pressure indication on storage
+tank
+
+
+
+Wider storage pressure range in LH2
+tank
+
+
+
+Identify alternate use of boil off
+
+
+
+Stack vents at elevated location
+
+
+
+Low temperature shutoff switch or
+valve in the vaporizer discharge piping
+
+
+
+Low pressure switch shuts down
+compressor
+
+Connecting hose
+
+Storage tank
+
+Storage tank
+
+Heat exchanger
+
+Pressure regulating
+valve
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Loss of vacuum from the liquid
+storage tank jacket vacuum
+
+Release from PRD or blow
+rupture disc and vent the
+entire contents
+
+Boil off due to low filling
+
+Release from PRD
+
+Potential fire
+
+Fail to function leads to icing on
+outside causes loss of heating
+
+Cold H2 vapor blows through
+compressor seals vents to
+stack
+
+Potential fire
+
+Fail to function
+
+Release of H2 due to damage
+of compressor seals
+
+Potential fire
+
+313
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-7 HAZARD ASSESSMENT OF GASEOUS HYDROGEN DISPENSING
+Main Parts or Process
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+Preventative Measure
+
+Dispensing piping
+
+Piping rupture due to vehicle
+impact
+
+Release of H2
+
+Potential fire or explosion
+
+Barriers around dispenser
+
+Dispensing cascade
+control
+
+PRD on dispenser and
+storage tank fails
+
+Release of H2 from PRD due to
+overpressure of vehicle fuel tank
+
+Potential fire or explosion
+
+Regular inspection and testing
+
+Dispensing hose
+
+Break due to mechanical
+failure
+
+Release of H2
+
+Potential fire or explosion
+
+Regular inspection and testing
+
+Dispensing hose
+
+Rupture due to drive-away
+while connected with the
+nozzle
+
+Release of H2
+
+Potential fire or explosion
+
+Isolation valves for breakaway
+connection
+
+Dispensing nozzle
+
+Mechanical failure, improper
+or improper connection,
+
+Leak of H2
+
+Potential fire
+
+Leak check prior to fill and
+detection system
+
+Dispensing nozzle
+
+Leak after disconnect due to
+mechanical failure
+
+Leak of H2
+
+Potential fire
+
+Shut off valve for dispenser
+
+Emergency shutoffs
+
+Malfunction
+
+Release of H2 in an accident
+
+Fire or explosion
+
+Regular inspection and testing
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+314
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-8 HAZARD ASSESSMENT OF LIQUID HYDROGEN DISPENSING
+Main Parts or Process
+
+Failure
+
+Consequence
+
+Potential Hazard
+
+Preventative Measure
+
+Dispensing piping
+
+Piping rupture due to vehicle
+impact
+
+Release of liquid H2
+
+Potential fire or
+explosion
+
+Barriers around dispenser
+
+Dispensing cascade
+control
+
+PRD on dispenser and storage
+tank fails
+
+Release of liquid H2 from PRD
+due to overpressure of fuel tank
+
+Potential fire or
+explosion
+
+Regular inspection and testing
+
+Dispensing hose
+
+Break due to mechanical failure
+
+Release of liquid H2
+
+Cryogenic burn,
+Potential fire or
+explosion
+
+Regular inspection and testing
+
+Dispensing hose
+
+Rupture due to drive-away
+while connected with the nozzle
+
+Release of liquid H2
+
+Potential fire or
+explosion
+
+Isolation valves for breakaway connection
+
+Dispensing nozzle
+
+Mechanical failure (O-ring
+damage) or improper
+connection
+
+Leak of liquid H2
+
+Cryogenic burn,
+potential fire
+
+
+
+Detection system
+
+
+
+Leak check prior to fill and personnel
+barrier
+
+Dispensing nozzle
+
+Vent lever open while filling
+
+Leak of liquid H2
+
+Cryogenic burn, potential
+fire
+
+Three‐way valve to flow H2 only when filling
+
+Dispensing nozzle
+
+Leak after disconnect due to
+mechanical failure
+
+Leak of liquid H2
+
+Potential fire
+
+Shut off valve for dispenser
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+315
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-9 HAZARD ASSESSMENT OF FUEL CELL ON BOARD
+Main Parts or
+Process
+Fuel Cell unit
+
+Failure
+
+Fire or explosion
+
+Design for high integrity
+
+
+
+Zone classification
+
+
+
+Fire-resistant confinement with appropriate
+ventilation
+
+
+
+Regular inspection and testing
+
+
+
+Shut down fuel supply on detection of break
+
+Electrocution
+
+
+
+Trained personnel
+
+Burn
+
+
+
+Multiple barriers
+
+
+
+Minimize working voltage
+
+Overpressure or
+release of
+hydrogen
+
+
+
+Blast or missiles from rupture of pressure
+system
+
+
+
+Fire or explosion
+
+Fuel cell membrane
+break
+
+Mix air and
+hydrogen
+
+
+
+Fire or explosion
+
+
+
+Component fire
+
+Insulation or isolation
+breakdown
+
+Live components
+
+
+
+
+Impact damage
+
+Freeze-up
+
+Release
+hydrogen
+
+Preventative Measure
+
+
+
+
+Low temperature
+
+DATE: 02/02/2018
+
+Potential Hazard
+
+Unwanted
+release of
+hydrogen
+
+Leak of hydrogen
+
+PRD failure
+
+CPG-PGM-RPT-245
+
+Consequence
+
+
+
+Blast or missiles from rupture of pressure
+system
+
+
+
+Insulation
+Emergency heating
+
+Fire or explosion
+
+
+
+
+
+
+
+Freeze-tolerant design
+
+
+
+Blast or missiles from rupture of pressure
+system
+
+
+
+Design for impact tolerance
+
+Fire or explosion
+
+
+
+Isolation from personnel
+
+
+
+316
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE B-10 HAZARD ASSESSMENT OF GASEOUS AND LIQUID FUEL STORAGE ON BOARD
+Main Parts or
+Process
+Hydrogen tanks
+

@@ -1,0 +1,2000 @@
+$m
+
+48
+
+48
+
+0
+
+Powered vehicles
+
+$m
+
+960
+
+515
+
+46
+
+Parameters
+
+The biggest change is in the powered vehicles’ cost, with the locomotives-only option providing a
+saving of 46 percent when compared to the initial capital cost of the Hydrail system at the 2024
+timeframe using the 2024-costs. The significance highlighted here is an indication to scrutinize this
+option of having only locomotives for the Hydrail system, provided the locomotives could achieve a
+similar time savings as purported to be achieved using EMUs.
+RER Scenario 4 Option
+RER Scenario 4 assumes that the entire GO network in the current layout would be electrified and in
+2024 timeframe and would have a mix of existing diesel-powered vehicles and hydrogen- or electricpowered vehicles in the fleet. The comparison of results between Scenarios 4 and 5 are provided in
+Table 4-25. The addition in the hydrogen, energy, water, and operating requirements for Scenario 4
+implies the scope of the full GO network electrification. The additional capital required for the fixed
+infrastructure is also significant. Due to the modular nature of the technologies involved, Hydrail
+would be implemented in stages while taking advantage of lessons learned while implementing
+Hydrail subsystems in the GO corridors initially, so these numbers should be used only for the relative
+difference between the scenarios compared.
+TABLE 4-25 COMPARISON OF RER SCENARIOS 4 AND 5
+RER Scenarios 4 and 5
+(Onsite production, gas phase, 7500 HP, 2024, 2024-cost,
+Locomotives+EMUs)
+Parameters
+
+Unit
+
+RER Scenario 4
+
+RER Scenario 5
+
+Change (%)
+
+Hydrogen required
+
+tpd
+
+59
+
+40
+
+32
+
+Water required
+
+tpd
+
+594
+
+402
+
+32
+
+Electricity required
+
+GWh/d
+
+3.2
+
+2.2
+
+31
+
+Electricity market price
+
+$/MWh
+
+34.2
+
+34.2
+
+0
+
+Electricity cost
+
+$K/d
+
+129
+
+91
+
+30
+
+Water cost
+
+$K/kg
+
+1.8
+
+1.2
+
+32
+
+Hydrogen cost
+
+$/kg
+
+3.4
+
+3.5
+
+-3.4
+
+Total operating cost
+
+$m/y
+
+48
+
+34
+
+30
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+124
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-25 COMPARISON OF RER SCENARIOS 4 AND 5
+RER Scenarios 4 and 5
+(Onsite production, gas phase, 7500 HP, 2024, 2024-cost,
+Locomotives+EMUs)
+Parameters
+
+Unit
+
+RER Scenario 4
+
+RER Scenario 5
+
+Change (%)
+
+No. of locomotives
+
+No.
+
+156
+
+70
+
+55
+
+No. of powered EMUs
+
+No.
+
+42
+
+42
+
+0
+
+Land area required
+
+m2
+
+23692
+
+16166
+
+32
+
+Production equipment
+
+$m
+
+311
+
+211
+
+32
+
+Production storage
+
+$m
+
+86
+
+58
+
+32
+
+Refuelling storage
+
+$m
+
+101
+
+68
+
+32
+
+Dispensing equipment
+
+$m
+
+64
+
+48
+
+25
+
+Powered vehicles
+
+$m
+
+1506
+
+960
+
+36
+
+4.2.2.5 Summary of the Hydrail Operational Model Findings
+The Hydrail operational model and the maintenance assessment has revealed the following
+information:
+
+
+The model is capable of estimating operational parameters and costs with sufficient rigor that the
+improvement in the inputs and assumptions would narrow the error margin.
+
+
+
+The costs and cost factors used in this section are for indicative and comparison purposes only.
+The actual costs are presented in Section 4.4, along with the BCR.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+125
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3
+
+Electricity Policy and Pricing
+
+Electricity is the flow of electrons from a negatively charged body to a positively charged body113.
+Electricity is commonly used in everyday life as a source of energy for a wide range of applications,
+including lighting, heating, and powering appliances or other motorized equipment. Power is the rate
+(energy amount per time period) at which energy converted (Figure 4-24). The scientific unit of power
+is the watt (W), which is equal to one joule (energy amount) per second (time period)114.
+FIGURE 4-24 ELECTRIC POWER MEASURES
+
+The amount of electricity that is generated or used over a period of time is typically measured in
+kWh115. A watthour is equal to the energy of 1 watt steadily generated or supplied over 1 hour
+(Figure 4-25).
+FIGURE 4-25 WATT-HOUR MEASURES
+
+Ontario has seen a net increase in electricity production from 2005 to 2015, with production growing
+from 156TWh to 160TWh. The growth in production has however, not been met by increased
+demand. Changing economic conditions and conservation programs have resulted in non-weathercorrected grid demand116 within the province declining by approximately 10 percent from 151TWh in
+2006 to 137TWh in 2015. Accordingly, Ontario currently generates significant surplus electricity,
+estimated at 9 percent of Ontario’s net demand in 2016, a major change from the deficits that existed
+in the early 2000s.
+
+113 Natural Resources Canada (NRC). 2016. About Electricity. Accessed October 2017. http://www.nrcan.gc.ca/energy/electricityinfrastructure/about-electricity/7359. 114 “Power – Scientific Definition.” UQ.edu.au. The University of Queensland, Australia, n.d. Web. 02
+Nov 2017.
+114 “Power – Scientific Definition.” UQ.edu.au. The University of Queensland, Australia, n.d. Web. 02 Nov 2017.
+115 “Measuring Electricity – Energy Explained, Your Guide To Understanding Energy – Energy Information Administration.” EIA.gov. U.S.
+Department of Energy, 10 Feb 2017. Web. 24 Sep. 2017.
+116 Non-weather-corrected grid demand has not been adjusted for variations in weather patterns that may impact demand for electricity.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+126
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+As the province seeks to improve efficiencies, plans through to 2035 focussed on improvement in the
+alignment between demand and supply of electricity, and continuing conservation initiatives and
+demand response programs. The following sections will describe the governance and policy
+framework that guide strategic planning for Ontario’s electricity needs; Ontario’s electricity system
+and generation capacity; and electricity demand forecasts as well as plans to balance the electricity
+system, while limiting investment in additional infrastructure.
+
+4.3.1
+
+Governance, Regulatory, and Management Framework
+
+4.3.1.1 The Ministry of Energy117
+The Ministry of Energy (the Ministry) facilitates the development of Ontario’s electricity generation,
+transmission and other energy related facilities. One of the Ministry’s top priorities is ensuring that
+Ontario’s energy needs are met in a sustainable manner.
+The mandate letter from the Premier to the Ontario Minister of Energy (the Minister), dated
+23 September 2016, outlines the Minister’s priorities, including:
+
+
+Taking further action to mitigate the impact of electricity prices on consumers and businesses,
+partly through expanding eligibility for the Industrial Conservation Initiative (ICI).
+
+
+
+Promoting energy conservation and the adoption of renewable energy.
+
+
+
+Supporting the growth of the low-carbon economy and reductions in GHG emissions.
+
+
+
+Driving efficiencies and maximizing return on investment from the electricity sector.
+
+If successful, these actions will drive efficiencies, lead to an increasing reliance on renewable energy
+and encourage greater levels of energy conservation, thereby reducing electricity demand in lieu of
+increasing supply.
+
+4.3.1.2 The Ontario Energy Board118
+The Ontario Energy Board (OEB) is Ontario’s independent energy regulator, whose goal is to ensure
+the energy system remains sustainable and reliable, and that the energy rights of Ontarians are
+protected. The OEB’s mandate and authority come from the Ontario Energy Board Act, 1998; the
+Electricity Act, 1998; and other provincial statutes, including the Energy Consumer Protection Act,
+2010.
+The OEB:
+
+
+Sets rules for energy companies operating in Ontario
+
+
+
+Establishes energy rates
+
+
+
+Licenses energy companies
+
+
+
+Monitors the wholesale electricity market and energy companies
+
+
+
+Develops new energy policies in partnership with the Ministry
+
+
+
+Advises the Government of Ontario on energy policy
+
+117 “About the Ministry”. Web. 10 Oct. 2017.Energy.gov.on.ca, 26 Sep. 2016.
+118 05 Oct. 2017. “About Us”. OEB.ca. Ontario Energy Board, n.d. Web.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+127
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The OEB assisted the government in the development of the regulatory framework for Ontario’s cap
+and trade program, and is also in the process of implementing a five-point plan to redesign electricity
+prices (OEB, 2012-2017a).
+
+4.3.1.3 The National Energy Board119
+The National Energy Board (NEB) is a federal body that, amongst other things, regulates the construction
+and operation of international and designated interprovincial power lines, as well as the import of
+electricity. The NEB also authorizes and regulates energy trade through long-term licences, permits, and
+short-term orders. The amount of electricity exported cannot exceed limits approved by the NEB.
+In performing its duties, the NEB considers the impact of exports on adjacent provinces and fair market
+access for Canadians. The NEB reports to Parliament through the Minister of Natural Resources.
+
+4.3.1.4 The Independent Electricity System Operator120
+The Independent Electricity System Operator (IESO) manages Ontario’s electricity system, forecasts
+the demand and supply of electricity to plan for the province’s future energy needs, promotes
+conservation, and operates the wholesale electricity market.
+The IESO was established through the Electricity Act in 1998 as a not-for-profit corporate entity.
+Through amendments to the Electricity Act on January 1, 2015, the IESO was merged with the Ontario
+Power Authority. Through legislation, the Ministry oversees the IESO, which is governed by a Board of
+Directors that is appointed by the Province of Ontario. The IESO operates independently of all other
+participants in the electricity market.
+The IESO forecasts the Ontario’s current, short-term and long-term energy needs, and assesses the
+adequacy and reliability of the integrated power system to ensure Ontarians have sustainable
+solutions to meet energy needs now and in the future.
+
+4.3.2
+
+Ontario’s Electricity System
+
+Ontario’s electricity system is made up by a network of generation, distribution and transmission
+systems that supply electricity across the province (Figure 4-26). The network is part of a larger North
+American system, through which Ontario’s network is connected to neighbouring provinces and states.
+
+119 “NEB – Who we are”. 03 Oct. 2017NEB-one.gc.ca. Government of Canada, 01 Dec. 2016. Web.120 Independent Electricity System
+Operator (IESO). 2017a. “What We Do.” About the ISEO. Accessed October 5, 2017. http://ieso.ca/en/learn/about-the-ieso/what-we-do.121
+“Electricity – Energy Explained, Your Guide To Understanding Energy – Energy Information Administration.” EIA.gov. U.S. Department of
+Energy, 21 Nov. 2016. Web. 24 Sep. 2017.
+120 Independent Electricity System Operator (IESO). 2017a. “What We Do.” About the ISEO. Accessed October 5, 2017.
+http://ieso.ca/en/learn/about-the-ieso/what-we-do.121 “Electricity – Energy Explained, Your Guide To Understanding Energy – Energy
+Information Administration.” EIA.gov. U.S. Department of Energy, 21 Nov. 2016. Web. 24 Sep. 2017.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+128
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-26 ELECTRICITY INDUSTRY STRUCTURE IN ONTARIO
+
+(Source: Adapted, with permission, from the Hydro One Limited 2016 Annual Report)
+
+The electricity system is described in further detail in the sections that follow.
+
+4.3.2.1 Generation
+Electricity is the flow of electrical power or charge produced by converting energy into electrical power.
+Energy sources may be renewable or non-renewable. The main sources of renewable energy include
+solar, hydro, and wind energy.121 Non-renewable sources include fossil energy sources, such as coal,
+oil, and natural gas. Nuclear energy, generated from uranium, is a nonrenewable, nonfossil energy
+source.
+Historically, Ontario relied heavily on
+coal-fired generation. From 2005 to
+2015, the province significantly
+reduced the level of GHG emissions
+from the electricity sector, as installed
+coal-fired capacity was wound-down
+and replaced with renewable and
+natural gas-fired capacity. Ontario’s
+electricity is presently generated from
+wind, solar, bioenergy, hydro, nuclear
+and natural gas-fired resources, with
+approximately 90 percent of the
+electricity being generated from nonfossil sources.
+
+FIGURE 4-27 ONTARIO’S 2015 ENERGY PRODUCTION
+
+The province’s electricity needs can
+vary by as much as 10,000 MW in any
+given day. The province’s diverse energy supply mix allows for the management of different resources
+to perform different roles to meet its varying electricity needs. Baseload refers to the minimum
+amount of electric power delivered or required over a given period of time at a steady rate. A
+baseload plant is normally operated to take all or part of the minimum load of a system, and
+consequently produces electricity at an effectively constant rate, and runs continuously122. Nuclear
+power plants and “run-of-the-river” hydro facilities produce a constant and steady output of electricity
+121 “Electricity – Energy Explained, Your Guide To Understanding Energy – Energy Information Administration.” EIA.gov. U.S. Department of
+Energy, 21 Nov. 2016. Web. 24 Sep. 2017.
+122 “Glossary.” EIA.gov. U.S. Energy Information Administration, n.d. Web. 02 Nov 2017.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+129
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+and are considered baseload generation. Natural gas facilities and hydro generators with reservoirs
+for storage allow for variable output, as needed. Peaking generators are relied upon to meet the
+peaks on the highest demand days, while intermediate generators work throughout the day, with
+output adjusted as demand varies. Wind and solar facilities generate variable output, based on
+weather conditions. They are highly flexible in respect of the ability to adjust output, subject to energy
+availability, allowing for variable but controlled generation.
+A key difference between traditional and variable generators is that traditional generators store their
+primary energy source (for example, uranium, water or natural gas) onsite and convert it to energy as
+needed. Variable generators on the other hand, can only produce energy when the primary source
+(for example, wind or sunlight) is available. As such, the principle challenge with variable energy
+sources is that they can regularly drive a mismatch between demand and supply.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+130
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Installed capacity refers to the maximum
+possible output of electricity generators
+installed within the province’s electricity
+system. Actual electricity production may vary
+based on the availability of energy sources
+and direction from the IESO to adjust output
+to efficiently meet energy needs.
+
+FIGURE 4-28 ONTARIO’S 2016 INSTALLED CAPACITY
+
+There is currently over 37,000 MW of installed
+capacity within Ontario’s transmission system
+and an additional 3,600 MW of generation
+capacity within local distribution systems.
+Nuclear and renewable sources represent
+approximately 74 percent of the installed
+capacity and natural gas sources account for
+the remaining 26 percent. Actual production
+levels are discussed in the section that follow.
+Energy Sources
+
+Nuclear
+Nuclear energy, generated by splitting uranium atoms, is a non-renewable source of energy. Nuclear
+generation is, however, considered sustainable, given significant uranium resources relative to the
+rate of use, and the low environmental impact of its use. Nuclear power accounts for approximately
+58 percent of the province’s electricity production. There are three nuclear plants, Bruce, Darlington
+and Pickering, with 18 generating units in operation within the province.
+
+Hydroelectric
+Hydroelectric (or hydro) energy is generated by converting the kinetic or potential energy of water
+into electrical energy. Hydro generation is an important component of Ontario’s baseload and
+peaking energy mix. Hydro currently accounts for roughly 23 percent of the province’s electricity
+production, and is therefore the most significant source of renewable energy. Given the ability to
+predict the level of hydro generation throughout any given day and across seasons, hydro is a stable
+source of renewable energy.
+
+Natural Gas and Oil
+Thermal generating plants generate electricity by burning natural gas. They can quickly adjust output
+based on changes in demand, thereby easily meeting peak demand needs or providing back up for
+more volatile wind or solar generation. Natural gas is a fossil fuel, and generates GHGs as a byproduct of energy production. The volume of emissions is however, significantly lower than coal-fired
+resources. Natural gas and oil now account for roughly 10 percent of the province’s electricity
+production.
+
+Wind, Solar, and Bioenergy
+Wind, solar and bioenergy now accounts for roughly 9 percent of the province’s electricity
+production. The contribution levels are largely attributed to wind energy, as significant government
+incentives along with improvements in technology have resulted in greater output and lower unit
+costs.
+Wind energy generating potential is greatest in the winter and at night. Wind energy generators can
+quickly adjust output in response to system requirements. Solar generation is important to Ontario’s
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+131
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+energy mix, with high production levels during the summer peaking hours. Bio energy is produced
+either by combusting organic fuel (biomass) or by allowing organic matter to decompose, producing
+CH4, which is then combusted to produce electricity. In Ontario, there are abundant sources of
+organic matter as a by-product of forestry, agricultural and livestock, and food processing operations,
+as well as from municipal waste. The key challenge to the establishment of bioenergy plants is
+however, the high capital cost.
+
+4.3.2.2 Transmission
+Electricity is produced from generation plants and transmitted across Ontario’s transmission system at
+high voltage before being stepped down to lower voltage for delivery to end-users. The province’s
+high voltage transmission system consists of a network of transmission lines that are equal to or
+greater than 50 kilovolts (kV).
+The stability of Ontario’s electricity system depends on supply constantly meeting demand. The IESO
+directs the flow of electricity across the grid, balancing demand and supply to ensure stability. Over
+the past decade, the Province has focussed on maximizing the use of the existing transmission system.
+Accordingly, significant renewable energy resources have been added without any major expansion
+of the transmission network. The network is, however, nearing capacity, and now has limited ability to
+accommodate additional generation.
+Further constraints are presented when resource potential is not located within proximity to the grid,
+as is the case for many of the Province’s untapped renewable energy sources. Significant new
+transmission additions typically require a lead time of 7 to 9 years; therefore, the management of the
+transmission system requires careful planning.
+Capacity constraints lead to congestion in some areas. System congestion refers to instances during
+the operation of the power system when there is not enough transmission capacity available to
+accommodate scheduled generation. Over the long-term, transmission facilities are efficiently used
+where there is a manageable level of congestion. In Ontario, as the use of existing assets is being
+maximized, many parts of the system are frequently congested.
+Current Grid Capacity
+Ontario’s power transmission system is broken down into 10 zones, as reflected in Figure 4-29.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+132
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-29 GEOGRAPHICAL ZONES IN ONTARIO’S POWER TRANSMISSION SYSTEM
+
+(Source: Copyright © 2017 Independent Electricity System Operator, all rights reserved)
+
+Supply and demand characteristics vary across each zone. As Table 4-26 demonstrates, in three
+zones, Essa, Toronto and Ottawa, total resources tend to be lower than peak demand. In contrast,
+supply in the Bruce and Niagara zones significantly exceed peak demand, largely due to the presence
+of the Bruce nuclear generating plant and the Niagara Falls hydro facilities, respectively. In the
+remaining zones, total resources either exceed or are balanced with peak demand.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+133
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-26 RESOURCES IN RELATION TO DEMAND ACROSS THE GEOGRAPHICAL ZONES IN ONTARIO'S
+POWER TRANSMISSION SYSTEM123
+Zone
+
+Primary Energy Source
+
+Bruce
+
+Nuclear, with some wind
+
+Resources significantly exceed peak demand
+
+Niagara
+
+Hydro, with some natural gas
+
+Resources significantly exceed peak demand
+
+East
+
+Hydro, oil, and natural gas, with some wind and solar
+
+Resources exceed peak demand
+
+Northeast
+
+Hydro, with some cogeneration, wind, solar, and biofuel
+
+Resources exceed peak demand
+
+Northwest
+
+Hydro and biofuel, with some wind and natural gas
+
+Resources generally exceed peak demand
+
+West
+
+Natural gas and wind, with some solar
+
+Resources generally exceed peak demand
+
+Southwest
+
+Wind and natural gas, with some solar
+
+Resources generally equal peak demand
+
+Toronto
+
+Nuclear, with some natural gas
+
+Resources are less than peak demand
+
+Essa
+
+Hydro, with some natural gas
+
+Resources are much less than peak demand
+
+Ottawa
+
+Cogeneration
+
+Resources are much less than peak demand
+
+The East and Southwest zones are not generally congested. The transmission systems in these zones
+operate well below capacity, allowing for the transfer of power to the Toronto and Ottawa zones in
+addition to supplying local demand.
+The Toronto, Ottawa, and Essa zones are load congested. These zones rely on transfers from other
+zones to meet zonal peak demand, and the transmission network within the zones operates at or near
+capacity during peak load periods.
+The Bruce, Niagara, and Northwest zones are generation congested. Installed generation capacity in
+the zones is equal to or greater than the combination of demand within the zones and the ability to
+transfer electricity out of the zone. This results in the zonal transmission systems operating at or near
+capacity whenever zonal generation peaks.
+The Northeast and West zones have some transfer capability available. In the Northeast zone,
+congestion is more likely than in the West given that it is tied to lower-cost baseload and peaking
+hydro generators. In the west zone, capability is limited when natural gas-fired generators are online.
+
+4.3.2.3 Distribution
+While some large industrial consumers are directly connected to the transmission grid and purchase
+electricity from the Ontario electricity market, most industrial customers and smaller consumers,
+including residential consumers, are served by local distribution companies (LDCs). LDCs own and
+operate infrastructure to convert high-voltage electricity to a lower voltage, and deliver electricity to
+end-users.
+There are currently 78124 licensed electricity distributors operating in Ontario. In addition to
+delivering electricity to end-users, LDCs perform billing functions reflecting distribution charges and
+other charges, as described in Section 4.3.1.4.
+
+123 Independent Electricity System Operator (IESO). 2016c. IESO Report: Energy Storage. March. Accessed October 2017.
+http://www.ieso.ca/-/media/files/ieso/document-library/energy-storage/ieso-energy-storage-report_march-2016.pdf
+124 “Licensed companies and licensing information.” 05 Oct. 2017.OEB.ca. Ontario Energy Board, n.d. Web.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+134
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.2.4 Electricity Exports
+Ontario is part of North America’s large,
+interconnected electricity system, allowing for
+added ability to manage generation surpluses
+and shortfalls. Ontario currently has
+interconnections with Quebec and Manitoba in
+Canada, and Minnesota, Michigan, and New
+York in the United States (U.S.); and can import
+and export electricity on a continual basis to
+balance the province’s electricity system.
+
+FIGURE 4-30 ONTARIO NET EXPORTS, 2007-2016125
+
+Ontario’s interconnection with neighbouring
+jurisdictions allows for the efficient import and
+export of electricity based on the province’s
+supply and demand levels, as well as that of its
+neighbours. This allows for operational and
+planning flexibility, and enhances the reliability and cost-effectiveness of the electricity system.
+Ontario is a net exporter of electricity, given surplus generation in the province. Net exports have
+trended up from 2007 through to 2015, from 5.1TWh to 16.8TWh, but declined to 13.9TWh in 2016, a
+trend that is expected to continue based on forecasts for the demand and supply of electricity as
+outlined in the ensuing sections.
+Electricity exports are priced on the wholesale market, at the HOEP. As discussed in Section 4.3.1.4,
+the cost of generating and transmitting electricity is reflected in other charges paid by Ontario
+consumers. Therefore, while generating some revenue, exports do not allow for recovery of the full
+cost of supplying the electricity exported.
+
+4.3.3
+
+Electricity Forecasts
+
+With the combination of economic and population growth, and improved energy efficiency across
+homes and business, all taken within the context of climate change and environmental considerations,
+demand and supply profiles have changed over time. This has given rise to the need for a long-term
+planning approach to meeting the Province’s energy needs.
+The LTEP is produced by the Ministry and is the tool by which the province plans for long-term energy
+needs and sets out long term energy policies. The planning process that LTEP follows balances costeffectiveness, reliability, clean energy, community engagement, and places emphasis on conservation
+and demand management before building new generation.
+Ontario’s first LTEP was released in 2010 and was updated in 2013 and again in 2017. The 2017 LTEP,
+released in Fall 2017, covers the 2017-2035 planning horizon.
+
+125 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+135
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.3.1 Ontario’s Long-term Energy Plan
+The Province’s plans, as outlined in the 2013 LTEP, include:
+
+
+Encouraging conservation, which will drive planning, approval and procurement processes;
+
+
+
+Retracting on previous plans to construct two new nuclear reactors, while moving forward with
+plans to decommission the Pickering Generating Station;
+
+
+
+Increasing the installed capacity of renewable energy;
+
+
+
+Using natural gas-fired generation to allow for flexible response to changes in demand and
+supply;
+
+
+
+Considering opportunities for clean energy imports from other jurisdictions; and
+
+
+
+Exploring opportunities for the use of energy storage technologies.
+
+The 2017 LTEP builds on the plans as previously outlined, with key initiatives including:
+
+
+Ensuring affordable energy, with projections for the cost of electricity for large industrial
+customers to, on average, increase in line with inflation over the forecast period.
+
+
+
+Spreading the cost of existing electricity infrastructure over a longer period by refinancing a
+portion of the Global Adjustment.
+
+
+
+Supporting expanded access to natural gas.
+
+
+
+Ensuring a flexible energy system, with a Market Renewal initiative being launched.
+
+
+
+Maximizing use of Ontario’s existing electricity infrastructure to limit future increases in the cost of
+electricity.
+
+
+
+Removing barriers to the deployment of cost-effective energy storage.
+
+
+
+Continued commitment to energy conservation.
+
+Based on the LTEP, the expectation is that, by 2025, there will be a significant reduction in surplus
+baseload generation (SBG), with demand response strategies addressing peak demand needs.
+
+4.3.3.2 Ontario Planning Outlook
+The Ontario Planning Outlook (OPO) was prepared by the IESO in response to the Minister’s request
+for a technical report on the adequacy and reliability of Ontario’s electricity resources to support
+development of the 2017 LTEP. The report reflects the IESO’s planning outlook for 2016 through to
+2035 (IESO, 2017).
+The OPO provides an overview of Ontario’s current electricity system, including:
+
+
+A demand outlook
+
+
+
+Potential for resources to meet that demand
+
+
+
+Risks associated with various resources
+
+
+
+Costs of the electricity system
+
+
+
+An emissions outlook for the electricity system
+
+While Ontario currently generates excess electricity, an excess is never planned. Based on the
+projection included in the OPO, the expectation is that, by 2025, there will be a significant reduction
+in surplus baseload generation (SBG), as discussed further in Section 4.3.3.6, with demand response
+strategies addressing peak demand needs.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+136
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.3.3 Electricity Demand Forecast
+The OPO considers a range of electricity demand levels in Ontario in 2035, from 133 TWh to
+197 TWh, under four scenarios:
+
+
+Outlook A explores lower electricity demand
+
+
+
+Outlook B explores a level of demand that roughly matches current demand levels
+
+
+
+Outlooks C and D explore higher demand driven by policy choices stemming from Ontario’s
+Climate Change Action Plan, including assumptions around the adoption of electric vehicles and
+planned electrified transit projects
+
+The scenarios include varying assumptions regarding the level of conservation, more stringent
+building codes, and higher equipment standards.
+Through the LTEP, the Province is planning for a flat demand scenario as reflected in Outlook B, while
+allowing for flexibility to adjust to changes in demand. Additionally, conservation and demand
+response programs are expected to have a significant impact on reducing total and peak demand.
+Demand Expectations
+Under a flat demand outlook
+(Outlook B), total electricity demand is
+expected to marginally increase, at a
+compounded annual growth rate of
+0.16 percent, from 143.4 TWh in 2016
+to 147.8 TWh in 2035 (Figure 4-31).
+The stable demand outlook largely
+assumes that population and economic
+growth that would otherwise increase
+demand are counterbalanced by
+conservation measures.
+
+FIGURE 4-31 ONTARIO NET ENERGY DEMAND ACROSS
+DEMAND OUTLOOKS126
+
+The outlook assumes an uptick in
+electricity requirements for electric vehicles and planned electrified transit projects, including RER and
+light rail projects as approved at the date of the report. Taken together, these initiatives are projected
+to account for a total of 4 TWh in 2035, of which approximately 0.55 TWh is attributed to transit
+projects. Peak demand is expected to be relatively unchanged from 2016 to 2025, ranging from 23.9
+to 24.1 MW, and then increasing to 24.8 MW by 2035. Transportation is expected to account for
+2 percent of peak demand in 2035 (IESO, 2016).
+Under a higher demand outlook (Outlook D), in 2035 the total electricity demanded is projected to be
+197 TWh. This assumes an increase in residential and commercial electricity demand due to increased
+electrical space and water heating, accounting for a total increase in electricity demand of 30 TWh.
+Outlook D also assumes a shift to electricity based energy generation in the industrial sector, an
+increased number of electric vehicles (2.4 million by 2035), and electrification of transit, accounting
+for approximately 9 TWh and 0.65 TWh, respectively. Peak demand is expected to grow to 35.4 MW
+by 2035 (IESO, 2016).
+
+126 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+137
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The difference between summer and winter
+peak varies across demand outlooks and across
+the forecast period. There is currently a
+difference of approximately 1,800 MW between
+summer and winter peak demand (Figure 4-32).
+Over the forecast period, under a stable
+demand outlook, the variance is expected to
+increase to 2,369 MW in 2036. Under higher
+demand outlooks, Ontario is expected to
+become a winter peaking province; if this
+occurs, the variance between summer and
+winter peak demand is significantly reduced by
+2025, and winter peak demand is projected to
+exceed summer peak demand by as much as
+6,900 MW in Outlook D128.
+
+FIGURE 4-32 NET SUMMER PEAK MINUS NET
+WINTER PEAK127
+
+Conservation and Demand Response Programs
+A significant percentage of the forecasted growth in electricity demand is expected to be offset by
+conservation programs and improved codes and standards. The LTEP includes a long-term
+conservation target of 30 TWh in 2032.
+Demand response programs provide a variety of incentives to encourage end-users to reduce
+electricity use during peak hours. Demand response initiatives led to a reduction in peak demand of
+approximately 1.8 gigawatt (GW) in 2015 and are expected to reduce peak demand by 10 percent, or
+approximately 2.5 GW by 2025.
+
+4.3.3.4 Electricity Supply Forecast
+Supply assumptions are based on existing
+resources that have been procured but are not
+yet in service, and resources that have neither
+been procured nor acquired as of the date of
+the OPO, but have been directed to meet
+provincial policy objectives.
+
+FIGURE 4-33 INSTALLED CAPACITY AND CAPACITY
+CONTRIBUTIONS129
+
+Assuming that all current resources continue
+until contract expiration and all nuclear
+refurbishments, as well as committed and
+directed resources, come into service as
+scheduled, total installed capacity is expected
+to slowly increase from 39.6 GW in 2016 to
+42.6 GW in 2035, 7 percent growth over the
+Source: (IESO, 2016)
+period. While the installed capacity increases,
+there will be an increasing reliance on renewable energy sources, which are, in the case of solar and
+wind, more variable. Accordingly, while installed capacity generally increases, except for a decline in
+the late 2020s, the capacity contribution of resources is generally unchanged over the forecast period.
+127 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+128 ibid.
+129 ibid.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+138
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Expectations for each source of electricity, based on current resources as well as committed and
+directed resources, are described in the following paragraphs.
+
+Nuclear
+While previous forecasts indicated the need for additional nuclear generating capacity, based on the
+current outlook, and given revised demand forecasts, additional capacity is not necessary.
+Accordingly, the Province is not planning to move ahead with plans to build additional nuclear plants
+and will proceed with plans to decommission the Pickering plant, which currently has six units in
+operation and an installed capacity of 3,100 MW. Two units will be retired at the end of 2022 and four
+units at the end of 2024.
+Nuclear energy is expected to account for 48 percent of Ontario’s electricity production in 2035
+The Province retains the option to build additional nuclear capacity if future needs dictate. It is the
+Ministry’s intention to maintain the licence granted by the Canadian Nuclear Safety Commission for
+the construction of new nuclear units.
+
+Hydro
+Ontario has significant additional hydro potential; however, most of the potential exists in relatively
+remote northern communities, and would, therefore, be developed at a relatively high cost. Hydro
+power is expected to account for 27 percent of total electricity production in 2035.
+
+Natural Gas
+The natural gas fleet allows for flexibility to respond to variability in renewable energy sources. This
+relatively low-carbon source is, therefore, an important part of Ontario’s supply mix. Natural gas
+production is expected to account for 9 percent of total electricity production in 2035.
+
+Wind, Solar and Bioenergy
+Wind, solar and bioenergy are expected to make more significant contributions to Ontario’s energy
+mix in 2025 and beyond. Collectively, these non-water renewables are expected to account for
+16 percent of electricity production in 2035, largely due to the expansion of wind electricity
+production.
+
+4.3.3.5 Forecasted Demand Relative to Supply
+The IESO’s assessment is that there are sufficient resources to meet flat demand levels (Outlooks B),
+with relatively low surplus generation during peak demand periods. The higher demand scenarios
+would, however, present challenges of scale and integration, requiring the deployment of multiple
+low-carbon options and significant investments in transmission and distribution systems. The OPO,
+however, underscores the need for more conservation, rather than investment in additional
+generating capacity, to meet the higher demand under those scenarios. The Province will be able to
+adapt to a lower demand scenario by choosing not to renew existing contracts for generation upon
+expiration, if the energy is not needed.
+The capacity contribution (that is, maximum output) of installed capacity relative to peak demand
+(including a planning reserve) under Outlook B is outlined below (Figure 4-34).
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+139
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-34 CAPACITY CONTRIBUTION VS. DEMAND
+Winter Capacity Contribution vs Demand
+
+Summer Capacity Contribution vs Demand
+45,000
+
+45,000
+
+40,000
+
+40,000
+
+35,000
+
+35,000
+
+30,000
+
+30,000
+
+25,000
+
+25,000
+
+20,000
+
+20,000
+
+Outlook A
+
+Outlook D
+
+Outlook A
+
+Summer Capacity Contribution
+
+Outlook D
+
+Winter Capacity Contribution
+
+Source: (IESO, 2016)130
+
+The forecast suggests that under a stable demand scenario, Ontario will generate sufficient electricity
+to meet peak demand. In a higher demand outlook such as Outlook D, the province is expected to
+have sufficient resources to meet demand through to 2022 however additional resources would be
+required to meet demand beyond 2022. It is however noted that demand and supply forecasts are
+based on a variety of assumptions, including median weather conditions and consumer preferences
+such as actual adoption of electric vehicles and use of electricity for home heating, to name a few.
+Extreme weather events or significant changes in consumer preferences can therefore have a
+significant impact on forecasts.
+
+4.3.3.6 Surplus Baseload Generation
+SBG refers to baseload generation in excess of provincial demand plus net exports. SBG is managed
+through exports, by diverting water from hydro turbines, by curtailing wind and solar generation, and
+by managing units at the Bruce Nuclear Generating Station.
+In FYE 2016, as shown on Figure 4-35, SBG
+amounted to approximately 9 percent of
+Ontario net demand. The OPO indicates that
+SBG is expected to decline through to 2035,
+largely due to the decommissioning of the
+Pickering Nuclear Generating Station and, from
+2020-2028, as units at the Darlington and Bruce
+Nuclear Generating Stations are being brought
+out-of-service for refurbishment in the 2020s.
+Periods of SBG will be further impacted by:
+
+FIGURE 4-35 SURPLUS BASELOAD GENERATION AS
+A PERCENTAGE OF NET DEMAND
+
+
+
+Variability in seasonal demand and supply
+patterns, with period of SBG being more
+prevalent in the spring and fall months
+
+
+
+Shifting demand patterns brought on by demand response programs that seek to reduce peak
+energy usage, thereby shifting demand to traditionally off-peak periods
+
+130 Independent Electricity System Operator (IESO). 2016a. Ontario Planning Outlook. September 1. Accessed October 2017.
+http://www.ieso.ca/sector-participants/planning-and-forecasting/ontario-planning-outlook.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+140
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Increased uptake of electric vehicles, leading to increased demand for electricity overnight
+
+
+
+Increased use of electricity for heating homes
+
+
+
+Energy storage programs that will seek to store energy during periods of SBG, thereby limiting the
+availability of surplus electricity
+
+4.3.3.7 Forecasted Grid Capacity
+Capacity of the transmission network has implications for the location, size, and number of hydrogen
+generation facilities proposed to support Hydrail. Consideration would need to be given to
+forecasted capacity and congestion levels within each zone of the electricity system, which will have to
+be weighed against the cost associated with larger hydrogen generation and storage facilities, ability
+of the supplier to exercise flexibility in the timing of hydrogen production, and the cost of hydrogen
+transportation.
+While congestion in the system is currently manageable, future changes in demand and supply can be
+expected to increase congestion challenges as more variable and distributed energy resources come
+into service. Additionally, the retirement of the Pickering Nuclear Generating Station may increase
+flows from southwestern Ontario, resulting in higher congestion in the Southwest and Toronto zones.
+As Figure 4-36 shows, generation capacity in the
+Toronto and Bruce zones are expected to
+decline by 2020, due to a reduction in nuclear
+generation. Assuming flat demand, it can be
+expected that load congestion in the Toronto
+zone will be magnified, while generation
+congestion in the Bruce zone is expected to be
+somewhat alleviated, but not eliminated.
+
+FIGURE 4-36 ZONE GENERATION CAPACITY
+
+Generation capacity in the East, West, and
+Southwest zones is expected to increase.
+However, as noted in Section 4.3.2.2, these
+zones are currently uncongested, with some
+transfer capability.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+141
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.4
+
+Electricity Pricing
+
+Electricity prices in Ontario primarily comprise
+the HOEP and the GA. Transmission,
+distribution, regulatory, and other charges
+combined may also account for roughly
+20-30 percent of prices, and vary depending on
+location within the transmission grid.
+
+FIGURE 4-37 HOEP VS. GA
+
+The HOEP is the wholesale price of electricity
+and is determined in a real-time market,
+operated by the IESO. The HOEP changes
+hourly, based on demand and supply of
+electricity. It is significantly impacted by time of
+day, day of week, weather factors, and economic
+conditions.
+Every day, the IESO forecasts electricity demand for the days and weeks ahead. Generators and
+electricity importers submit offers to supply electricity and indicate the prices they are willing to
+accept. Large customers and exporters submit bids for electricity purchases at specified prices. The
+IESO accepts the lowest cost offers to supply electricity to meet demand. A new market clearing price
+is set every 5 minutes. The HOEP is the average of the 12 market clearing prices set in each hour. The
+impact of demand and supply forces on the electricity market results in a higher HOEP during peak
+demand periods and a lower HOEP during periods of excess supply (SBG).
+The GA is paid by all Ontario electricity customers, and reflects the net cost of electricity generation
+and the cost of delivering conservation programs. The GA varies monthly, adjusting for the difference
+between the HOEP and the cost of regulated and contracted generation.
+The main components of the GA are:
+
+
+GA-OEFC-NUG (M$) – Contracts administered by the Ontario Electricity Financial Corporation with
+existing generation facilities
+
+
+
+GA-OPG (M$) – Ontario Power Generation nuclear and baseload hydro generating stations
+
+
+
+GA-OPA (M$) – Contracts with the IESO (and with the former Ontario Power Authority) for new
+gas-fired generation, renewable facilities, energy from waste and biomass, nuclear
+refurbishments, as well as conservation programs.
+
+4.3.4.1 Electricity Pricing for Large Businesses
+Industrial customers with an average peak demand of over 1 MW and targeted manufacturing and
+industrial customers with peak demand of over 500 KW and under 1MW (collectively, Class A
+customers) are eligible for participation in the Industrial Conservation Initiative (ICI), which was
+introduced in 2010.
+Through the ICI the GA attributed to participating customers is calculated based on the customer’s
+percentage contribution to the top five peak Ontario demand hours, over a 12-month base period.
+The ICI, therefore, allows participating customers to manage their GA costs by reducing demand
+during peak periods, and allows the province to defer building new electricity infrastructure to meet
+peak demand. It is estimated that in 2016, the ICI helped to reduce peak electricity demand by
+approximately 1.3 GW.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+142
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The peak demand factor (PDF) is calculated by taking the sum of the customer’s demand during the
+top five peak Ontario demand hours in the base period (May 1 to April 30), and dividing it by the total
+system consumption during those hours. The calculated ratio is the customer’s peak demand factor.
+The customer’s monthly GA cost is calculated by multiplying the PDF by the provincial GA cost in each
+of the ensuing 12 months (July 1 to June 30).
+A participating customer can manage their GA costs by reducing electricity use during forecasted
+peak hours. The IESO provides tools to track current and projected demand, along with a forecast of
+system conditions. Peak periods generally coincide with:
+
+
+Heat waves in the summer or cold snaps in the winter
+
+
+
+Weekday afternoons in the summer
+
+
+
+Early weekday evenings during the winter
+
+A customer who can significantly reduce electricity usage during peak hours will have relatively
+minimal GA costs. It is however noted, as discussed in sections 4.3.3.5 and 4.3.3.6, that a variety of
+factors can impact demand patterns and that demand patterns are expected to the change in the
+future. An important consideration for Hydrail is that peak demand hours may be more difficult to
+predict than they are presently.
+
+4.3.4.2 Policy Initiatives Impact on Electricity Prices in Ontario
+Electricity prices are driven by decisions of the past and those decisions impact prices long into the
+future. Policy initiatives or pricing regimes may either shift the cost of investments from one user
+group to another or defer costs to future generations, based on economic or social factors at play at
+the time of consideration. As history has shown in Ontario, electricity policy and investment priorities
+change over time and likely will continue to evolve as market conditions and government policy
+priorities evolve.
+The ICI is a policy initiative of the Government of Ontario that was designed to reduce peak demand
+and to support Ontario’s industrial sector. While the ICI has effectively achieved its objective to date,
+the policy could be challenged on merit, as it may be argued that the ability to shift consumption of
+electricity away from peak hours should not absolve a company of its obligation to share in the costs
+that the GA is designed to recover.
+Notwithstanding, it is noted that electricity pricing in Ontario is generally expected to move to more of
+a market-driven model. Under such a model, consumption during hours of high demand should
+ultimately result in higher electricity costs, with the reverse also applying. Accordingly, while the ICI
+may be terminated or decline in significance in the future, the principle upon which it is based will
+likely still apply.
+Other recent policy initiatives of the Province have led to an average 25 percent reduction in
+electricity prices for residential and small business customers in 2017 under the Fair Hydro Act, 2017.
+Initiatives under the Fair Hydro Act 2017 include refinancing of a portion of the GA to spread the cost
+of electricity investments over a longer time period, thereby reflecting the longer lifecycle of existing
+facilities, and sharing the costs with future generations.
+As outlined in the 2017 LTEP, the government is also considering measures to provide electricity rate
+assistance to non-Class A mid-sized customers (Class B customers). One such consideration is a
+change to the way the GA is charged to these customers, who currently pay the same GA charges
+regardless of time of use. It is not yet known whether these measures will impact the way GA costs are
+charged to other customers.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+143
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.4.3 Market Renewal
+Market Renewal is a set of initiatives intended to redesign Ontario’s electricity market, leading to
+reduced supply costs and increased flexibility. These initiatives will:
+
+
+Improve the way Ontario acquires supply to meet medium- and long-term needs;
+
+
+
+Enable the IESO to more cost-effectively schedule and dispatch electricity to meet demand as it
+changes from hour-to-hour and minute-to-minute; and
+
+
+
+Increase flexibility, enabling the IESO to more efficiently manage unexpected short-term changes
+to the system, like those that can be caused by variable generation such as wind and solar.
+
+Market renewal is expected to result in cost savings, given more efficient use of existing assets, which
+is consistent with the province’s long-term plans. It will also lead to greater market competition and a
+more flexible procurement process that is better aligned with system needs.
+
+4.3.4.4 Pricing Outlook
+Under Outlook B, the IESO expects that the average unit cost of operating the electricity system will
+gradually increase to $152/MWh by 2025, relative to $144/MWh in 2016. Thereafter, the cost is
+expected to generally decline to $131/MWh by 2035. The decline is based on the renewal of existing
+generating contracts at lower rates, as existing generators continue to operate at costs below existing
+contract rates, and given reduced investment in electricity resources.
+Under Outlook D, the cost of electricity in
+2025 is expected to range from $155/MWh to
+$160/MWh, given the need to invest in
+additional resources to meet higher demand,
+while keeping emissions low. The average
+unit cost is expected to generally decline,
+ranging from $137/MWh to $142/MWh by
+2035, as existing contracts are renewed at
+lower rates and higher volumes reduce the
+average cost of operation.
+
+FIGURE 4-38 CLASS A ELECTRICITY PRICE FORECAST
+
+The projection for the price of electricity for a
+typical large industrial customer, as presented
+in the 2017 LTEP is outlined in Figure 4-38.
+The all-in price of electricity, reflecting the HOEP, transmission, regulatory and other costs, and the
+GA, is expected to range from $102/MWh in 2025 to $116/MWh in 2035.
+
+4.3.5
+
+Implications for Hydrail
+
+4.3.5.1 Provincial Policy Objectives
+Electrification of transportation, both by means of overhead electrification and using HFC technology,
+is consistent with policy objectives as set out in the Premier’s mandate letter to the Minister of Energy.
+The use of HFC technology presents the added benefit of supporting the growth of the low-carbon
+economy and the reduction of GHG emissions, by potentially allowing for a broader replacement of
+diesel trains on the GO network with electric trains than would be possible through overhead
+electrification. Further to this, Hydrail could allow for load-shifting, by consuming electricity when
+there is SBG, versus adding to peak demand as would be the case with overhead electrification.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+144
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Hydrail, therefore, also could support the Province’s goal of driving efficiencies and limiting
+expenditure on new electricity infrastructure.
+
+4.3.5.2 Capturing SBG
+The assessment shows that, while the level of SBG is expected to decline, electricity production is
+expected to exceed Ontario net demand by 1-4 percent from 2024 to 2035. There are however
+seasonal variations in the level of SBG and, particularly given the increasing reliance on renewable
+energy in the province’s energy supply mix, weather related factors can further impact electricity
+generation, and therefore SBG. SBG is often available over short periods of time and to fully capture it
+would require an infrastructure build-out that would allow for the production and storage of hydrogen
+over short periods of time, which would be idle outside of these periods.
+The ability to harness SBG to produce hydrogen is a function of the scale of hydrogen production
+(current density) and storage (volume) infrastructure, relative to when the SBG is available. Using
+hydrogen production and storage assumptions from the Hydrail simulation model, along with
+demand projections as presented in the 2016 OPO, modelling work shows that only approximately
+14-35 percent of the annual amount of hydrogen required to support Hydrail can be produced from
+electricity supplied during periods of SBG over the 2025-2035 time frame. Furthermore, the same
+analysis shows that only 6-23 percent of operating days over the forecast period could be fully
+supplied by SBG.
+A further consideration is the province’s plans to incorporate energy storage technologies in
+managing the electricity system. The use of such technologies will lead to a further reduction in excess
+supply, as surpluses would be at least partially captured and stored by the province, thereby reducing
+the amount supplied to the market. The use of energy storage technologies would limit the ability of
+market participants to capture surplus baseload generation.
+Therefore, it is unlikely that the Hydrail System will be able to operate solely on electricity produced
+during periods of SBG. Accordingly, while the system would be able to avoid Ontario peak demand
+hours, therefore producing during off-peak hours, the system as currently designed, will not be able
+to consistently minimize the price of electricity, as it will be limited by the density of the hydrogen
+production facilities and the capacity of the hydrogen storage facilities.
+
+4.3.5.3 Electricity Pricing
+As noted in the preceding sections, the HOEP is market driven, with lower prices during periods
+where the supply of electricity exceeds demand. Further to this, based on the current pricing structure
+and government policy initiatives, the ability to consume electricity outside of peak provincial demand
+hours can allow for the elimination of GA costs. On this basis, assuming the current pricing and policy
+regimes remain in effect, Hydrail presents certain benefits in respect of the unit cost of electricity
+relative to overhead electrification. These benefits are derived from the flexibility to schedule
+hydrogen production outside of Ontario peak demand hours, thereby minimizing or avoiding GA
+charges, and at times of lower HOEP thereby realizing lower electricity costs. This benefit must be
+weighed against the increased rate of consumption of electricity (for traction) in the case of Hydrail
+relative to overhead electrification, which could somewhat negate the unit cost advantage of Hydrail
+when considering the total overall cost of electricity.
+A further consideration is the potential shift in provincial demand patterns and the impact this will
+have on the peak/off-peak variance in the HOEP. The production of hydrogen will result in an increase
+in demand for electricity during periods of hydrogen production, which, given the significant load it
+will represent, could cause upward pressure on prices during that period. Additionally, as the
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+145
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+province encourages the electrification of transit and demand response programmes, both of which
+shift demand away from peak periods, it can be expected that there will be increased demand for
+electricity during traditional off-peak periods, which could in-turn increase the HOEP during these
+periods. This will likely result in a reduction of the variance in HOEP, and therefore also a reduction in
+cost advantage for consumption during traditional off-peak periods. Should this be the case, the unit
+cost advantage of Hydrail relative to overhead electrification will be partially eroded.
+The government’s ICI program is intended to help flatten out the daily energy consumption profile by
+shifting demand to off peak periods. The success of these programs can be viewed as a risk to the
+Hydrail business case, especially considering the significant electricity requirements to produce
+hydrogen at the required scale for the rail network.
+
+4.3.5.4 Location of Hydrogen Generation Facilities
+As noted in Section 4.3.2.2, there are load and generation constraints in some zones across the
+Ontario electricity system. At present, decentralized hydrogen production to support Hydrail is being
+considered. Relative to centralized production, decentralized production would allow for smaller
+loads being drawn across different zones of the grid, from production facilities located along each line
+of the GO network. There are pros and cons to decentralized production, depending on the capacity
+constraints within the zones being contemplated and the location of potential hydrogen generation
+facilities relative to the GO network. Such matters would be resolved through detailed planning and
+procurement activities.
+The GO network extends across the East, Essa, Toronto and Southwest zones. In the East and
+Southwest zones, generation either exceeds or meets peak demand, with generation capacity
+expected to increase by 2020. Both zones are generally uncongested, and should therefore allow for
+additional loads. The Lakeshore East line extends into the East zone, while the Lakeshore West and
+Kitchener lines extends into the Southwest zone.
+In the Toronto and Essa zones, resources are less than peak demand, and both zones are load
+congested. The situation within the Toronto zone is expected to be magnified by the anticipated
+decommissioning of the Pickering nuclear generating plant by 2024.
+All GO lines run through the Toronto zone, however there may be locational challenges within the
+zone (space, property zoning, environmental, price), which may be compounded by limited public
+acceptance, particularly given the urban setting, as discussed in Section 4.8. The Barrie, Stouffville and
+Richmond Hill lines all run through the Essa zone.
+A decentralized approach to hydrogen production (described in Section 4.1) would involve the
+establishment of generation facilities along each line of GO network, crossing each of the four zones
+discussed. The significant advantage of decentralized generation is the cost advantage of smaller
+facilities along each line of the GO network. Based on the foregoing, there may however, be other
+challenges associated with this approach. One significant challenge is the limited capacity within
+Toronto, a situation that is expected to persist for the foreseeable future.
+A similar challenge would also be faced in the Essa zone. Further to this, consideration should also be
+given to the competing demands of electric vehicles, the continued adoption of which the 2017 LTEP
+acknowledges could have a significant impact on the province’s distribution network. Should
+hydrogen generation facilities be established within these zones, careful planning would be required
+to ensure hydrogen generation does not inadvertently stress local grids.
+Centralized hydrogen production facilities could be placed within the East zone, along the Lakeshore
+East line. In a semi-centralized scenario, hydrogen generation facilities could be located in the East
+and Southwest zones, along the Lakeshore East, Lakeshore West and Kitchener Lines.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+146
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.6
+
+Electricity Pricing Forecast for Hydrail
+
+Electricity prices for RER under Hydrail have been projected based on forecasted electricity prices in
+Ontario and the Hydrail production simulation model. The electricity price assumptions are outlined in
+Table 4-27.
+TABLE 4-27 ELECTRICITY PRICE ASSUMPTIONS
+Price Component
+Hourly Ontario
+Electricity Price
+(HOEP)
+
+Assumptions
+The forward looking HOEP was estimated by IESO using the following logic:
+
+
+Historical HOEP pattern for each year was developed by dividing each hourly HOEP by the
+annual average to get the yearly mean-normal pattern.
+
+
+
+The most representative historical HOEP pattern was selected for each of the projected years
+(2017-2035)
+
+
+
+Historical HOEP patterns were scaled to the appropriate annual average marginal cost using
+numbers in-line with the 2017 LTEP.
+
+Global Adjustment
+
+The forward-looking GA charges are based on the forecast presented in the 2013 LTEP for a
+typical industrial customer. It is noted that, with the introduction of Hydrail, projected GA charges
+may be impacted, as discussed in Section 4.3.4. An assessment of the impact of same is,
+however, not within the scope of this study, and accordingly no adjustments have been made to
+the forecasts presented in the LTEP.
+
+Regulatory and
+Transmission charges
+
+The forward looking regulatory and transmission charges are based on the forecast presented in
+the 2013 LTEP.
+
+The Hydrail Operational Simulation Model (described in Section 4.4.1) includes an algorithm that uses
+the HOEP price and the amount of hydrogen required for the Hydrail System to create a hydrogen
+production schedule that minimizes the cost of electricity, subject to the capacity of the hydrogen
+production and storage facilities.
+Given the optimized production schedule as described above, no electricity would be consumed
+during Ontario peak hours and therefore, under the ICI, the system would not be subject to GA. The
+ICI is however, a policy initiative and therefore subject to changes as discussed in section 4.3.4.1. On
+this basis, two pricing scenarios were developed based on whether the system is subject to GA
+charges.
+In the low case, the electricity price is estimated based on the assumption that the system operator
+pays no GA charge. In the high case, it is assumed that the ICI is discontinued and therefore, the
+operator pays full GA charges.
+The electricity pricing scenarios for Hydrail are presented in Table 4-28.
+TABLE 4-28 ELECTRICITY PRICE FORECAST FOR HYDRAIL BASED ON ONTARIO’S 2017 LTEP
+2024
+
+2025
+
+2026
+
+2027
+
+2028
+
+2029
+
+2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+2035
+
+Low Case ($/MWh)
+
+34.2
+
+35.6
+
+41.2
+
+39.3
+
+40.3
+
+41.5
+
+42.6
+
+43.8
+
+44.4
+
+45.2
+
+46.4
+
+48.4
+
+High Case ($/MWh)
+
+68.7
+
+61.7
+
+77.1
+
+73.9
+
+74.6
+
+73.8
+
+72.7
+
+72.9
+
+74.2
+
+75.2
+
+76.1
+
+77.9
+
+The 10-year average electricity price for Hydrail is estimated at $46 /MWh and $76 /MWh without and
+with GA, respectively.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+147
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.3.7
+
+Summary of Key Findings
+
+The foregoing assessment of the Ontario electricity system, pricing and policies indicates that in
+considering electrification of the GO network with Hydrail, electricity pricing assumptions must
+consider:
+
+
+The possibility of being unable to consistently capture SBG due to an increase in demand for
+electricity, combined with relatively stable supply, increased use of energy storage technologies
+and reducing the occurrence of SBG. Due to these factors as well as the limitations of the
+production and storage facilities, conservative assumptions should be made about capturing SBG
+and the electricity prices associated with off-peak energy usage.
+
+
+
+A change in electricity pricing policy negatively impacting on electricity pricing. As noted in
+Section 4.3.4, the current pricing regime may change such that the ability to avoid GA charges
+does not persist in the future. This will have a significant impact on the overall cost of electricity
+and will reduce the unit price advantage that would be afforded to Hydrail under the current
+regime.
+
+
+
+A shift in demand profiles leading to a smaller differential in peak and off-peak pricing peak. The
+load presented by Hydrail is significant; therefore, it will impact provincial electricity, given the
+shift in the demand profile during off-peak periods. This will reduce the differential between peak
+and off-peak hours, thereby reducing the unit price advantage of Hydrail relative to overhead
+electrification.
+
+
+
+The impact of the added load required by Hydrail on overall electricity prices (given an increase in
+demand). In addition to impacting electricity pricing during off-periods, the load introduced by
+Hydrail will increase overall demand for electricity, also driving an overall increase in the price of
+electricity, given the expectation for supply to remain relatively constant. A further consideration is
+the impact on the GA, as an increased load consuming what would otherwise be surplus
+electricity, should result in a general reduction in the GA charges applied across all customers.
+
+Further to this, in determining whether to take a centralized or decentralized approach to hydrogen
+generation, careful consideration should be given to load constraints within different zones of the
+electricity system, and the implication for the ability to operate electrolyzers without any destabilizing
+effects on the electricity grid.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+148
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.4
+
+Costs and Benefits
+
+One of the primary goals of the feasibility study is to analyze the anticipated financial impact of Hydrail
+on the RER program. To perform this analysis in a way that will allow for a comparison of Hydrail and
+the currently contemplated electrification scenarios, models that are in use by Metrolinx were used as
+the starting point for the analysis presented in this section.
+The financial impact was analyzed by following six steps:
+1. The GO RER network was modelled by CNL (the “Hydrail Operational Simulation Model”) to
+determine the requirements of a Hydrail System (quantity of hydrogen needed, infrastructure
+requirements, fuelling).
+2. The IBC model from 2014 was analyzed to gain an understanding of how the BCR was developed
+and to identify the key items that would change under a Hydrail scenario.
+3. Relevant cost inputs from the Hydrail simulation model were used to update the IBC model. An
+interface sheet was developed to capture capital, capital replacement, operating, and
+maintenance costs for Hydrail.
+4. Low- and high-cost scenarios were developed for key input variables (for example, cost of
+electricity, capital costs of Hydrail components and life cycle of assets). These assumptions were
+used to develop a range of costs for the Hydrail System.
+5. A sensitivity analysis was then performed to determine which cost inputs have the most significant
+impact on total cost. Those costs were then further scrutinized.
+6. Based on the results of the sensitivity analysis, Low- and high-cost ranges were finalized to allow
+for comparison with overhead electrification.
+The financial modelling process is shown in Figure 4-39. Each step in the modelling process will be
+reviewed in more details in the sections that follows.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+149
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-39 HYDRAIL MODELLING PROCESS
+Modeling Stage
+Review of RER
+Benefit‐Cost
+Ratio (BCR)
+
+Incremental Benefits of RER
+
+÷
+
+• New & existing transit user time
+savings
+• Peak & off‐peak road user time savings
+• Automobile operating cost reduction
+• Safety benefits
+
+Operating Costs:
+• Crew, fuel costs
+• Rolling stock, infrastructure
+maintenance
+• Electrification OPEX
+• Other
+
+BCR
+Capital Costs:
+• Infrastructure, fleet, car
+parking, maintenance facility,
+property costs
+• Union station costs
+• Electrification CAPEX
+• Other
+
+3.07
+
+Incremental Costs of RER Hydrail
+
+Hydrail System
+Modeling
+Unchanged
+
+Comparative IBC
+Analysis
+
+Incremental Costs of RER
+
+Unchanged
+
+Hydrail simulation including updates to costs associated with electrification,
+including high/low estimations for:
+• CAPEX
+• OPEX
+• Maintenance
+
+Updated to include incremental Costs of RER hydrail
+
+2.65 – 3.01
+
+Identify three cost inputs which explain variability in capital
+and operating costs
+
+Sensitivity
+Analysis
+
+Unchanged
+
+Hydrial CAPEX, OPEX and Maintenance cost most sensitive to:
+• Price of fuel cells ($/kW)
+• Lifetime of fuel cells (hours)
+• Cost of electricity ($/MWh)
+
+Notes:
+CAPEX = capital expense
+OPEX = operating expense
+
+4.4.1
+
+Review of RER Benefit to Cost Ratio Development
+
+The model used for purposes of the feasibility study is the IBC for RER. The IBC model was developed
+by a team of Metrolinx staff and consultants in April 2014 in response to the commitment made by the
+Province of Ontario to implement RER within a 10-year period. The IBC model outlines the business
+case to support RER. Outputs include net benefits, system costs and BCRs. Net benefits explain
+whether a scheme is actually worthwhile as a whole, and if it is, by how much. For instance, time
+savings to existing and new transit users is a benefit of RER. A complete list of benefits is provided in
+the ensuing sections. The BCR also shows how much confidence is required in the accuracy of the
+cost and revenue estimates. System costs include capital costs and operating costs, which will be
+discussed in detail in the following sections.
+The IBC model includes virtually every aspect of the GO rail system and models the impact of
+converting the system from a diesel-powered commuter railway to an electric regional express system
+that will provide faster, more frequent and all-day services across the Greater Toronto and Hamilton
+Area (GTHA). The model includes a financial case (i.e., estimation of capital costs, overheads,
+revenues, other income), an economic case (i.e., estimation of benefits), and a deliverability and
+operations case (i.e., Union Station, maintenance facilities, and operating and maintenance cost
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+150
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+estimates). The IBC model evaluates benefits and costs associated with five different build-out and
+operating scenarios131, including:
+
+
+Scenario 1: Do Minimum - Peak-focussed limited capital with no electrification.
+
+
+
+Scenario 2: Two-Way All-Day - Enhanced diesel service on all corridors with no electrification.
+
+
+
+Scenario 3: 10-Year Plan - Frequent service on most inner corridors with limited electrification.
+
+
+
+Scenario 4: Full Build (Beyond 10-Year Plan) - Frequent service on all inner corridors with full
+electrification.
+
+
+
+Scenario 5: Optimized (10-Year Plan Optimized) - Frequent service on most inner corridors with
+significant electrification will be achieved under this scenario.
+
+The IBC model evaluates each scenario over 60 years, from January 1, 2015 to December 31, 2074.
+All monetary values are in 2014 Canadian dollars. Except where otherwise indicated, future values are
+presented as net present value (NPV), using a real discount rate of 3.5 percent per year. The model
+has provision for escalation of many costs and for some other key assumptions, including train crew
+wage rates, diesel fuel, traction electricity, cost of driving, value of time (VOT) and average GO rail
+fares. Automobile operating costs are assumed to rise at 0.7 percent per year in real values, while
+VOT is assumed to increase at 1.6 percent per year in real values. All benefit and cost figures are
+calculated as incremental to the Do Minimum scenario, which forms the base case.
+Examples of variables included in the IBC model include project timing, rolling stock and fleet
+configurations, train services, network infrastructure and connectivity, track ownership, station and
+maintenance facilities, fares, ridership/demand, economic benefits, bus operations, parking, and
+others to enable monitoring of economic attractiveness. Figure 4-40 illustrates the modular
+construction of the model.
+
+131 GO RER Initial Business Case
+http://www.metrolinx.com/en/regionalplanning/projectevaluation/benefitscases/GO_RER_Initial_Business_Case_EN.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+151
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-40 MODULAR CONSTRUCTION OF THE IBC MODEL
+
+To the extent possible, the IBC model reflects the structure of costs and understanding of passenger
+behaviour. Unit rates and total rates of growth, including costs, revenues and productivity factors,
+have been calibrated against actual experience, either by GO or by comparable operators.
+Infrastructure capital costs are based on recent GO project costs. The IBC model can be used to test
+different service options, assumptions and policies.
+Table 4-29 includes key economic, cost, and policy assumptions included in the IBC model.
+TABLE 4-29 KEY ASSUMPTIONS INCLUDED IN THE IBC MODEL
+Item
+
+Assumption
+
+Project Life
+
+60 years
+
+Discount Rate
+
+3.5% percent
+
+Implementation
+
+All new services commence 2024
+
+Underlying Demand Growth
+
+2.3% per year on average (varies by route) to 2044; in all
+scenarios, peak capacity is added to maintain current
+average train loads
+
+Fares
+
+No changes to 2015 fare structures; no real increases in
+fares (i.e., no fare increases ever)
+
+Other Charges
+
+Other charges are assumed, represented by a potential
+parking charge implemented before the end of the RER
+program
+
+Costs
+
+No real increase in train crew labour, diesel fuel or
+electricity costs
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+152
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-29 KEY ASSUMPTIONS INCLUDED IN THE IBC MODEL
+Item
+
+Assumption
+
+Auto Operating Costs
+
+$0.63 per kilometre, increasing at 0.7% per year to 2044
+
+Environmental Assessment, Engineering and Design
+
+15% percent of base capital costs
+
+Infrastructure (Corridors)
+
+Contingency – 50% of base capital costs
+Productivity and resource factor – 25% of base capital costs
+
+Infrastructure (System-wide components)
+
+Contingency – 50% of base capital costs
+
+Costs in the IBC Model
+The IBC model includes capital and operating costs as categorized in Table 4-30.
+TABLE 4-30 CATEGORIZATION OF COSTS IN THE IBC
+Capital Costs
+Infrastructure (stations, tracks, retaining walls)
+Electrification capital costs
+Property
+Car parking
+Fleet
+Union Station capital costs
+CN and CP Accommodation
+CBTC signalling system
+PTC
+Electrification of Willowbrook
+EMU Maintenance Facility
+Other
+Operating Costs
+Crew
+Fuel
+Electricity for Traction
+Rolling Stock Maintenance
+Infrastructure Maintenance
+User Charges - Plant and Roadway
+Other
+Notes:
+CN = Canadian National Railway
+CP = Canadian Pacific Railway
+PTC = positive train control
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+153
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+IBC Model: Capital Costs
+Capital cost estimates were completed in 2014 based, wherever possible, on GO’s most recent
+project experience. This is the case mostly with track, stations, civil infrastructure (such as bridges),
+retaining walls, noise walls, road-rail and rail-rail grade separations, conventional signalling, diesel
+locomotives, unpowered bi-level cars and property acquisition. Electrification, electric rolling stock,
+and advanced train control prices were based on a range of industry sources, both published and

@@ -1,0 +1,2000 @@
+
+Scooters
+
+101
+
+0
+
+Buses and shuttle buses
+
+110
+
+28
+
+Light commercial vehicles
+
+38
+
+0
+
+Other or unknown vehicle types
+
+93
+
+1
+
+899
+
+102
+
+2,159
+
+1,397
+
+Active Vehicles
+Passenger Vehicle Total
+
+Planned Vehicles in 2017
+Total Vehicles by the End of 2017
+
+Initially only in Japan, in 2017, Toyota launched a fuel-cell-powered bus adapting the Mirai
+architecture with 2 of the Mirai’s fuel cell stacks and 10 of its hydrogen tanks, which provide
+considerable range. Indicating a significant commitment to fostering HFC development, Toyota is
+offering royalty-free use of their related suite of patents until the end of 2020.
+Both the Honda fuel-cell-powered Clarity and Hyundai’s fuel-cell-powered Tucson are only available
+in Southern California, where there are enough hydrogen fuelling stations. Their specifications are
+broadly comparable to Toyota’s Mirai.
+Fuel cells for vehicle propulsion on road vehicles, such as cars and sports utility vehicles (SUVs), are
+growing rapidly in recent years, as indicated on Figure 3-16.
+
+58 Pacific Northwest National Laboratory (PNNL) and U.S. Department of Energy (DOE). 2016a. International Hydrogen Vehicles.
+Spreadsheet data. Accessed October 2017.
+http://hydrogen.pnl.gov/sites/default/files/data/International_Hydrogen_Fueled_Vehicles_8.xlsx.
+59 Pacific Northwest National Laboratory (PNNL) and U.S. Department of Energy (DOE). 2016b. U.S. Hydrogen Vehicles. Spreadsheet data.
+Accessed October 2017. http://hydrogen.pnl.gov/sites/default/files/data/US_Hydrogen-Fueled Vehicles_6.xlsx.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+59
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 3-16 PEM FUEL CELL CONSUMER VEHICLES SOLD60 IN THE LAST 6 YEARS
+
+3.3.1.4 Material Handling Vehicles
+In Balzac, Alberta, Walmart’s new perishable distribution centre relies entirely on PEM-fuel-cellpowered forklifts and palette trucks61. Walmart chose this technology after 18,000 hours of field
+testing.
+Amazon is spending US$70 million to replace its forklift batteries in 11 warehouses with HFCs62.
+In contrast to batteries of any type, the fuel cells in this near continuous application are expected to
+operate for 10 years. This is a new enough application that the PEM fuel cell lifetime is a projection.
+Nonetheless, the projection is an indication of confidence in the lifetime of PEM fuel cells that
+manufacturers can now deliver; after their design life, they can be rebuilt. Some applications require
+operation at low temperatures, and Walmart’s test operations were unimpaired down to -29°C.
+The shipping industry (cargo ships, primarily) already uses fuel cells in various services63, including
+propulsion, onboard power generation, and CHP. This highlights the scaling and duty flexibility of
+various fuel cell types, including PEM fuel cells.
+
+60 The International Council on Clean Transportation (ICCT). 2017. Developing hydrogen fueling infrastructure for fuel cell vehicles: A status
+update. Briefing prepared by Aaron Isenstadt and Nic Lutsey. October. Accessed October 2017.
+http://theicct.org/sites/default/files/publications/Hydrogen-infrastructure-status-update_ICCT-briefing_04102017_vF.pdf
+61 Canadian Hydrogen and Fuel Cell Association (CHFCA). 2016. Case Study - Walmart Canada Fuel Cell Forklift Fleet. Accessed October
+2017. http://www.chfca.ca/say-h2i/materials-handling/walmart-canada-fuel-cell-forklift-fleet
+62 ars Technica. 2017. Amazon will replace some of its battery forklifts with hydrogen fuel cell ones. Conde Nast. April 5. Accessed October
+2017. https://arstechnica.com/information-technology/2017/04/amazon-will-replace-some-of-its-electric-forklifts-with-hydrogen-fuel-cellones/
+63 DNV GL - Maritime. 2017. Study on the Use of Fuel Cells in Shipping. EMSA European Maritime Safety Agency. Tomas Tronstad, Hanne
+Høgmoen Åstrand, Gerd Petra Haugom, and Lars Langfeldt, authors. Version 0.1. January. Accessed October 2017.
+www.emsa.europa.eu/emsa-documents/latest/download/4545/2921/23.html
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+60
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+3.3.1.5 Public Transit
+The public transit deployments of hydrogen-powered vehicles have begun through HFC-powered
+buses, mostly. There are about 150 buses currently in operation around the world (as shown in
+Table 3-2), and hundreds of buses are planned to be introduced by various transit companies in the
+next few years as part of the decarbonization targets set by the governments in countries such as
+China and members of the European Union (EU) to meet their commitments to the Paris Agreement
+of the United Nations (UN) Framework Convention on Climate Change, Article 4.1964.
+For buses, Ballard’s fuel cells have now passed 25,000 hours of operation without significant
+maintenance in a small fleet of vehicles being operated by Transport for London in the United
+Kingdom (UK). Deployed in 15 countries in the past 10 years, Ballard claims a cumulative
+11 million km of operation in revenue service in a wide range of climatic conditions and duty cycles65.
+The pace of deployment of fuel-cell-powered buses is accelerating rapidly. Bloomberg reported66
+that in September 2016, Ballard began delivering the first of 330 fuel cell buses to two cities in
+Guangdong province, Yunfu and Foshan. That order alone will quadruple the global fleet of
+hydrogen-powered buses. Most recently, on June 8, 2017, Hydrogenics signed a Purchase and
+License Agreement with Blue-G New Energy Science and Technology Corporation for 1,000 fuel cell
+bus power modules67—presumably for 500 buses.
+
+3.3.1.6 Fuel Cell and Hydrogen Joint Undertaking (European Union)
+The Fuel Cell and Hydrogen Joint Undertaking (FCHJU) is a substantial organization launched in 2014
+under the EU’s 6th Framework Programme for Research and continued under the EU Horizon 2020
+Framework. The partners are committed to supporting the program until at least 2024. It is led by
+companies representing the entire supply chain for fuel cell and hydrogen energy technologies. The three
+members of the FCHJU are the European Commission, fuel cell and hydrogen industries represented
+by Hydrogen Europe, and the research community represented by Hydrogen Europe Research.
+To quote from their website68:
+“This is a unique public private partnership supporting research, technological
+development and demonstration (RTD) activities in fuel cell and hydrogen energy
+technologies in Europe. Its aim is to accelerate the market introduction of these
+technologies, realising their potential as an instrument in achieving a carbon-lean
+energy system.”
+
+64 United Nations Framework Convention on Climate Change. 2017. The Paris Agreement. October 12. Accessed November 2017.
+http://unfccc.int/paris_agreement/items/9485.php
+65 Ballard Power Systems (Ballard). 2017. "Ballard Powered Fuel Cell Electric Bus Achieves 25,000 Hours of Revenue Operation."
+Newsroom. August. Accessed October 2017. http://ballard.com/about-ballard/newsroom/news-releases/2017/08/29/ballard-powered-fuelcell-electric-bus-achieves-25-000-hours-of-revenue-operation
+66 Bloomberg L.P. 2017. China's Buses Bolster Ballard's Three-Decade Quest for Hydrogen. Natalie Obiko Pearson, author. March 26.
+Accessed October 2017. https://www.bloomberg.com/news/articles/2017-03-26/china-s-buses-bolster-ballard-s-three-decade-quest-forhydrogen
+67 Hydrogenics. 2017b. "Hydrogenics Signs Purchase and License Agreement valued at over 50M USD for 1,000 Fuel Cell Bus Power
+Modules." News & Updates. June 8. Accessed November 2017. http://www.hydrogenics.com/2017/06/08/hydrogenics-signs-purchase-andlicense-agreement-valued-at-over-50m-usd-for-1000-fuel-cell-bus-power-modules/
+68 Fuel Cell and Hydrogen Joint Undertaking (FCHJU). 2017. Who We Are. Accessed October 2017. http://www.fch.europa.eu/page/whowe-are.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+61
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Its stated objective is to:
+“Overcoming barriers to deployment: There are still many technical and non-technical
+barriers to overcome before fuel cell and hydrogen technology is widely commercially
+available. A concentrated effort of all players is necessary, because the research
+needed to develop the technologies is often so complex that no single company or
+public research institution can perform it alone. Funding contributed by the partners
+has ranged upward of €600,000 in each of the six-year Framework periods and is
+currently over €200,00 per year.”
+The FCHJU appreciates the case for deployment of hydrogen and fuel cells:
+“Fuel cells, as an efficient conversion technology, and hydrogen, as a clean energy
+carrier, have a great potential to contribute to addressing energy challenges facing
+Europe. They will allow renewable energy technology to be applied to transport,
+facilitate distributed power generation, and help Europe cope with the intermittent
+character of renewables such as wind power.”
+They also appreciate the need for support of ongoing development and for building hydrogen supply
+infrastructure ahead of the demand that can only appear when fuelling is widely available.
+With its massive combination of the funding of private industry backed by large, multiyear
+government contributions from across the EU, substantial improvements in HFC technology will
+continue to unfold, lowering the technology’s capital costs and, to a lesser degree, its operating costs.
+
+3.3.2
+
+Case Studies
+
+3.3.2.1 BC Transit (Whistler, British Columbia)
+BC Transit operated a 20-vehicle fleet of fuel-cell-powered buses for transit in the skiing and tourist
+community of Whistler for 36 months between 2010 and 2013. The buses used Ballard’s PEM fuel cells and
+were hybridized with lithium phosphate batteries69. The concept was to showcase fuel cell technology for
+the 2010 Winter Olympics. The buses were well-accepted by the public, drivers, maintainers, and the local
+community. The project was delivered on-time and on-budget. The buses travelled more than 4 million km
+over their 4 years of operation, operating up to 22 hours per day in temperatures ranging from -20 to
++34.7°C. Over 590 tonnes of hydrogen were dispensed in over 23,000 fills without any safety incidents. An
+average of 15.7 kg of hydrogen was used for each 100 km of travel, displacing 52.5 litres (L) of diesel fuel,
+and avoiding emissions of almost 6,000 tonnes of CO2. There were no intrinsic problems with the fuel cells,
+and all but two of the 22 fuel cell power packs exceeded 8,000 hours of operation.
+Now, this was something of a pioneering deployment of fuel cells to power buses, and it proved to be
+an excellent learning opportunity, which was carefully analyzed by the U.S. National Renewable
+Energy Laboratory (NREL) for the Californian Air Resources Board70. This showed the need for welldirected integration of the various components (for example, integrating the fuel cell with its
+compressed air supply, or adapting the suspension to a different distribution of weights). With the
+
+69 Lithium phosphate batteries belong to the LIB family. They use lithium iron phosphate (LiFePO4) instead of the more usual lithium cobalt
+oxide (LiCoO2) as the cathode material. LiPO4 gives longer life and faster charge and discharge rates, but a somewhat lower energy density
+than LiCoO2.
+70 Eudy, L., and M. Post, M. 2014. BC Transit Fuel Cell Bus Project Evaluation Results: Second Report. Technical Report NREL/TP-5400-62317.
+National Renewable Energy Laboratory. September.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+62
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+wisdom of hindsight, it became clear that staff should have advanced training for different types of
+maintenance, and that distinctively different spare parts needed to be stocked.
+
+3.3.2.2 Independent Electricity System Operator Power-to-Gas
+(Markham, Ontario)
+Until about the middle of the 20th Century, “town gas” for heating was usually generated from coal.
+Town gas was a mixture of about equal quantities of hydrogen and carbon monoxide (CO). It had the
+serious disadvantage of CO’s toxicity and has, today, almost completely been displaced by natural gas.
+However, hydrogen—the other component of town gas—is not toxic and is poised to re-enter the gasfor-heat application. In the middle of 2015, the IESO procured a 2-megawatt (MW) power-to-gas (PtG)
+project to demonstrate the ability of hydrogen to provide grid services in Ontario71. The selected
+respondents (Hydrogenics and Enbridge Gas) will produce hydrogen from the 2 MW of electricity from
+the grid using the water electrolysis technology and then inject the gas into the natural gas pipeline
+owned and operated by Enbridge Gas. The PtG facility located north of Toronto will start operating in
+the next few months, providing the expected benefits to the grid by converting surplus electricity.
+
+3.3.2.3 Canadian Tire Warehouse (Brampton, Ontario)
+Forklifts are early adopters of fuel cell technology. Using internal combustion engines to power vehicles
+in large, enclosed, populated spaces presents the challenge of providing adequate ventilation. Very
+large, modern distribution centres rely on extensive use of forklifts, and Canadian Tire Corporation
+(CTC) was a leader in turning to HFC to power their forklift fleet in their Brampton warehouse.
+The traditional approach for forklifts has been to use a battery-electric drive using lead-acid batteries.
+These have four disadvantages:
+1. Recharging the batteries is slow, so the system relies on change-out at a recharge station. This is
+slow and cumbersome.
+2. Lead-acid batteries deliver a declining voltage as their charge level falls. This leads to a trend of
+noticeably slowing performance during a shift.
+3. The batteries are heavy.
+4. Batteries need to be replaced every 2 to 3 years.
+Rather than moving to newer types of batteries, the emerging consensus is to turn to HFCs. For their
+Brampton, Ontario centre, CTC uses onsite alkaline fuel cells to produce their hydrogen with grid
+electricity. The hydrogen then used in PEM fuel cells on the forklifts. The major advantages of the
+system are fast refuelling and higher asset utilization.
+The implementation of HFC forklifts at Brampton has been so successful that CTC is now equipping a
+new distribution centre in Bolton, Ontario with them.
+
+3.3.2.4 Walmart Canada Fuel Cell Forklift Fleet
+Walmart’s entire fleet of material handling equipment (MHE) at the Walmart Perishable Distribution
+Centre (PDC) in Alberta is now powered by HFCs72. Walmart decided to incorporate HFC forklifts and
+palette trucks in the PDC facility after the successful 4-month trial of fuel cell forklifts at two distribution
+71 Independent Electricity System Operator (IESO). 2016c. IESO Report: Energy Storage. March. Accessed October 2017.
+http://www.ieso.ca/-/media/files/ieso/document-library/energy-storage/ieso-energy-storage-report_march-2016.pdf
+72 Canadian Hydrogen and Fuel Cell Association (CHFCA). 2016. Case Study - Walmart Canada Fuel Cell Forklift Fleet. Accessed October
+2017. http://www.chfca.ca/say-h2i/materials-handling/walmart-canada-fuel-cell-forklift-fleet.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+63
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+centres. This trial achieved a 3.5 percent increase in productivity over comparable battery-powered
+forklifts.
+The forklifts are using hydrogen produced by Air Liquide from 98 percent hydro power, and fuel cells
+from Ballard. The Canadian Hydrogen and Fuel Cell Association predicted that this technology is
+delivering a $2 million reduction in operating costs (projected over a 7-year period) and contributing
+to a reduction of 530 tonnes of CO2 per year.
+
+3.3.2.5 Raglan Mine Energy Storage (Nunavik, Québec)
+Glencore’s Raglan Mine is located in the extreme northern part of Québec in the Nunavik region. As
+well as being an exceptionally low-cost producer of nickel, the mine coproduces copper and cobalt,
+and some precious metals. The reserve will support indefinite operation.
+Because of its remote, harsh, far-northern location, the mine is aiming for as much self-sufficiency as
+possible. One approach they have adopted is to harness wind energy, an abundant but unpredictable
+resource. Tugliq Energy Company was engaged to build and operate a system based on a 3-MW
+wind turbine to provide primary production of electricity, and then convert that to hydrogen by
+electrolysis. The 200-kW PEM fuel cell assembly can supply up to 20 hours of the mine’s electrical
+load. Potentially, hydrogen could also be supplied to fuel underground mine vehicles.
+In 3 years of operation (since August 2014), Tugliq has avoided consumption of 6 million litres of
+diesel fuel. Even allowing for very good wind availability in the Arctic, this is indicative of the system
+achieving a high-capacity factor over what is a comparatively short operating lifetime to date73.
+Unlike batteries, modern fuel cells are insensitive to low-temperature operation: Hydrogenics firstever fuel cell was deployed in Antarctica. So, while a BEV struggles to meet the heating demands of
+even southern Canada in winter, the integrated system at Raglan with its fuel cell stack easily
+accommodates winter temperatures that average around -20°C for 4 months of the year and
+delivered 97.8 percent availability in its first 20 months of operation, including two winters.
+Having demonstrated reliability and robustness to meet the risk profile of mining companies like
+Glencore, their experience as educated buyers and operators provides the assurance for applicability
+to community-sized deployments in remote areas of Canada’s North, as well as in less harsh
+environments.
+
+3.3.2.6 Fuel Cells used in Maritime Applications
+In 2017, the U.S. Department of Energy’s (DOE’s) Fuel Cell Technologies Office in the Office of Energy
+Efficiency & Renewable Energy released a report74 detailing the results of a maritime fuel cell
+generator project. This project was intended to:
+
+
+Demonstrate an HFC power generator for marine applications
+
+
+
+Verify increased energy efficiency at part loads and reduced emissions
+
+
+
+Identify areas requiring further research
+
+73 Tugliq Energy Co, www.tugliq.com
+74 Office of Energy Efficiency & Renewable Energy. 2017. DOE Shows Fuel Cells Used in Maritime Applications Can Increase Efficiency by 30
+percent. Washington, D.C.: U.S. Department of Energy. July 21. Accessed October 2017. energy.gov/eere/fuelcells/articles/doe-shows-fuelcells-used-maritime-applications-can-increase-efficiency-30.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+64
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Analyze the business case
+
+
+
+Address regulatory and other market barriers
+
+A 100-kW generator with 72 kg of hydrogen storage was designed and built by Hydrogenics, with
+safety and regulatory reviews by the Hydrogen Safety Panel, U.S. Coast Guard, and the American
+Bureau of Shipping. The project showed that it is possible to increase energy efficiency by up to
+30 percent at part load, and reduce emissions to zero through the use of HFCs.
+In a 2016 review paper, van Briet et al.75 note that, because fuel cells are modular in nature and the
+intrinsic performance of a single cell is not different from a large stack, ships can benefit from
+distributing units throughout the ship without a penalty of increased fuel consumption, reducing
+electricity transport losses, and improving redundancy. Furthermore, fuel cell systems are noted for
+being well-suited to fluctuating shipboard demands, since they have good part load characteristics.
+Very recently, the luxury cruise line Viking announced that their next ocean-going ship will depend
+entirely on HFCs for its 62.4-MW power system. Unlike the system envisaged by van Briet et al., which
+would produce hydrogen onboard by reforming a liquid fuel, Viking intends to supply their ships with
+LH2.
+
+3.3.2.7 Qingdao Light Rail Transit (Shandong Province, China)
+In 2015, Ballard signed a joint development and supply agreement to develop and commercialize a
+fuel cell engine specifically designed for integration into low floor trams manufactured by CRRC
+Qingdao Sifang Company, Ltd. (CRRC Sifang), a Chinese rolling stock manufacturer. The agreements
+included 2016 delivery of 10 customized FCvelocity modules, and the agreements have an initial
+value expected to be approximately $6 million.
+For this customer’s requirements, Ballard developed a new prototype configuration of their FCvelocity
+fuel cell module to deliver 200 kW of net power for use in powering trams in urban deployments.
+Ballard shipped five of these 200-kW modules to CRRC Sifang in 2017, and these will be used in the
+world’s first fully commercial service of fuel-cell-powered trams in Foshan starting in 2018. This
+hydrogen-powered tram will run in Foshan in southeastern China. A 17.4-km track will be built in two
+phases at 760 million yuan ($140.0 million) with 20 stations. Construction began in February 201776.
+This is an Asian first, as China will deliver new hydrogen light rail service in the region. A
+demonstration model of the trains was first rolled out in Qingdao in 2015.
+
+3.3.2.8 Canadian Fuel-Cell Buses in China
+In 2015 June, Ballard received an order for fuel cell modules for 33 buses in the cities of Yunfu,
+(Guangdong) and Rugao (Jiangsu), and 3 months later, for another 300 buses. This has just been the
+beginning and Zhongshan and Broad-Ocean Motor Co., Ballard’s biggest shareholder, who are now
+building three factories in China to make fuel-cell modules for vehicles using Ballard technology.
+Hydrogenics is also active in China, with an order to supply 1,000 fuel cell units for buses to Blue-G.
+Beside being a potentially huge market, the Chinese commitment to reducing GHG emissions is
+reinforced by the need to reduce local air pollution. As with many other new technologies, one can
+75 van Biert, L., M. Godjevac, K. Visser, and A. Purushothaman Vellayani. 2016 “A Review of Fuel Cell Systems for Maritime Applications.”
+Journal of Power Sources. 327, pp. 345-364.
+76 Smartrailworld.com. 2017. An Asian first as China will deliver new hydrogen light rail service. March 12. Accessed October 2017.
+https://www.smartrailworld.com/an-asian-first-as-china-will-deliver-the-first-hydrogen-train
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+65
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+expect China to master fuel-cell-bus technology rapidly and then to deploy their experience on the
+export market. In choosing to partner with local companies, the technically advanced Canadian fuelcell manufacturers appear to have recognized the value of this collaboration for entry to a major,
+global vehicle market.
+
+3.3.2.9 Vattenfall Fuelling Station (Germany)
+In partnership with Shell, the Vattenfall electricity company has operated a fuelling station in Hamburg
+since 2012 to supply cars and buses with 350-bar hydrogen (subsequently augmented with 700-bar
+capability). Half of its hydrogen is produced onsite by electrolysis; the remainder is shipped in77. So
+far, the station’s customers are largely city buses. While car refuelling service is available, there has
+been little implementation in Germany so far. However, the experience in southern California shows
+that HFC car ownership expands rapidly after a reasonably dense network of fuelling points is
+available, and the German situation is about to change with H2 Mobility planning to open 400 stations
+there by 2023.
+
+3.3.2.10 Alstom Coradia iLint (Lower Saxony, Germany)
+Germany’s first hydrogen-fuelled commuter train, with PEM cells from Hydrogenics, has been
+undergoing track trials since early in 2017 and will enter service before the end of the year. Alstom’s
+Coradia iLint is based on a diesel Coradia Lint antecedent, with the iLint replacing the diesel traction
+with fuel cell technology. It has a sustainable train performance, matching that of regular regional
+trains, running at 140 kilometres per hour (kph), with a 600 to 800 km per tankful autonomy, and
+accommodating up to 300 passengers. Like almost all fuel-cell-powered vehicles, it is a hybrid, using
+LIBs for regenerative braking and initial acceleration.
+Quoting from a New York Times story78,
+“…about 40 percent of Germany’s rail network is not electrified. And Alstom executives
+say that it would be cheaper to replace the diesel-powered trains with hydrogen
+vehicles than to string electric lines along the tracks.
+“Alstom says it has preliminary orders for 50 to 60 trains from German regional
+authorities. A commuter line like this one looks well-suited to hydrogen. The company
+can build a fuel supply system in a safe place like a rail yard of its choosing.”
+
+77 Fuel Cell and Hydrogen (FCH). 2016. “Hamburg's Hydrogen Buses and New Refuelling Station.” Clean Hydrogen in European Cities
+Newsletter. January 13. Accessed October 2017. http://chic-project.eu/newsletters/draft-chic-newsletter-122011/infrastructuredevelopment-draft-chic-newsletter-122011/hamburgs-hydrogen-buses-in-operation
+78 Reed, Stanley. 2017. “Hamburg Is Ready to Fill Up With Hydrogen. Customers Aren’t So Sure.” Business Day. New York Times. July 4.
+Accessed October 2017. https://www.nytimes.com/2017/07/04/business/hydrogen-cars-trains-planes-hamburg.html
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+66
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4
+
+Hydrail Assessment
+
+The objective of Part 4 is to provide a holistic view of the Hydrail System and how it can be taken
+forward. The sections in this part provide insights into Hydrail’s:
+
+
+Required system design
+
+
+
+Operational requirements and capacity
+
+
+
+Capital and operating costs
+
+
+
+Environmental implications
+
+
+
+Requirements in relation to regulations
+
+
+
+Socio-economic implications
+
+
+
+Public acceptability
+
+
+
+Implementation readiness
+
+
+
+Procurement strategy
+
+
+
+Transition plan
+
+
+
+Risks and opportunities that will need to be managed if the Hydrail System is implemented
+
+The sections also provide a comparison of the Hydrail System with conventional overhead
+electrification so that the reader can understand the comparative benefits and dis-benefits between
+the two systems.
+
+4.1
+
+Hydrail System Design
+
+Based on the above this section identifies the technology choices that are available for the
+configuration of the Hydrail System.
+It does this by assessing the hydrogen technology options identified in Part 3 to the required
+functionality of the Hydrail System at the level of its sub-systems.
+The output of this section are the parameters that are included in the Operational Simulation model
+described in section 4.2.
+The Hydrail System design entails the integration of various hydrogen component subsystems with
+various technologies that are existing in the market for both off-the-shelf purchase or as custom order
+items. The Hydrail System envisioned for the GO network would comprise the seven subsystems
+shown on Figure 4-1. It includes, from the GO service end:
+1. Hydrogen vehicle
+2. Hydrogen dispensing
+3. Hydrogen refuelling
+4. Hydrogen distribution
+5. Hydrogen storage
+6. Hydrogen production
+7. Electricity supply
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+67
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The components that would form the integrated hydrogen rail system in Ontario are:
+FIGURE 4-1 HYDRAIL SYSTEM COMPONENTS
+
+With the Hydrail System the subsystems of the vehicle, dispensing, refuelling, distribution, and
+storage share common characteristics with the current diesel-based system. However, unlike diesel,
+the scope of the Hydrail System includes the process of fuel production. A benefit of this is that the
+fuel price should be less variable than diesel as it brings into the control of Metrolinx one of the
+market externalities that currently affects it.
+
+4.1.1
+
+Key Components Overview
+
+Each of the subsystems within Hydrail, from hydrogen production to dispensing, is modular, to meet
+the evolving requirements of GO rail corridor. For example, the hydrogen storage can be built to
+meet the initial needs of an enhanced RER service on a given corridor and could then be expanded as
+the train service on the corridor grows over the future years. In relation to the hydrogen production
+subsystem, there are two options for where these can be located:
+1. At a distance from the GO network
+2. Onsite: located fairly close to refuelling facilities
+The first option could be a single, central facility or several locations convenient to refuelling points.
+The second option would be at as many locations as there are refuelling points. Due to modularity,
+dispersing electrolysis has little effect on total costs for either option.
+The decision as to which of the above options is preferred, will depend on the specific nature of each
+corridor and the decision criteria will include: availability and cost of land, electrical grid accessibility
+and any zoning restrictions.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+68
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.1.2
+
+Electricity Supply Subsystem
+
+The end-to-end Hydrail System begins with the supply of electricity to make hydrogen through water
+electrolysis technology. The Ontario electrical grid (as discussed in Section 3.2.3.1) is predominantly
+carbon-free with various supply options, as shown on Figure 4-2, from nuclear, to hydro-electric, to
+solar, and wind, with natural gas providing the peak-demand service. So, hydrogen production using
+surplus electricity results in over 80 percent GHG reduction for the GO system.
+The grid is primarily made up of the following components categorized as generators, consumers,
+and grid services (as implied in the layout on Figure 4-2). Depending on the price of electricity, as well
+as capacity for hydrogen storage, electricity is drawn from the Ontario grid and converted into
+hydrogen by water electrolysis, mainly at times of grid oversupply and low value for electricity in the
+market. Occasionally, when the hydrogen capacity is too low in the fuel inventory, electricity at higher
+prices is used—governed by the imperative of always meeting the GO network’s requirement for
+hydrogen.
+FIGURE 4-2 ELECTRICAL SUPPLY SYSTEM
+
+The parameters in Table 4-1 were used to design the electricity supply subsystem for the Hydrail
+System and support its operation in the long term.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+69
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-1 ELECTRICITY SUPPLY SUBSYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Impact
+
+Electricity price
+($/MWh)
+
+HOEP represents the electricity
+market price determined an hour
+ahead of time, giving enough
+response time for the hydrogen
+production equipment to react
+
+High, varies every hour and is tied to
+the surplus electricity in providing
+potential cost-savings when
+producing hydrogen during periods
+of lower priced electricity
+
+Operating cost
+
+Electricity required
+(GWh/d)
+
+Total amount of electricity required
+by the Hydrail System per day
+
+High, represents a significant amount
+of electricity consumption for one
+application in the province
+
+Operating cost
+
+Surplus electricity
+supply (GWh)
+
+Excess electricity that is generated
+but never used due to lack of
+demand at certain times of day
+
+High, determines the lower priced
+electricity at certain times of day and
+could change in the future,
+depending on the increase or
+decrease in demand for electricity and
+supply capacity
+
+Operating cost
+
+Future demand
+(GWh)
+
+Apart from demand arising in
+other sectors, electricity for other
+modes of transportation (e.g.,
+electric vehicles) could take
+advantage of the surplus
+electricity, so the demand for
+surplus could increase
+
+Medium, reduces the available
+surplus electricity; however, the
+amount of surplus existing now and in
+the future79 would be sufficient to
+keep Hydrail operating costs lower
+
+Operating cost
+
+Notes:
+$/MWh = dollar per megawatt-hour
+GWh = gigawatt-hour
+GWh/d = gigawatt-hour per day
+HOEP = Hourly Ontario Electricity Price
+
+4.1.3
+
+Hydrogen Production Subsystem
+
+The key elements of the water electrolyzer-based hydrogen production subsystem are shown on
+Figure 4-3. The electrolyzer stack converts water into hydrogen and oxygen, and all the other
+components are support equipment to make this conversion happen. The electrolyzers are made up
+of four primary components:
+1. Feed water system
+2. Electrolyzer stack
+3. Cooling and drying systems
+4. Power electronics (or power management)
+The components except the stack are jointly called the balance of plant (BOP). The stack is at the core
+of the hydrogen production subsystem shown on Figure 4-3 made up of several electrolysis cells
+stacked together. The stack is held together using mechanical compression either through bolt-nut
+79 Market Intelligence and Data Analysis Corporation (MIDAC) and NextHydrogen. 2016.
+Grid Integrated Electrolysis – Facilitating Carbon Emission Reductions in the Transportation, Industrial and Residential Sectors. October 31.
+Accessed October 2017. https://tinyurl.com/ybptfola
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+70
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+clamping with appropriate torque applied to the individual bolts or through other means at the time
+of manufacture. Hydrogen produced by the electrolyzer is in gaseous phase and is sent to the
+hydrogen storage subsystem for further compression or liquefaction, depending on the option
+chosen for the distribution and fuelling systems onboard the rail vehicle.
+FIGURE 4-3 HYDROGEN PRODUCTION SUBSYSTEM
+
+The parameters in Table 4-2 were used to design the hydrogen production subsystem for the Hydrail
+System to support long-term investment and operations.
+TABLE 4-2 HYDROGEN PRODUCTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Impacts
+
+A major cost component within the
+Hydrail System that is reducing with
+improvements in design, materials,
+and construction
+
+High, there are numerous modules of
+electrolyzer stacks needed to
+produce the required hydrogen for
+the Hydrail System. This cost is
+declining with improvements in
+design and growing numbers being
+produced.
+
+Capital cost
+
+Electrolyzer
+efficiency (kWh/kg)
+
+The deviation from theoretical
+efficiency (33 kWh/kg), the energy
+required to produce 1 kg of hydrogen,
+or the electrical conversion efficiency
+
+High, affects the amount of electricity
+required to produce hydrogen, so
+needs to be as low and close to the
+theoretical efficiency as possible
+
+Operating cost
+
+Electrolyzer current
+density
+
+The electrical current across the active
+area of each electrolysis cell within the
+electrolyzer stack
+
+Medium, manufacturers have
+enabled a wide range of operational
+current densities that can be used
+depending on the electricity price.
+Power consumption per unit of
+hydrogen produced increases with
+rising current density.
+
+Operating cost
+
+Since the Hydrail System would only
+produce hydrogen at times of lower
+electricity prices, the number of
+electrolyzer stacks needed increases
+by that much
+
+High, determines the increase in
+capital cost of the Hydrail System in
+additional electrolyzer stacks needed
+to produce the required hydrogen
+
+Capital and
+operating costs
+
+Electrolyzer cost
+($/kWe)
+
+(A/cm2)
+Range: 2 to 5
+
+Hydrogen
+production size
+(number)
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+71
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-2 HYDROGEN PRODUCTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+Refurbishment
+lifetime (hours)
+Range: 40000 to
+100,000
+
+Refurbishment cost
+factor
+(% of initial capital
+cost)
+Range: 30 to 60
+Land cost factor
+2
+
+($/m )
+
+Description
+
+Significance
+
+Impacts
+
+Specified as hours of operation
+instead of years, since the electrolyzer
+will not be operated uninterruptedly
+to use lower priced electricity periods;
+it is lower for PEM than for alkaline
+electrolyzers
+
+Medium, when the performance of
+the electrolyzer degrades to the point
+that it impacts its electricity
+consumption, it needs to be
+refurbished; operation at higher
+current densities reduces the lifetime
+
+Maintenance;
+replacement cost
+
+Electrolyzer stacks are refurbished
+when they reach the end of their
+lifetime, where the components, such
+as metal plates and other components
+in the BOP, are retained if quality is
+intact
+
+Medium, impacts the lifetime cost of
+the project, such that there is some
+savings in the long-term
+
+Maintenance;
+replacement cost
+
+The size of each electrolyzer stack
+determines the total land area
+required for the Hydrail System and
+the relevant cost of land
+
+Low, the cost of land should not be
+significant, even within the GHTA
+
+Capital cost of
+Hydrail System
+
+Notes:
+$/kWe = dollar per kilowatt equivalent
+
+GHTA = Greater Toronto and Hamilton Area
+
+$/m2 = dollar per square metre
+
+kg = kilogram
+
+percent = percent
+
+kWh/kg = kilowatt-hour per kilogram
+
+A/cm2 = amperes per square centimetre
+
+PEM = proton‐exchange membrane
+
+The inefficiency in the electrolyzers would result in heat generation from the stacks, so they have to be
+cooled to maintain the operating temperature at about 60 degrees Celsius (ºC). Usually, they are air
+cooled for smaller stacks, but for larger stack sizes or a combination of many smaller stacks, cooling
+water circulation with significant amount of cooling water would be required. To minimize the water
+usage, a cooling tower might be required. The current assessment estimated the amount of makeup
+water that would be needed by the cooling tower and is included in the assessment of the total
+amount of water required by the Hydrail System.
+
+4.1.3.1 Operational Characteristics: Current Density and Cheap Electricity
+The current density is a flexible operational parameter inherent to water electrolyzers that supports
+the operating economics of hydrogen generation for the Hydrail System. The performance curve in
+Figure 4-4 suggests the range of flexibility available to take advantage of the lower price of electricity
+at certain periods in a day within the Ontario electrical grid.
+The curve in Figure 4-4 shows the power consumption to produce one cubic metre of hydrogen by
+Hydrogenic’s PEM electrolyzers. Higher current density is less energy-efficient but concentrating
+hydrogen production at times of low electricity price can still be cost-efficient and using higher
+current densities at times of low electricity cost also reduces the capital cost of electrolysis cells.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+72
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-4 PEM WATER ELECTROLYZER PERFORMANCE80
+
+4.1.3.2 Proton-exchange Membrane (PEM) and Alkaline Electrolyzers
+As mentioned in Section 3.2.4 there are two types of water electrolyzers that are considered as part of
+the hydrogen production subsystem: a PEM electrolyzer and an alkaline electrolyzer. There are
+advantages and disadvantages between the two when compared, as listed in Table 4-3.
+TABLE 4-3 PROTON-EXCHANGE MEMBRANE AND ALKALINE WATER ELECTROLYZER COMPARISON
+No.
+
+Parameter
+
+PEM Water Electrolyzer
+
+Alkaline Water Electrolyzer
+
+1
+
+Electrolyzer
+efficiency
+
+Higher: 60-70 percent achievable, so results in
+relatively lower operating cost
+
+Lower: 50-55 percent achievable, so
+results in relatively higher operating cost
+
+2
+
+Capital cost
+
+Lower: 500-800 $/kWe
+
+Higher: 700-900 $/kWe
+
+3
+
+Single stack size
+
+Up to 3 MW
+
+Up to 10 MW
+
+4
+
+Gas outlet pressure
+
+Up to 3 MPa without compression
+
+Up to 1 MPa without compression
+
+5
+
+Electrolyte
+maintenance
+
+Offline, after deterioration, which might impact
+operations when the electrolyte needs
+replacement as part of the stack refurbishment
+phase
+
+Online, during regular operation, so the
+stack can remain intact indefinitely,
+improving lifetime of operation
+
+6
+
+Lifetime
+
+Lower: 50,000 hours of continuous operation
+
+Higher: 100,000 hours of continuous
+operation
+
+7
+
+Gas loss for drying
+
+None
+
+3.5 percent of the produced gas
+
+8
+
+Technology maturity
+and deployment
+
+Developed, yet to be established; deployed at
+small-scale
+
+Established; deployed for large-scale
+application
+
+9
+
+Ideal application
+
+Small- to large-scale production: Single stack
+size currently available up to 3 MW
+
+Large-scale production: Single stack size
+currently available up to 10 MW
+
+Notes:
+MPa = megapascal
+MW = megawatt
+
+80 Hydrogenics Inc., email dated 2017 August 23 from Joe Cargnelli
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+73
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The higher electrolyzer efficiency of PEM would have up to 15 percent reduction in operating cost
+compared to the alkaline electrolyzers. Until the efficiency of the alkaline electrolyzer is improved to
+match that of the PEM, for Hydrail-type systems, the PEM looks more attractive from an operating cost
+perspective. The impact from the larger stack size, longer lifetime, and economy of scale is yet to be
+assessed for the two types of electrolyzers. The larger stack size, for example, when using alkaline
+electrolyzers, is attractive for central or combined production scenarios. There could be one
+production facility for a combination of more than one or two GO rail corridors, requiring a larger
+number of electrolyzers in one given location, so the alkaline electrolyzers could prove economic
+benefits based on the initial and replacement capital costs.
+In terms of making a recommendation on these two technologies for use within the Hydrail System, it
+is too early, as there are unknowns (listed as follows) that make the decision difficult at this time:
+
+
+The number of central or combined locations for production
+
+
+
+If it is onsite production, the installed capacity requirement
+
+
+
+Transition plan for the Hydrail System – all corridors or one at a time, as this would also impact the
+decision on large-scale central production or small-scale onsite production
+
+
+
+Operational characteristics of the individual production centres at each location
+
+4.1.4
+
+Hydrogen Storage Subsystem
+
+The hydrogen storage subsystem is expected to be part of the production system or sited right next
+to the production system, as a temporary or transition storage system to manage the large volume of
+gas that would be needed by the Hydrail System. The key equipment within the hydrogen storage
+subsystem is shown on Figure 4-5 for both liquid and gas phases. The common equipment for either
+phase includes:
+
+
+Compressor
+
+
+
+Flow controllers
+
+
+
+Regulators
+
+
+
+Sensors
+
+
+
+Tanks
+
+
+
+Control system that distributes and manages electrical power
+
+
+
+Control signals to all the relevant equipment within the storage system
+
+The liquid phase, in addition, would have a refrigeration plant as part of the liquefaction plant to cool
+the hydrogen to about -253°C; at which point, hydrogen becomes a liquid.
+The gaseous hydrogen produced by the electrolyzers needs to be stored until it is required by the
+refuelling system. The amount of storage is dictated by the amount of electrolysis described earlier, to
+take advantage of the lower market price of electricity in the Ontario grid.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+74
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-5 HYDROGEN STORAGE SUBSYSTEM
+
+The parameters in Table 4-4 helped to design the hydrogen storage system for the Hydrail System to
+support its long-term investment and operations.
+TABLE 4-4 HYDROGEN STORAGE SUBSYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Feed gas pressure
+(MPa)
+
+Pressure of the gas that the storage
+system receives; the H2 outlet pressure
+from the production system
+
+Medium, dictates the additional
+compression that may be required
+when storing as compressed gas
+
+Operating cost
+
+Pressure at which the gaseous
+hydrogen could be stored temporarily
+before it is dispatched to the refuelling
+system; the pressure is chosen based
+on tank materials and related costs
+
+High, designed to be at relatively
+lower pressures, such that low-cost
+carbon steel tanks could be used,
+although the lower pressure could
+increase the number of tanks needed
+to store the same volume of gas
+
+Capital cost
+
+Duration of storage to support the
+varied production schedule. Larger
+capacity allows for greater access to
+lower-cost electricity
+
+Medium, larger duration helps in
+using lower-cost electricity. But the
+space in the storage location might
+not be supporting the additional tanks
+needed to support the longer
+duration.
+
+Capital cost
+
+Cost of the storage tank, including the
+support structures to estimate the tank
+portion of the total capital cost of the
+storage system based on the total
+volume of gas that needs storage
+
+High, dictates the type and storage
+pressure for gaseous hydrogen; there
+is a coherent relationship between the
+cost, tank material, and pressure
+
+Capital cost
+
+Range: 3 to 10
+Storage pressure
+(MPa)
+Range: 10 to 20
+
+Storage duration
+(hours)
+Range 24 to 96
+
+Storage tank cost
+factor ($/kg)
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Significance
+
+75
+
+Impacts
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-4 HYDROGEN STORAGE SUBSYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Impacts
+
+Storage phase,
+CGH2
+
+One of the phases hydrogen could be
+stored in; the gaseous phase is
+well-understood and characterized in
+the industry, and is a known
+automobile fuel when it comes to
+hydrogen applications
+
+Medium, initiates a series of design
+aspects throughout the Hydrail
+System, starting from the stationary
+storage to the vehicle onboard
+storage
+
+System
+configuration,
+energy
+requirements,
+operating cost
+
+Storage phase, LH2
+
+This is one of the phases in which
+hydrogen could be stored. Liquid
+phase storage is well understood and
+characterized in the industry, but it is
+less characterized as a fuel onboard
+the vehicle
+
+High, liquid hydrogen requires
+additional processing of the gaseous
+hydrogen that comes from the
+production system, so it is energy
+intensive
+
+Operating and
+capital costs
+
+Tank storage
+volume
+
+This refers to the design volume of
+storage per tank, used to determine
+the total number of tanks required to
+store the available H2 from the
+production system as per the design
+
+Medium, impacts the system cost and
+the commissioning of the storage
+system, especially if the land area
+available is limited or if the land is very
+expensive; would trigger the design of
+multilevel stacking of tanks on top of
+each other to reduce the overall
+footprint
+
+Capital and real
+estate costs
+
+Land cost factor
+($/m2)
+
+This is the factor that determines the
+total cost of land that is required by the
+storage system based on the location.
+
+Low, unless located in urban areas
+with high land costs; it would have less
+impact on costs if it is in the ROW
+
+Capital cost
+
+Compressor plant
+cost
+
+This is the capital cost of H2
+compressor, estimated based on the
+pressure required and the volume of
+gas to be compressed
+
+Medium, could become expensive if
+the volume of gas or the design
+pressure of the tanks is increased
+
+Capital cost
+
+This is the capital cost of liquefying the
+H2 from the production system for
+storage, estimated based on the
+cooling energy required
+
+High, increases with the volume of gas
+to be stored, and the operation of this
+plant requires additional electrical
+energy, which would impact operating
+cost, so is tied to the electricity market
+price discussed earlier
+
+Capital cost
+
+This is the lifetime of the material of the
+storage tanks, and is impacted by the
+number of fills (or charge cycle) and
+the material of the tank construction
+
+Medium, would change if the dynamic
+loading of the tanks changes (i.e., if
+there is an increase in the number of
+fills beyond the intended daily
+requirement)
+
+Replacement
+cost
+
+(m3)
+
+($M)
+Liquefaction plant
+cost
+($M)
+
+Lifetime (years)
+Range: 15 to 20
+
+Notes:
+$M = dollars (millions)
+LH2 = liquid hydrogen
+m3 = cubic metre
+ROW = right-of-way
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+76
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.1.4.1 Gaseous and Liquid Phases of Hydrogen
+Liquid phase storage tanks are much different from gas phase storage tanks, and fewer liquid tanks
+would be required for the same amount of gas. The choice between liquid phase and gaseous phase
+storage is based on several factors, although from our assessment, the liquid phase one does not
+seem viable for the proposed Hydrail System. The suppliers of merchant hydrogen are attuned to
+moving relatively small quantities of hydrogen as liquid (LH2). However, on the larger scale of the
+proposed RER Hydrail System, there are substantial reasons for operating purely with CGH2, as
+follows:
+
+
+Energy Input: To include LH2 as part of the Hydrail System, energy usage is increased by
+10 percent, and energy cost is increased by 20 percent because—unlike electrolysis—the
+liquefaction process is not readily interruptible and cannot focus on periods of low-cost grid
+values.
+
+
+
+Capital Cost: The cost of a liquefaction plant for the entire RER system is estimated at $160 million
+This adds complexity to the supply chain and, with no evident substantial cost offsets, this is an
+additional cost.
+
+
+
+Distribution Cost: Centralization of LH2 would be preferred on economic grounds—the capital cost
+of liquefaction plants does not scale well. That leads to a need for extensive distribution, and LH2
+precludes gas distribution by pipeline. Admittedly, pipeline distribution may encounter some
+public resistance, but is likely to be practicable. Trucking is cheaper with liquid than with gas, but
+either, for almost any distance, is much more expensive than pipelining.
+
+
+
+Problems with Solid Oxygen: Hydrogen needs extreme purification from oxygen before
+liquefaction. Purification can be arranged, but it is a particularly significant issue with
+electrolytically produced H2 with its inevitable initial oxygen content. This is much less of an issue
+with steam-methane reforming (SMR) H2, which is generally oxygen-free. Traces of oxygen present
+in hydrogen liquefaction can accumulate in lines and tanks as solid oxygen, and can lead to violent
+detonation.
+
+
+
+Accident Scenarios: In the event of a spill, LH2 does not disperse nearly as readily or quickly as H2
+gas. This increases fire risks.
+
+
+
+Hydrogen Losses: Design can curtail but will not eliminate H2 losses from boil-off within the entire
+production and consumption chain, thereby increasing the operating cost.
+
+
+
+Extra Handling Risk: While fast vehicle-fill times could be easier with LH2, it is considered more
+prone to accidents than fuelling using the well-established technology for fuelling with CGH2.
+Overall, LH2 is a much less familiar fuel than CGH2.
+
+4.1.4.2 Storage Tank Characteristics
+There is significant difference in the storage tank design in terms of materials, construction, and
+capital costs. The design is primarily driven by the storage pressure requirements. For the transition
+storage system, lower-pressure storage would save significant capital costs, as the volume of storage
+is at least three times larger than the upcoming refuelling storage system. There are at least two
+distinct types of tanks worth comparing (as summarized in Table 4-5) to provide a basis for the storage
+system design.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+77
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-5 COMPARISON OF STEEL AND CARBON-FIBRE GAS STORAGE TANKS
+No.
+
+Parameter
+
+Steel or Metal Tanks
+
+Carbon-fibre Tanks
+
+1
+
+Storage pressure
+
+From 0.1 to 20 MPa
+
+From 10 to 100 MPa
+
+2
+
+Manufacturing process
+
+Established, rolled steel and welded end
+covers
+
+Established, carbon-fibre wound on steel
+liner with or without fibre-glass
+reinforcement
+
+3
+
+Supply chain
+
+Many local manufacturers available
+
+Few; no local manufacturers available
+
+4
+
+Raw material
+
+Carbon, stainless, or alloy steel
+
+Carbon fibre, steel liner, fibre-glass
+
+5
+
+Cost
+
+Lowest possible, due to low cost raw
+materials
+
+Currently higher than steel tanks due to
+material costs
+
+6
+
+Impact of storage
+pressure
+
+Wall thickness increases, and diameter
+decreases as dictated by the pressure
+limit
+
+Wall thickness increases, and volume of
+individual tanks decreases; thereby,
+increasing the total number of tanks
+needed
+
+7
+
+Lifetime
+
+10 years
+
+20 years
+
+8
+
+Risks from hydrogen
+
+Embrittlement over the lifetime of the tank
+
+The refill cycle impacts the stress
+retained by the fibres
+
+4.1.5
+
+Hydrogen Distribution Subsystem
+
+The hydrogen distribution subsystem connects the storage system with the refuelling system, and it
+differs based on gas or liquid phases of hydrogen. For the gas phase, distribution can be by either
+pipeline or trucks; but for liquid phase, only trucking is possible for longer distances (beyond
+1 kilometre [km] in length). Although for shorter distances (less than 1 km in length), pipeline is
+feasible for the liquid phase.
+The distribution system comprises the following equipment, shown on Figure 4-6:
+
+
+Blowers
+
+
+
+Pressure regulator and gas distribution
+
+
+
+Temperature control
+
+
+
+Flow meters, valves, and sensors
+
+
+
+Control system that distributes and manages electrical power and control signals to all the
+relevant equipment within the respective distribution system
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+78
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-6 HYDROGEN DISTRIBUTION SUBSYSTEM
+
+The parameters in Table 4-6 were used to design the hydrogen distribution subsystem, using a
+pipeline solution for the Hydrail System to support its long-term investment and operations. For
+gaseous distribution through pipeline, the fibre-reinforced polymer 81 is chosen as the default
+material. These are made by coating layers of polymer that has the lowest permeability for hydrogen
+on to solid substrate, such as steel or polyvinyl chloride (PVC) pipes, depending on the gas pressure.
+TABLE 4-6 PIPELINE DISTRIBUTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+Operating
+pressure (MPa)
+
+Description
+
+Significance
+
+Pressure at which the pipeline can
+safely operate
+
+Medium, dictates the material and
+dimensions needed for the pipeline
+design and construction, so higher
+pressures would lead to expensive
+construction
+
+Capital cost
+
+Total length of the pipeline per GO rail
+corridor and the Hydrail System
+
+High, currently specified as the total
+length of the GO rail network, not
+knowing exactly where the production
+and storage facilities would be
+located; any increase in length would
+increase costs
+
+Capital,
+operating, and
+maintenance
+costs
+
+Internal diameter of the pipeline
+determined by the operating pressure
+and the volume of gas that needs to be
+transported
+
+Low, with respect to the capital cost;
+the gas pressure drop varies with the
+diameter and the length of the
+pipeline
+
+Capital cost
+
+Range: 2 to 10
+
+Pipeline length
+(km)
+
+Size, internal
+diameter (m)
+Range: 0.1 to 0.0
+
+Impacts
+
+81 U.S. Department of Energy (DOE). 2008. "Section iii.E.3, Fiber-Reinforced Polymer Pipelines for Hydrogen Delivery." FY 2007 Annual
+Progress Report, DOE Hydrogen Program. Accessed October 2017. https://www.hydrogen.energy.gov/pdfs/progress07/iii_e_3_smith.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+79
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-6 PIPELINE DISTRIBUTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+Capital cost factor
+($/km)
+
+Lifetime
+(years)
+
+Description
+
+Significance
+
+Impacts
+
+Determines the capital cost of the
+pipeline based on the length of the
+pipeline infrastructure
+
+High, might become a significant
+portion of the Hydrail infrastructure if
+the pipeline length is substantial for a
+scenario where the production and
+storage are far away from the GO rail
+network
+
+Capital cost
+
+This is the lifetime of the pipeline
+material that allows continuous
+operation without impacting reliability
+
+Medium, usually approximately 10 or
+more years, but other factors could
+impact this, especially the gas
+pressure, and implementation of
+joints and connections
+
+Replacement
+cost
+
+Notes:
+m = metre
+
+The parameters in Table 4-7 helped to design the hydrogen distribution using road transportation
+trucks (tanker-trucks) for the Hydrail System to support its long-term investment and operations. The
+trucks are usually managed by the hydrogen supplier, so the cost of trucks would be complicated. For
+simplicity, we assume that the trucks would be owned and operated by Metrolinx.
+TABLE 4-7 TRUCK-BASED DISTRIBUTION SUBSYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance to the system
+
+Impacts
+
+Onboard storage
+pressure (MPa)
+
+Pressure at which the gas or liquid
+hydrogen is stored onboard the truck,
+legally allowed for transporting
+hydrogen by road
+
+High, determines the type of tank
+required, and the volume of gas or
+liquid that could be stored, so results
+in the cost factor
+
+Capital cost and
+Hydrail
+operating cost
+
+Storage volume
+(kg or m3)
+
+Volume of gas or liquid that could be
+stored per truck for transportation
+
+High, determines the number of trips
+or number of trucks that are needed
+per day to transport hydrogen from
+storage to the refuelling system
+
+Hydrail
+operating cost
+and capital cost
+
+Storage tank cost
+factor ($/kg)
+
+Cost for the design, materials,
+manufacturing, and testing of the tanks
+suitable for use to transport hydrogen
+on trucks
+
+High, dictates the cost of the trucks if
+owned by the rail operator; if
+contracted, this would affect the
+operating cost
+
+Capital or
+operating cost
+
+Storage phase, gas
+
+Phase at which hydrogen is stored in
+the tank onboard the truck
+
+Medium, affects the volume of
+hydrogen that could be transported
+per truck
+
+Capital cost
+
+Storage phase,
+liquid
+
+Phase at which hydrogen is stored in
+the tank onboard the truck
+
+Medium, denser than gaseous
+hydrogen, so two to four times more
+hydrogen could be transported per
+truck
+
+Hydrail
+operating cost
+
+Lifetime (years)
+
+Lifetime of the tanker truck, including
+the tanks onboard
+
+Medium, differs based on the storage
+pressure, phase, and number of refill
+cycle
+
+Replacement
+cost
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+80
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+4.1.5.1 Pipeline and Truck based Distribution
+The distribution of hydrogen would only be required in the case of distributed production or
+combined central production for various corridors. The current industry practice for gaseous fuel
+distribution is either through pipeline or through tanker-trucks. They are chosen for few specific
+reasons based on the parameters listed in Table 4-8.
+TABLE 4-8 COMPARISON OF PIPELINE AND TRUCK DISTRIBUTION
+No.
+
+Parameter
+
+Pipeline
+
+Tanker-truck
+
+1
+
+Demand for hydrogen
+
+If higher and long-term, pipeline is
+cost-effective
+
+If smaller and short-term, trucks are
+cost-effective
+
+2
+
+Distance from
+production to refuelling
+
+Economic, if shorter (less than 100 km
+per corridor)
+
+Economic for longer distances, when
+used as a backup supply (or short-term)
+
+3
+
+Accessibility
+
+Could support an entire array of
+additional users along the length of the
+pipeline by allowing access to tap into
+the pipeline for permanent use
+
+Difficult to do this with one truck, as the
+pressure drop after each transfer
+impacts on the transfer rate
+
+4
+
+Operating pressure
+
+Pipeline has limited operating
+pressure, so the compressor power
+requirement at the refuelling system
+would increase
+
+Trucks could carry up to the pressure
+required by the refuelling and
+dispensing systems
+
+5
+
+Operational risk
+
+Lower, especially if located along the
+ROW of the Ministry of Transportation
+
+Higher, irrespective of the
+transportation routes taken
+
+6
+
+Hydrogen phase
+
+Only useful for gaseous phase,
+especially for longer distances (>1 km)
+
+Could be used to transport both gas
+and liquid phases of hydrogen
+
+7
+
+Initial capital cost
+
+Higher
+
+Lower
+
+Notes:
+> = greater than
+
+The pipeline option could be selected if the production and storage systems are within the lengths of
+the GO rail corridors to keep the capital costs at a reasonable level. Although the return on
+investment would take longer than for trucks, but other advantages, including the higher reliability
+and lower operational risk, strengthen the choice for the pipeline option. Additional information on
+pipelines is available elsewhere82.
+However, the reality of Hydrail implementation would occur in phases over a few years, so the first few
+trains could go into service even before the full implementation of the Hydrail infrastructure if the rail
+vehicles could be refuelled by trucks every day.
+The truck option has another advantage in that it may not require the refuelling and dispensing
+systems if the logistics of refuelling each train is planned accordingly. The trucks could be coordinated
+to refill a small number of tanks near the dispensing point at higher pressure using a compressor for
+the gaseous phase. If the trucks carry liquid hydrogen, they can be transferred to the train directly
+without buffer refill storage, provided the train is storing hydrogen onboard as liquid. But in real train
+82 National Institute of Standards and Technology (NIST). 2015. NIST Calculates High Cost of Hydrogen Pipelines, Shows How to Reduce It.
+July 20. Accessed October 2017. https://www.nist.gov/news-events/news/2015/07/nist-calculates-high-cost-hydrogen-pipelines-showshow-reduce-it
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+81
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+operational experience, this arrangement would not work due to increased chances for accidents
+(due to many numbers of moving pieces within the refuelling and maintenance facility) and impacts to
+the reliability of daily operation.
+This scenario of trucks refuelling the trains directly or through a small number of buffer tanks is not
+currently considered in this study, as there are unknowns that do not yield sufficient and confident
+information to assess the impact. There are two key unknowns: (1) the location of the refuelling
+system, and (2) the number of trains that can be refuelled in parallel at these refuelling locations.
+
+4.1.6
+
+Hydrogen Refuelling Subsystem
+
+The hydrogen refuelling subsystem is required to provide enough hydrogen for a full day of GO train
+service, so the storage tanks are sized such that they can store up to 24 hours of gas – the volume of
+gas required for 1 full day’s service for the RER Scenario 5 train service pattern. These tanks would be
+located within the dispensing or refuelling facility where each train gets the required volume of
+hydrogen for a full day’s service.
+The refuelling system consists of the following equipment, as shown on Figure 4-7:
+
+
+Compressors in a cascaded arrangement
+
+
+
+Pressure regulator and gas distribution
+
+
+
+Temperature control
+
+
+
+Flow meters, valves, and sensors
+
+
+
+Control system that distributes and manages electrical power
+
+
+
+Control signals to all relevant equipment within the refuelling system
+
+The temperature control is necessary during transfer of gaseous hydrogen onto refuelling tanks, as
+hydrogen could cool down or warm up, depending on the pressures, during transfer from the
+distribution system.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+82
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-7 HYDROGEN REFUELLING SUBSYSTEM
+
+The design parameters for the refuelling system are similar to those for the storage system provided
+in Table 4-4. The main difference within the refuelling system is for the gaseous phase, which is stored
+at a higher-pressure range from 70 to 100 MPa. For the current Hydrail System, refuelling tanks are
+designed to store the compressed gas at a pressure of 85 MPa, based on similar experience on
+automotive refuelling system design83. This would provide enough pressure to fill the tanks onboard
+the rail vehicles, which are designed to be at 70 MPa. The liquid storage is done in the same fashion
+as it is done in the storage system.
+
+4.1.7
+
+Hydrogen Dispensing Subsystem
+
+The hydrogen dispensing subsystem comprises the following equipment, shown on Figure 4-8:
+
+
+Nozzle
+
+
+
+Temperature-controlled hose
+
+
+
+Cooling system
+
+83 National Renewable Energy Laboratory (NREL). 2014. Hydrogen Station Compression, Storage, and Dispensing Technical Status and
+Costs. Independent Review published for the U.S. Department of Energy Hydrogen and Fuel Cells Program. Technical Report NREL/BK6A10-58564. Contract No. DE-AC36 08GO28308. May. Accessed October 2014. https://www.nrel.gov/docs/fy14osti/58564.pdf
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+83
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+
+
+Flow meter, valves, and sensors
+
+
+
+Control system that distributes and manages electrical power
+
+
+
+Control signals to all relevant equipment within the dispensing system
+
+The refrigeration plant is necessary during the transfer of gaseous hydrogen onto the onboard tanks,
+as hydrogen warms up during its expansion from the higher pressure at the refuelling tanks into the
+lower pressure of the onboard tanks.
+For liquid hydrogen transfer between the refuelling tanks to the tank onboard the vehicle, the transfer
+lines have to be maintained with good insulation such that the boil-off is minimized.
+FIGURE 4-8 HYDROGEN DISPENSING SYSTEM
+
+The parameters in Table 4-9 were used to design the hydrogen dispensing subsystem for the Hydrail
+System to support its long-term investment and operations.
+TABLE 4-9 HYDROGEN DISPENSING SYSTEM DESIGN PARAMETERS
+Parameter
+
+Description
+
+Significance
+
+Flow rate (kg/h)
+
+Flow rate required at the dispenser
+such that the tanks onboard the rail
+vehicle are filled within a set time by
+the operators, usually 15 minutes of fill
+time
+
+High, dictates how much hydrogen
+can be transferred from the refuelling
+tanks into the onboard tanks;
+significantly faster flow rates are
+required (please read the discussion
+after this table)
+
+Operations of
+the rail network
+
+Dispensing
+pressure (MPa)
+
+Applies mainly to gaseous hydrogen,
+usually set higher than the allowed
+storage pressure onboard the rail
+vehicle, and matches the pressure
+delivered from the refuelling system
+
+High, enables faster transfer and
+could trigger the requirement for a
+booster compressor if the flow rates

@@ -1,0 +1,2000 @@
+confidential. Infrastructure costs include engineering costs and contingencies.
+As part of RER, many existing stations will require new platforms and, therefore, additional access
+tunnels and shelters may be required. In some cases, stations will undergo significant change due to
+additional track or realignment for bus interchanges. Passenger pick-up will also require modification
+to support increased ridership. Additional property may be required at many station locations. The
+model also accounted for increased parking requirements at expanded stations.
+For RER, additional tracks are required at various locations on each corridor. Typically, hourly two-way
+service requires a passing track, while a full second track is required where trains operate every
+15 minutes. A third or fourth track is required where there are express services or where tracks are
+shared between two or more services, which may include inter-city rail services and freight services.
+In all scenarios, costs to install Positive Train Control (PTC132) signalling systems on new track were
+included. PTC is a set of highly advanced safety technologies designed automatically stop a train
+before certain types of accidents occur. It was also noted that, although not yet a legal requirement in
+Canada, systems similar to PTC are installed on many RER systems, and were required on passenger
+rail routes in the U.S. at the time of publishing the report.
+Union Station is the heart of the GO network, and will continue to be the main destination for peak
+commuters from across the GTHA. It is anticipated it will also become a significant interchange point
+within the GO rail network and attract greater inbound flows of boarding passengers than is the case
+today. Also, there is the potential to attract more trips connecting places on either side of Union
+Station, which could be a benefit of running more trains through the station as opposed to
+terminating many train routes at Union Station, as is common practice today. Improvements to the
+tracks on either side of Union Station and to platform infrastructure will enable the number of trains
+RER will schedule to pass through and serve Union Station.
+
+IBC Model: Operating Costs
+Operating cost rates were calculated in 2014, mostly from existing GO costs, as determined from
+analysis of GO general ledger documents. Costs were calculated based on the service levels as
+defined, driven by train crew hours, train kilometres, route kilometres, or vehicle kilometres as
+appropriate.
+Diesel fuel and traction electricity consumption and costs were estimated based on data presented in
+the 2010 GO electrification study and actual GO experience. As with diesel prices, no long-term
+change was assumed in electricity prices.
+Other operating costs in the IBC include payments to the CN and the CP for track use and dispatching
+costs that are calculated from existing charges, adjusted for train-kilometres; rolling stock
+maintenance costs that are based on Canadian and U.K. experience, including GO’s existing contract
+
+132 Positive Train Control is a system of functional requirements for monitoring and controlling train movements and is a type of train
+protection system.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+154
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+for the operation of diesel trains; and infrastructure maintenance that includes costs related to track
+maintenance, signalling infrastructure, and other fixed infrastructure costs.
+
+IBC Model: Benefits
+Most of the benefits were estimated based on the ridership that was forecast on RER. Note that
+increments were for future years, with and without RER. In other words, the comparison was between
+what the system would look like under Scenario 1 – Do Minimum and the contemplated system
+expansion scenarios. Benefits quantified in the IBC model are transport-related benefits that are
+categorized as follows:
+
+
+Time savings to existing and new transit users.
+
+
+
+Auto cost savings to drivers switching to transit.
+
+
+
+Quality benefits such as improved comfort, convenience and reliability for transit users.
+
+
+
+Safety benefits, primarily reduced accident costs.
+
+
+
+Crowding benefits to transit users.
+
+
+
+Road-user benefits, cost and time savings to motorists from reduced congestion.
+
+The IBC also considered wider economic and environmental benefits, but these were not captured by
+the modelling exercise so were not included in the calculation of the BCRs.
+
+IBC Model: Benefit to Cost Ratios
+The BCRs provided information to decision makers regarding how the overall benefits compare to the
+overall costs. A ratio greater than one (for example, 2:1) means that the net benefits outweigh the
+costs. A ratio less than one (for example, 1:3) means that the costs outweigh the benefits. In the IBC
+model, the ratios were calculated by dividing the incremental benefits of a given scenario by the
+incremental costs of a given scenario.
+The magnitude of the result also communicated important information about the confidence that
+decision makers can have in the result. If the BCR is, for example, 3:1, then decision makers can have a
+high level of confidence that a scenario is beneficial. The actual costs would have to be three times
+higher, or revenues or other benefits one-third of what is expected, before the scenario would prove
+not to be beneficial. If the estimated BCR is close to 1:1, then any cost overrun or ridership shortfall
+could bring the result below 1:1, making the scenario as proposed not worthwhile.
+
+IBC Model: Cost Factors
+As outlined previously inTable 4-29, the IBC applied several cost factors and contingencies to the
+capital costs for overhead electrification. These cost factors include:
+
+
+A cost factor for Environmental Assessment, Engineering and Design that is 15 percent of base
+capital costs.
+
+
+
+A construction contingency for the on-corridor infrastructure that is 50 percent of base capital
+costs.
+
+
+
+A productivity and resource cost factor that is 25 percent of base capital costs for on-corridor
+infrastructure.
+
+
+
+A construction contingency on system-wide infrastructure components of 50 percent of base
+capital costs
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+155
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Result of the IBC
+The analysis of BCRs in the IBC resulted in the recommendation that Metrolinx proceed with
+Scenario 5. Scenario 5 was subsequently adopted by the Province as the plan for RER. Under
+Scenario 5, GO would operate all-day services every 15 minutes to Aldershot, Mount Pleasant, Aurora,
+Unionville and Oshawa and introduce electrification to Bramalea, Barrie, Stouffville and Pearson
+Airport. Electric trains would replace diesels on some or all of the Lakeshore East and West, Kitchener,
+Barrie, and Stouffville lines. Under this scenario, the Milton and Richmond Hill lines would continue to
+operate at peak times only, using diesel locomotives.
+
+4.4.2
+
+Hydrail System Modelling
+
+Key Characteristics of Cost Estimation
+According to the cost estimating and assessment guide published by the United States Government
+Accountability Office (GAO), a cost estimate should have certain basic characteristics as listed in
+Table 4-31.
+TABLE 4-31 BASIC CHARACTERISTICS OF COST ESTIMATES133
+Characteristic
+
+Description
+
+
+Estimator must be provided with the system description, ground rules and
+assumptions, and technical and performance characteristics
+
+
+
+Estimate's constraints and conditions must be clearly identified to ensure the
+preparation of a well-documented estimate
+
+
+
+All stakeholders should be involved in deciding mission need and requirements and in
+defining system parameters and other characteristics
+
+
+
+Data should be independently verified for accuracy, completeness, and reliability
+
+
+
+Numerous sources of suitable, relevant, and available data should be used
+
+
+
+Relevant, historical data should be used from similar systems to project costs of new
+systems; these data should be directly related to the system's performance
+characteristics
+
+
+
+A standard work breakdown structure (WBS), as detailed as possible, should be used,
+refining it as the cost estimate matures and the system becomes more defined
+
+
+
+The work breakdown structure ensures that no portions of the estimate are omitted
+and makes it easier to make comparisons to similar systems and programs
+
+Provision for program risk
+and uncertainty
+
+
+
+Uncertainties should be identified and allowance developed to cover the cost effect
+
+
+
+Known costs should be included and unknown costs should be allowed for
+
+Recognition of inflation
+
+
+
+The estimator should ensure that economic changes, such as inflation, are properly
+and realistically reflected in the life-cycle cost estimate
+
+
+
+Recognition of excluded costs
+
+
+
+All costs associated with a system should be included; any excluded costs should be
+disclosed and given a rationale
+
+Independent review of
+estimates
+
+
+
+Conducting an independent review of an estimate is crucial to establishing confidence
+in the estimate; the independent reviewer should verify, modify, and correct an
+estimate to ensure realism, completeness, and consistency
+
+Revision of estimates for
+significant program changes
+
+
+
+Estimates should be updated to reflect changes in a system’s design requirements.
+Large changes that affect costs can significantly influence program decisions
+
+Clear identification of task
+
+Broad participation in
+preparing estimates
+Availability of valid data
+
+Standardized structure for
+the estimate
+
+133 US GAO Cost Estimating and Assessment Guide, 2009
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+156
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The Cost Estimating Process
+At the feasibility stage of project evaluation, it is important to understand how a cost estimate is
+developed to understand the level of certainty associated with that estimate; this process is illustrated
+on Figure 4-41.
+FIGURE 4-41 THE COST ESTIMATING PROCESS
+
+1. Define
+the
+estimate’s
+purpose
+
+2. Develop
+the
+estimating
+plan
+
+3. Define
+the
+program
+
+4. Determine
+the estimating
+structure
+
+5. Identify
+ground rules &
+assumptions
+8. Conduct
+sensitivity
+
+6. Obtain
+the data
+
+7. Develop the point estimate and
+compare it to an independent cost
+estimate
+
+9. Conduct a
+risk and
+uncertainty
+analysis
+
+The first step involved in cost estimating is defining the estimate’s purpose. At this stage, the project
+team will also define the required level of detail and the overall scope of the costing exercise. Cost
+estimates have two general purposes: (1) to assist in the evaluation of affordability of a project or
+program and to inform the selection of alternative systems and solutions, and (2) to support the
+budget process by providing estimates of the funding required to execute a program134.
+In the case of the Hydrail feasibility study, the cost estimate serves both purposes; it is designed
+primarily to assist in the evaluation of alternative solutions but will also contribute to an understanding
+of the potential budget implications of a Hydrail System over the life of the service. All costs directly
+related to electrification with Hydrail were modelled and updated in the IBC model. All other costs,
+including station improvements, were excluded from the Hydrail costing exercise.
+The second step involved in the estimating process is the development of an estimating plan. For
+Hydrail, this involved the use of specialist teams to develop cost estimates for the hydrogen related
+components of the system. These estimates were then incorporated into IBC model.
+The next five steps (steps three through seven) are the beginning of an iterative process that leads to
+a point estimate of the program cost. The details of these steps are described in Table 4-32.
+
+134 US GAO Cost Estimating and Assessment Guide, 2009, pg. 47
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+157
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-32 DESCRIPTION OF STEPS INVOLVED IN DEVELOPING A POINT COST ESTIMATE135
+Step
+
+Description
+
+
+
+
+
+
+Identify the program's purpose and its system and performance characteristics and all
+system configurations;
+Any technology implications;
+Its relationship to other existing systems;
+System quantities for development, test, and production;
+Deployment and maintenance plans
+
+4. Determine estimating
+structure
+
+
+
+
+
+
+Define a work breakdown structure (WBS) and describe each element in a WBS dictionary;
+Choose the best estimating method for each WBS element;
+Identify potential cross-checks for likely cost and schedule drivers;
+Develop a cost estimating checklist.
+
+5. Identify ground rules
+and assumptions
+
+
+
+
+Clearly define what the estimate includes and excludes;
+Identify global and program-specific assumptions, such as the estimate's base year,
+including time-phasing and life cycle;
+Identify program schedule information by phase and program acquisition strategy;
+Identify any schedule or budget constraints, inflation assumptions, and travel costs;
+Specify equipment the government is to furnish as well as the use of existing facilities or
+new modification or development;
+Identify prime contractor and major subcontractors;
+Determine technology refresh cycles, technology assumptions, and new technology to be
+developed;
+Define commonality with legacy systems and assumed heritage savings;
+Describe effects of new ways of doing business.
+
+3. Define program
+characteristics
+
+
+
+
+
+
+
+
+
+
+6. Obtain data
+
+
+
+
+
+
+
+
+7. Develop point
+estimate and compare it
+to an independent cost
+estimate
+
+
+
+
+
+
+
+
+
+
+Create a data collection plan with emphasis on collecting current and relevant technical,
+programmatic, cost, and risk data;
+Investigate possible data sources;
+Collect data and normalize them for cost accounting, inflation, learning, and quantity
+adjustments;
+Analyze the data for cost drivers, trends, and outliers and compare results against rules of
+thumb and standard factors derived from historical data;
+Interview data sources and document all pertinent information, including an assessment of
+data reliability and accuracy;
+Store data for future estimates.
+Develop the cost model, estimating each WBS element, using the best methodology from
+the data collected, and including all estimating assumptions;
+Express costs in constant year dollars;
+Time-phase the results by spreading costs in the years they are expected to occur, based
+on the program schedule;
+Sum the WBS elements to develop the overall point estimate;
+Validate the estimate by looking for errors like double counting and omitted costs;
+Compare estimate against the independent cost estimate and examine where and why
+there are differences;
+Perform cross-checks on cost drivers to see if results are similar;
+Update the model as more data become available or as changes occur and compare
+results against previous estimates.
+
+135 Adapted from GAO Cost Estimating and Assessment Guide, 2009
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+158
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The eighth step in the estimating process involves a sensitivity analysis. The sensitivity analysis is
+designed to reveal how the cost estimate is affected by a change in a single assumption. The cost
+estimator must examine the effect of changing one assumption or cost driver at a time while holding
+all other variables constant. By doing so, it is easier to understand which variable most affects the cost
+estimate. In some cases, a sensitivity analysis can be conducted to examine the effect of multiple
+assumptions changing in relation to a specific scenario.
+Regardless of whether the analysis is performed on only one cost driver or several within a single
+scenario, the difference between sensitivity analysis and risk or uncertainty analysis is that sensitivity
+analysis tries to isolate the effects of changing one variable at a time, while risk or uncertainty analysis
+examines the effects of many variables changing all at once.
+The sensitivity analysis can be useful for identifying areas where more design research could result in
+less production cost or where increased performance could be implemented without substantially
+increasing cost.136 For Hydrail, sensitivity analysis was used to narrow focus on the variables that had
+the largest impact on the cost of the Hydrail program; these variables were subsequently reviewed in
+further detail to refine the estimate of the cost input.
+The final step in the estimating process is the risk and uncertainty analysis. Because cost estimates are
+a prediction of future program costs, uncertainty is always associated with them. For example, data
+from the past may not always be relevant in the future, because new manufacturing processes may
+change a learning curve slope or new composite materials may change the relationship between
+weight and cost. Regulatory conditions can also impact costs. Moreover, a cost estimate is usually
+composed of many lower-level WBS elements, each of which comes with its own source of error.
+Once these elements are added together, the resulting cost estimate can contain a great deal of
+uncertainty.137 This step of the estimating process involves evaluating the risk and uncertainty
+associated with a project and incorporating the potential cost of this risk and uncertainty into the total
+cost estimate.
+Risk and uncertainty reflect the fact that, because a cost estimate is a forecast, there is always a chance
+that the actual cost will differ from the estimate. Lack of knowledge about the future is only one
+possible reason for the difference. Another equally important reason is the error resulting from
+historical data inconsistencies, assumptions, cost estimating equations, and factors typically used to
+develop an estimate.138
+In the early phases of any program, knowledge about how well technology will perform, whether the
+estimates are unbiased, and how external events may affect the program is imperfect. To enable good
+decision making, the program estimate must reflect the degree of uncertainty.139
+Estimates are more uncertain at the beginning of a project because less is known about the detailed
+requirements and the opportunity for change is great. As the project progresses, requirements
+become better defined and risk better understood. As this happens, costs become more certain. In
+many cases, costs also increase as project development progresses due to a better understanding of
+additional requirements translating into previously unforeseen costs. This progression is illustrated in
+Figure 4-42.
+
+136 US GAO Cost Estimating and Assessment Guide, 2009, pg. 147-148
+137 ibid., pg. 153
+138 ibid.
+139 ibid., pg. 154
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+159
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-42 CHANGES IN COST ESTIMATE UNCERTAINTY ACROSS THE PROJECT DEVELOPMENT
+LIFECYCLE140
+
+It is typical to use four classes to represent the level of design, and associated uncertainty, at different
+project stages. These classes are defined as follows:
+
+
+Class A (Detailed Design - 100 percent design) estimates are pre-tender estimates, based on
+completed construction drawings and detailed specifications contained in tender documents. The
+expected precision of the estimate ranges from -5 percent to +10 percent of the actual contract
+price.
+
+
+
+Class B (Design Development - 67 percent design) estimates are design estimates based on an
+advanced project design. They are based on design drawings, project specifications and include
+detail on the design of electrical, mechanical and IT systems, as well as site requirements. The
+expected precision of the estimate ranges from -10 percent to +15 percent of the actual contract
+price.
+
+
+
+Class C (Schematic Design - 33 percent design) is a planning level estimate usually based on a
+Schematic Design and presented in Elemental Format (a budget setting format/technique which
+considers the major elements of a project and provides an order of cost estimate based on an
+Elemental Cost Analysis of a building project). These estimates establish a preliminary budget
+estimate and a baseline against which project costs will be assessed at future project development
+milestones. The expected precision of the estimate ranges from -15 percent to +20 percent of the
+actual contract price.
+
+
+
+Class D (Conceptual Design) estimates are conceptual estimates based on the project scope (the
+work that needs to be accomplished to deliver the project) and functional requirements (the
+output specifications/deliverables of a project), and are usually presented in unit cost analysis
+format (applying a monetary rate to an element, subelement or component per unit of
+measurement). The expected precision of the estimate ranges from -20 percent to +30 percent of
+the actual contract price.141
+
+140 US Government Accountability Office Cost Estimating and Assessment Guide, 2009
+141 PPP Canada Schematic Design Estimate Guide, April 2014.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+160
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The current simulation model could be considered a Class D estimate, with an expected accuracy that
+ranges from -20 percent to +30 percent of the actual costs. It is expected that the accuracy of the
+estimate would improve should the feasibility study for Hydrail lead to a decision to move the project
+to the next stage of development. The technology development process that is proceeding in parallel
+to this study will further improve the accuracy and reduce the uncertainty of estimate. Estimating
+accuracy improves significantly and the uncertainty in cost estimation reduces to a few percentage
+points of the actual costs by the time the detail design is complete and the project is ready for
+procurement and implementation.
+It is important to continually update cost estimates so that decision makers have has the best
+information available for making informed decisions. These processes are illustrated in what is
+commonly called the Cone of Uncertainty shown on Figure 4-43.
+FIGURE 4-43 CONE OF UNCERTAINTY
+
+Development of Contingencies
+Contingencies for infrastructure projects represent a mark-up applied to the base construction cost to
+account for uncertainties in quantities, and unit costs. Contingencies are also included to capture risk
+events during construction.142
+At various stages of the estimating process it is possible to represent the uncertainty implications of
+various cost estimates using a cumulative probability distribution curve or an S-curve as illustrated in
+Figure 4-44.
+
+142 Cost Estimating Manual for WSDOT Projects, March 2008.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+161
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+FIGURE 4-44 SAMPLE CUMULATIVE DISTRIBUTION CURVE FOR A PROJECT ESTIMATE (FROM THE US
+GOVERNMENT ACCOUNTABILITY OFFICE COST ESTIMATING AND ASSESSMENT GUIDE, 2009)
+
+The contingency then is the difference between the estimated cost and the budget to achieve a
+certain confidence interval. This concept is illustrated in the following example:
+The cumulative probability distribution curve provided in Figure 4-44 considers a hypothetical project
+with an estimated cost of $825,000. The uncertainty analysis has revealed that this estimate represents
+the 40th percentile meaning that there is a 60 percent chance that costs will be greater than the
+estimate. Based on this analysis, a decision could be made to increase the project budget to achieve
+greater certainty that the project cost will fall within the budgeted amount. For example, if the budget
+for this project was increased from $825,000 to $1,096,000 then there would be a 70 percent
+probability that project costs would fall within the budgeted amount. The $271,000 difference
+between the estimated cost and the budgeted $1,096,000 represents the construction contingency in
+this example.143
+The level of confidence used to develop the contingency reflects organizational decisions on the level
+of risk that is acceptable.
+
+143 US GAO Cost Estimating and Assessment Guide, 2009, pg. 157
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+162
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Limitations
+Given the relatively short time frame for the Hydrail analysis, there are some elements of the cost
+estimate that have not been completed to the level of detail that could be completed with further
+study. These elements of the cost estimate that have not been addressed in the Hydrail simulation
+model are outlined as follows:
+1. Work Breakdown Structure (WBS): A WBS defines in detail the components necessary to
+accomplish a program’s objectives. A WBS can be thought of as an illustration of which tasks will
+be accomplished and which components will be delivered to satisfy a program’s requirements.
+The WBS diagrams the effort in small, discrete pieces, or elements, to show how each one relates
+to the others and to the program as a whole.
+The number of levels for a WBS varies from program to program and depends on a program’s
+complexity and risk. WBSs need to be expanded to a level of detail sufficient for planning and
+successfully managing the full scope of work. However, each WBS should, at the very least, include
+three levels:
+
+
+The first level represents the program as a whole so contains only one element—the program’s
+name.
+
+
+
+The second level contains the major program segments.
+
+
+
+Level three contains the lower-level components or subsystems for each segment.
+
+A sample WBS for a process plant construction144 is shown in Table 4-33 for illustration.
+TABLE 4-33 LIST OF SAMPLE WBS ELEMENTS
+Level 2 Element
+1.1 Plant system design
+
+Level 3 Element
+1.1.1 Business requirements
+1.1.2 Process models
+
+1.2 Construction
+
+1.2.1 Site development
+1.2.2 Civil structure
+1.2.3 Thermal systems
+1.2.4 Flow systems
+1.2.5 Storage systems
+1.2.6 Electrical systems
+1.2.7 Mechanical systems
+1.2.8 Instrument and control systems
+1.2.9 Environmental systems
+1.2.10 Temporary structure
+1.2.11 Auxiliary systems
+1.2.12 Safety systems
+
+144 Source: Project Management Institute, Practice Standards for Work Breakdown Structures, project Management Institute, Inc. (2006).
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+163
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-33 LIST OF SAMPLE WBS ELEMENTS
+Level 2 Element
+1.3 Legal and regulatory
+
+Level 3 Element
+1.3.1 Licensing (nongovernment)/permitting (government)
+1.3.2 Environmental impact
+1.3.3 Labor agreements
+1.3.4 Land acquisition
+
+1.4 Testing
+
+1.4.1 System test
+1.4.2 Acceptance test
+
+1.5 Start-up
+1.6 Project management
+
+Although a detailed WBS has not been developed for this study, different elements of the Hydrail
+System have been discussed, and individual components have been identified for costing. The
+WBS example does, however, provide some insight into additional costs not currently covered by
+the Hydrail simulation, such as legal and regulatory expenses, testing, startup, and project
+management expenses. These costs are known elements of a construction project, and although
+they may not be accurately modelled in the feasibility study stage, they should be recognized in
+the model, and carefully considered when making a decision based on the findings of the analysis.
+These cost elements should not be captured under contingencies. By definition, contingency is an
+allowance for unknown factors that may result in higher project costs, so it should not include cost
+elements that are known but are absent in the cost estimate.
+2. Risk analysis: The methodology for developing construction contingencies discussed involves the
+use of probabilistic analysis of risk and uncertainty (that is, the contingency represents a markup
+applied to the base construction cost to account for uncertainties in quantities and unit costs, and
+is defined as the difference between the base cost estimate and the budget to achieve a certain
+confidence interval). The confidence interval also depends on decision-makers’ risk appetites. At
+this stage in the modelling exercise, contingency amounts have been based on the IBC and on the
+technical expertise of the modelling team. At later stages of the exercise, a quantitative risk
+assessment will result in a more refined contingency that can be carried into construction and
+operations phases of the program.
+
+4.4.3
+
+Comparative Cost/Benefit Assessment of the Simulation
+Scenarios
+
+4.4.3.1 Hydrail Analysis
+For purposes of this study, the first stage of the financial analysis involved comparing the anticipated
+costs associated with Hydrail to those for overhead electrification, using the IBC model. Costs that are
+common to both technologies (for example, track and station improvements) were held constant. Key
+assumptions (for example, discount rate) were also held constant where reasonable, and adjusted
+where necessary. As an example, assumptions regarding service patterns—the key driver behind
+revenues and benefits of RER—were assumed to be equal under both technologies. As such, this part
+of the study is predicated on an assumption that a Hydrail System would deliver the same level of
+service as overhead electrification, as is discussed in Section 4.2.2. Inputs that would change (for
+example, a new cost associated with the production of hydrogen and removal of capital costs
+associated with overhead electrification) were the focus of the analysis. This allows for a like-for-like
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+164
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+analysis of Hydrail relative to Scenario 5 electrification, and mimics going back in time and adding
+Hydrail as an additional scenario for RER in the 2014 analysis. However, as will be shown in this
+section, a true like-for-like analysis requires updating certain IBC assumptions to reflect those used for
+Hydrail.
+As service levels are assumed to be the same, net benefits of the program as captured in the IBC
+model do not change under a Hydrail scenario for RER. For purposes of the BCR, benefits are driven
+by ridership of the RER system and because ridership is assumed to be the same for Hydrail the
+benefits remain constant. There are numerous potential benefits and risks associated with both
+overhead electrification and Hydrail that are not captured in the first stage of the IBC analysis. Some
+are, however, discussed later in this section and in Section 4.7 where the broader social, economic
+and environmental benefits are discussed. Later in this section, the financial analysis will further
+examine the impact of Hydrail on capital and operating costs over the lifespan of the RER program,
+including sensitivity analysis and potential fiscal impacts to the province.
+It should be noted that within the cost items that were considered common to both technologies
+there are certain elements that are likely to change between the Hydrail and overhead electric
+systems. One example is the cost of property purchases currently considered in the IBC. Part of this
+line item represents the cost to purchase land to develop substations that would be required for an
+overhead contact system. Such costs would not, however, be required for Hydrail. Conversely,
+additional land may be required to service Hydrail vehicles (for example, to replace hydrogen tanks at
+specified service intervals) and may have an impact on land requirements within maintenance yards.
+However, because the breakdown of cost items like this are not fully understood they have been
+carried forward in the Hydrail simulation. Should the feasibility study lead to a decision to continue to
+examine Hydrail, more detailed analysis of these costs would be required to provide a full picture of
+the cost of each system.
+The outputs from the Hydrail System simulation described previously were used to develop a
+schedule of Hydrail costs for incorporation into the IBC model. The key cost drivers for the Hydrail
+simulation were reviewed and highest and lowest values for these variables were developed. The
+ranges for these variables are presented in Table 4-34.
+TABLE 4-34 KEY COST DRIVERS FOR HYDRAIL
+Highest Value
+
+Lowest Value
+
+Unit
+
+Cost of electricity
+
+76
+
+46
+
+$/MWh
+
+Price of Electrolyzer
+
+823
+
+655
+
+$/kW
+
+Price of Storage
+
+266
+
+141
+
+$/kg
+
+Price of Refuelling
+
+1,396
+
+1,257
+
+$/kg
+
+Price of Dispensing
+
+1.09
+
+0.87
+
+million $/unit
+
+Price of Fuel Cell
+
+1,000
+
+450
+
+$/kW
+
+Lifetime of Electrolyzer
+
+40,000
+
+50,000
+
+hours
+
+Lifetime of Fuel Cell
+
+25,000
+
+40,000
+
+hours
+
+These highest and lowest case values were used to develop a high-cost scenario (where all the
+variables were set at worst case levels) and a low-cost scenario (where all the variables were set at best
+case levels) for Hydrail. These labels are not intended to apply any judgment of one technology over
+another. The values were then used to develop new costs for electrification-related capital cost items,
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+165
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+electrification-related operating cost items, and fleets costs. All other costs described above (for
+example, station expansions, signalling) are held constant. All real costs used in the analysis are in
+2014 dollars.
+The high end and low end for electricity price is estimated using IESO data and an optimized
+hydrogen production schedule developed by the technical team. For further details, please refer to
+Section 4.3.
+
+4.4.3.2 Application of Cost Factors in the Hydrail Model
+As discussed above, contingencies are a key part of the IBC model and, taken together, represent 90
+percent of total capital costs. For Hydrail, the approach followed was to carry forward contingencies
+and make adjustments based on several factors. First, the cost factor for Environmental Assessment,
+Engineering and Design was increased from 15 percent to 30 percent for Hydrail. The application of
+HFC technology in the rail industry is still relatively untested (as discussed elsewhere in this report). As
+such it is reasonable to assume that the percentage of capital costs applied for engineering and
+design should be higher than what was used to model a traditional overhead electric system through
+the IBC model. This contingency only applies to initial capital investment and falls to 0 percent as
+Hydrail assets need to be replaced or refurbished, reflecting the fact that expertise and experience
+will have grown to a point where such events are highly predictable in terms of costs and risks.
+Construction contingencies in the IBC model account for uncertainty associated with the cost of the
+development and construction of a complex electrified rail system. In the IBC model, the construction
+cost contingency for overhead electrification was 50 percent of estimated capital costs. This
+contingency has been applied to all civil infrastructure and electrification base costs within the IBC
+model. For purposes of this financial analysis, construction cost contingencies used in the IBC model
+have been carried forward for Hydrail without change. A 50 percent contingency is reasonable for
+capital undertakings where an organization has little experience, in this case signalling, for
+electrification, and for the development of hydrogen-powered vehicles. Furthermore, the risk
+associated with deploying a new application of a technology at the scale that would be required for
+Hydrail, including establishing an entirely new supply chain for the production, transportation and
+dispensing of hydrogen, further justifies inclusion of this contingency. Additionally, the contingency is
+meant to capture costs that are currently not well understood for both the overhead and electrification
+costs – these costs include things like financing costs, operator profit, taxes, and permitting fees.
+Finally, a productivity and resource cost factor is applied to the on-corridor infrastructure for overhead
+electrification and to all hydrogen related infrastructure for the Hydrail System (in addition to oncorridor infrastructure required for both systems). This cost factor is intended to capture the additional
+costs associated with the construction of the RER system in a shorter time frame and more complex
+environment than what is typical for similar projects. The productivity and resource factor is applied to
+on-corridor infrastructure base costs to account for construction under increased rail traffic conditions
+and ongoing service expansions, and includes consideration of limited specialized resources in the
+industry (particularly for electrification and hydrogen technologies). This factor has not been applied
+to system-wide costs like enhanced train control and maintenance facilities. The productivity and cost
+resource factor applied to the overhead electrical system in the IBC is 25 percent and it is understood
+that much of this factor accounts for the complexity of installing the overhead infrastructure during live
+rail operations meaning much of the work will have to take place overnight, for example. This same
+constraint does not exist for Hydrail implementation as capital works would likely not significantly
+impact operations on the rail corridor. A potential advantage of Hydrail is the ability to roll out fleet
+incrementally and intermingled with existing rolling stock. It is difficult to predict with accuracy at this
+stage of the project if there might be disruptions or complications associated with a mixed-fuel fleet,
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+166
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+or the impact construction of hydrogen production and fuelling stations might have on current
+operations. As a result, the productivity and cost resource factor for Hydrail has been reduced from
+25 percent to 10 percent.
+Further refinement is necessary to the cost factors to account for the life cycle of electrification and
+Hydrail capital assets. Hydrail will require CAPEX throughout the life of the RER program to replace,
+either fully or partially, components of the system like the fuel cells and on-board storage tanks. This
+contrasts with overhead electrification where a large upfront CAPEX is expected but, based on the long
+life-span of these capital components, ongoing expenditures have been assumed within IBC to be
+limited to routine maintenance as opposed to system-wide replacement. While there are ongoing
+CAPEX as part of Hydrail, it is expected that there will be greater cost certainty and potential design and
+production cost savings as the Hydrail program ages and the technology matures. As such, the cost
+escalation factors that are applied to initial CAPEX in the overhead electrification case and the Hydrail
+case are not applied to the on-going expenditures related to the replacement or refurbishment of
+Hydrail specific capital components. Cost factors discussed in this section are summarized in Table 4-35.
+TABLE 4-35 COST FACTORS APPLIED IN THE IBC
+Cost Factors Applied in the IBC
+
+Overhead Electrification
+
+Hydrail
+
+Environmental Assessment,
+Engineering and Design
+
+15 percent of base capital costs
+
+30 percent of base capital costs
+
+Infrastructure (Corridors)
+
+Contingency – 50 percent of base capital
+costs
+Productivity and resource factor – 25 percent
+of base capital costs
+
+Contingency – 50 percent of base capital
+costs
+Productivity and resource factor – 10
+percent of base capital costs
+
+Infrastructure (System-wide
+components)
+
+Contingency – 50 percent of base capital
+costs
+
+Contingency – 50 percent of base capital
+costs
+
+4.4.4
+
+Sensitivity Analysis
+
+Following the development of the capital and operating costs for the Hydrail System, a sensitivity
+analysis was performed to quantify the impact of each individual variable on the be BCR using the
+following approach:
+
+
+All cost variables were set at their high case values to establish a baseline for comparison (that is,
+the high scenario).
+
+
+
+Each variable was then individually changed to its lowest case while keeping all other variables
+unchanged.
+
+
+
+The NPV of the following outputs were recorded for each iteration:
+
+
+
+
+
+Total CAPEX = total initial capital + total replacement cost
+
+
+
+Total OPEX = total operating cost + total maintenance cost
+
+The change in NPV was calculated and sorted from highest to lowest.
+
+The sensitivity analysis shows that three variables result in largest variation in the NPV of the selected
+outputs:
+
+
+Cost of electricity
+
+
+
+Lifetime of fuel cell
+
+
+
+Price of fuel cell
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+167
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The sensitivity analysis shows that all other variables have a negligible effect (that is, below 2 percent)
+on the output parameters. The outputs from the sensitivity analysis are presented in Table 4-36. This
+analysis was used to guide the modelling team to the variables that require the most precision and
+that warrant the most in-depth analysis through conversations with industry and research.
+TABLE 4-36 OUTPUT OF THE SENSITIVITY ANALYSIS
+High
+
+Low
+
+percent Change
+
+76
+
+46
+
+-
+
+NPV of Total OPEX
+
+2,356
+
+1,623
+
+-31 percent
+
+Price of fuel cell ($/kW)
+
+1,000
+
+450
+
+-
+
+NPV of Total CAPEX
+
+2,595
+
+2,070
+
+-20 percent
+
+Lifetime of fuel cell (hours)
+
+25,000
+
+40,000
+
+-
+
+NPV of Total CAPEX
+
+2,595
+
+2,325
+
+-10 percent
+
+Cost of electricity ($/MWh)
+
+4.4.5
+
+Model Benchmarking
+
+In addition to the financial analysis presented in this section, the hydrogen pricing model was
+compared to publicly available case studies. This exercise provides a benchmark for the result of the
+modelling exercise used in Hydrail feasibility study.
+Several key technologies for producing hydrogen were studied by the H2A145 team with expertise in
+design and advancement of these technologies within the United States Department of Energy
+Hydrogen and Fuel Cells Program146. One case study covers future estimates for central hydrogen
+production using PEM technology. The model inputs were modified to match requirements of the
+Hydrail project (that is, total hydrogen production, price of electricity, unit cost of electrolyzer and
+total capacity installed), as shown in Table 4-37.
+TABLE 4-37 INPUT PARAMETERS FOR A CENTRAL HYDROGEN PRODUCTION FACILITY
+Cost Component
+
+Unit
+
+DOE
+
+CNL
+
+tonnes /day
+
+48.5
+
+48
+
+price of electricity
+
+$/MWh
+
+66
+
+63
+
+cost of electrolyzer
+
+$/kW
+
+508
+
+508
+
+lifetime of stack
+
+years
+
+10
+
+15
+
+electrolyzer capacity installed
+
+MW
+
+293
+
+281
+
+Hydrogen production
+
+The results of the DOE model were then compared against the Hydrail simulation model. The results
+of this analysis are shown in Table 4-38.
+
+145 H2A, which stands for Hydrogen Analysis, was first initiated in February 2003 to better leverage the combined talents and capabilities of
+analysts working on hydrogen systems, and to establish a consistent set of financial parameters and methodology for analyses
+(https://www.hydrogen.energy.gov/h2a_analysis.html)
+146 Please refer to https://www.hydrogen.energy.gov/h2a_prod_studies.html
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+168
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-38 RESULTS OF THE CENTRAL HYDROGEN PRODUCTION FACILITY MODELS
+Cost Component
+
+DOE
+
+Hydrail Simulation
+
+Total direct capital
+
+$ 148,259,713
+
+$ 147,957,111
+
+Total indirect depreciable capital
+
+$ 27,817,995
+
+$-
+
+$ 3,272,705
+
+$-
+
+Engineering and design
+
+$-
+
+$-
+
+Project contingency
+
+$-
+
+$-
+
+$ 24,545,290
+
+$-
+
+$ 176,077,708
+
+$-
+
+$ 305,320
+
+$-
+
+$ 176,383,028
+
+$ 147,957,111
+
+Capital Costs ($)
+
+Site Preparation
+
+Up-Front Permitting Costs
+(legal and contractor fees)
+Total depreciable cost
+Total non-depreciable cost
+Total capital cost
+
+Operating Costs ($)
+Fixed operating cost (maintenance)
+
+$ 4,521,768
+
+$ 2,351,710
+
+Variable operating cost (cost of electricity)
+
+$ 58,588,148
+
+$ 58,199,567
+
+Total operating cost
+
+$ 63,109,916
+
+$ 60,551,277
+
+0.99
+
+0.56
+
+Variable operating cost
+
+3.31
+
+3.31
+
+Fixed operating cost
+
+0.26
+
+0.13
+
+Other costs
+
+0.23
+
+-
+
+Initial Equity Depreciable Capital
+
+0.00
+
+-
+
+Cash for Working Capital Reserve
+
+0.02
+
+-
+
+Debt Interest
+
+0.11
+
+-
+
+Taxes
+
+-0.01
+
+-
+
+Principal Payment
+
+0.10
+
+-
+
+Cost of production ($/kg)
+
+5.02
+
+4.01
+
+Cost of hydrogen production ($/kg)
+Depreciable cost of capital
+
+The results of the two models are categorized as follows:
+
+
+Capital costs: total capital cost estimated under the DOE model is approximately $30 million
+(19 percent) higher than those estimated by the Hydrail simulation. This is because some up-front
+costs (including permitting and legal costs), as well as site preparation costs, are not included in
+the Hydrail simulation model. It is important to note, however, that the two models produce
+comparable results for direct capital costs.
+
+
+
+Operating costs: maintenance costs are estimated to be higher in the DOE model than in the
+Hydrail simulation model by approximately $2.5 million per year. The DOE model yields a result
+for operating costs that is very close to the Hydrail simulation model (4 percent variance).
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+169
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+This analysis shows that the cost of hydrogen production (which is represented as $ per kg of
+hydrogen produced) is 20 percent lower in the Hydrail simulation model than the DOE model for the
+following reasons:
+
+
+
+
+Approximately half of the difference is driven by the indirect capital costs. The following cost
+elements have not been captured in the Hydrail simulation model:
+
+
+Site preparation cost
+
+
+
+Permitting and legal costs
+
+The remaining half is driven by financing costs and taxes associated with producing hydrogen that
+are not currently captured in the Hydrail simulation model. These costs include:
+
+
+Initial equity depreciable capital;
+
+
+
+Cash for working capital reserve;
+
+
+
+Debt interest;
+
+
+
+Principal payment; and
+
+
+
+Taxes.
+
+4.4.6
+
+Results of the Hydrail Modelling Exercise
+
+The process discussed above outlines a systematic method for developing cost estimates. This
+process was used to develop, refine, and understand the cost estimate for the Hydrail System and
+how this estimate compares to the cost estimates for overhead electrification as presented in the 2014
+IBC model.
+The IBC analysis resulted in a BCR of 3.07 for overhead electrification (Scenario 5). The update to the
+IBC model for Hydrail results in a BCR of 3.01 under the low-cost scenario and 2.65 under the highcost scenario. According to this analysis, the costs of Hydrail and overhead electrification appear to be
+comparable in the low-cost scenario and the overall benefits continue to outweigh the costs of the
+system in all scenarios.
+Table 4-39 provides a high-level overview of the 60-year NPV costs and BCRs under the traditional
+overhead, and low, and high scenarios for Hydrail.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+170
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE 4-39 COSTS AND BCRS FOR ELECTRIFICATION SCENARIOS (60-YEAR NPV COSTS WITH A BASEYEAR OF 2014)*
+Traditional
+Overhead
+Electrification
+($ M)
+
+Low Hydrail
+System
+
+High Hydrail
+System
+
+($ M)
+
+($ M)
+
+A
+
+12,277
+
+12,706
+
+13,309
+
+Initial Capital for Energy System Infrastructure
+(2015 to 2024)
+
+B1
+
+1,762
+
+576
+
+712
+
+Ongoing Capital for Energy System
+Infrastructure (2025 to 2074)
+
+B2
+
+-
+
+257
+
+356
+
+B=B1+B2
+
+1,762
+
+833
+
+1,068
+
+Initial Capital for Fleet (2015 to 2023)
+
+C1
+
+2,260
+
+2,703
+
+2,986
+
+Ongoing Capital for Fleet (2024 to 2074)
+
+C2
+
+1,845
+
+2,132
+
+2,531
+
+C=C1+C2
+
+4,105
+
+4,835
+
+5,517
+
+D=B+C
+
+5,867
+
+5,668
+
+6,585
+
+E
+
+7,074
+
+7,074
+
+7,074
+
+B=D+E
+
+12,942
+
+12,742
+
+13,659
+
+A+B
+
+25,218
+
+25,497
+
+27,030
+
+3.07
+
+3.01
+
+2.65
+
+Operating Costs
+Capital Costs
+
+Energy System
+
+Fleet
+Total Capital Cost for Energy System and
+Fleet
+Other Capital Costs
+Total Capital Costs (D + E)
+Total Costs
+BCR
+*Numbers may not sum due to rounding.
+
+In Table 4-39, costs are represented as follows:
+(A) The total operating costs for the system, including estimates for the cost of maintaining rolling
+stock, hydrogen equipment, the overhead system, stations, and other components of the RER
+system.
+(B) The total capital cost of the system, including costs spent during construction of the system and
+capital expenditures required throughout the 60-year life of the RER program.
+(C) The total capital cost for the energy system and the fleet; for overhead electrification, this includes
+the cost of the catenary system and all electric vehicles and for Hydrail this includes all hydrogen
+equipment (both on- and off-vehicle equipment) and the cost for the vehicles themselves.
+(D) The cost for the energy system; for overhead electrification, this is the cost of the catenary system
+and for Hydrail this is the cost of the off-vehicle hydrogen equipment (for example, electrolyzers
+and distribution equipment).
+(E) The cost for the fleet; for electrification, this includes electric locomotives and EMUs and for
+Hydrail the cost represents locomotives and EMUs including the on-vehicle hydrogen equipment
+that will be used to power the vehicles (that is, fuel cells, batteries, and storage tanks).
+(F) Other capital costs required to develop the RER system including station modifications and track
+upgrades.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+171
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Under both (D) and (E), initial capital (that is, capital spent during the construction or development
+phase of RER) and ongoing capital (that is, capital spent once the RER program is operational) are
+included as separate items. The intention is to illustrate the difference between overhead electrification
+and Hydrail as it relates to the distribution of spending over the lifetime of the RER program.
+When undertaking a like-for-like analysis through the IBC model, Hydrail shows a slight to moderate
+disadvantage when compared to overhead electric. This suggests higher costs will be observed
+throughout the life of the RER program. Under a low scenario the model shows only a small decline in
+the BCR between when compared to the overhead electrification case. Conversely, if a costlier
+scenario materializes (for example, electricity prices are higher in 2040 than expected), the outcome
+could impact into reduced BCR for Hydrail. The sensitivity analysis suggests that there are three
+factors that will have the most significant impact on cost. In order of importance these are: price of
+electricity; lifespan of fuel cells; and cost of fuel cells. Given the potential impact on the final results,
+these are the items where further analysis should focus.
+It is important to emphasize that the costs contained throughout the models (including IBC) are not
+intended to reflect the price to install and manage the system under a typical commercial
+arrangement. Such information would only be clearly understood following a market sounding
+exercise followed by a competitive procurement process.
+Other Benefits of Hydrail
+Other benefits of Hydrail (for example, establishing a hydrogen economy, local jobs) have been captured
+by a separate modelling exercise within the feasibility study. The socio-economic study examines:
+
+
+Employment and GDP benefits
+
+
+
+A reduction in disruption related to the construction of an overhead system in a live rail corridor.
+
+
+
+The potential to develop a 'hydrogen economy' in the province that could spur the deployment of
+hydrogen for other applications.
+
+
+
+Supporting deployment of hydrogen for commercial use in transportation (for example,
+passenger vehicles, buses, commercial vehicle).
+
+
+
+The opportunity to support development of hydrogen based energy storage systems, which will
+facilitate the increased use of renewable energy in Ontario's electricity system w harness surplus
+energy
+
+4.4.7
+
+Updates to the IBC
+
+Metrolinx is currently in the process of updating the cost estimate for overhead electrification that was
+developed as part of the IBC. As discussed earlier in this chapter, during early stages of a project, where
+the design of a system is still in initial stages of development, large variability can be expected in cost
+estimates. As more detailed design is completed, costs are better understood and, in many cases, rise as a
+better understanding of the project often reveals costs not previously accounted for.
+Based on the update to overhead electrification costs currently underway, it appears that costs for
+overhead electrification will be higher than estimated in the IBC. The updated costs will not be
+finalized until after the completion of the Hydrail feasibility study and, therefore, these updates are not
+reflected in this analysis.
+Based on the work currently ongoing to update the cost estimate for overhead electrification there is
+an expectation that CAPEX and OPEX will be higher than envisioned in the IBC. Adjusting for these
+higher costs, the BCR in the IBC could fall below 3.07, as is currently captured by the IBC model.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+172
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+The estimated BCR for Hydrail may also change due to refinements in the technical model or changes
+to electricity policies. As illustrated in Figure 4-45, further modelling work may result in greater
+hydrogen required for the Hydrail System, which could result in increased capital and operating costs.
+Consequently, the BCR would be reduced from 2.65 as currently estimated in the high-cost case. On
+the other hand, an electricity policy change that results in lower electricity prices will improve the BCR
+from 3.01 as currently estimated in the low-cost case.
+It is however noted that any future electricity policy change that results in lower electricity prices could
+also improve the BCR for the overhead electrification case.
+FIGURE 4-45 POTENTIAL CHANGES IN THE BCR OF AN OVERHEAD ELECTRIC SYSTEM COMPARED
+TO HYDRAIL
+
+*Arrows are meant to illustrate potential higher and lower BCR ranges based on analysis to be completed in
+the future.
+
+4.4.8
+
+Other Considerations
+
+It is also important to note that there are several key considerations that are not captured by the IBC
+analysis that are critical to the overall business case and a decision on the technology that should be
+used to electrify the GO network. These considerations as discussed below include potential benefits
+from Hydrail, areas where it is unclear whether there is a benefit or a risk, and risks associated with
+deployment of Hydrail.
+First, the IBC model work likely does not completely account for the value of the risk associated with
+constructing an overhead electric system in a live rail corridor. Although an adjustment has been
+made to the Productivity and Resource cost factor to reflect reduced complexity associated with the
+construction of a Hydrail System, this adjustment likely does not fully capture the entire value of
+avoided risk that would be inherent to installing an overhead contact system on a live rail corridor,
+something that is rarely done in the rail industry.
+Second, Hydrail may present an opportunity to more gradually deploy HFC-powered train sets and to
+potentially achieve this roll out with little to no disruption to existing rail operations. RER service levels
+are currently scheduled to begin in 2024 accordingly, this is when additional operating costs begin
+and related benefits are expected to be realized. If Hydrail is deployed, commencement of RER
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+173
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+services may not be binary as is the case for overhead electrification. As Hydrail vehicles are delivered
+to Metrolinx, it may be possible to deploy these vehicles on a portion of the GO network before
+bringing the entire system online. This could potentially allow RER benefits to be realized earlier than
+would be the case through overhead electrification. While this phased roll-out could help to realize
+additional benefits, it could also increase operational complexity as some lines would be operating at
+significantly increased service levels and speeds that may be difficult to coordinate with slower routes
+through Union Station. This potential benefit could also be negated because of the need to develop a
+hydrogen supply chain across the GO network. Further analysis will need to be undertaken to
+understand if there may be regulatory, safety, operational or commercial considerations that may
+hinder ability to seamlessly deploy a mixed fleet of hydrogen and diesel train sets as is assumed in
+making this statement.
+Third, the IBC model work likely does not sufficiently capture the comparison between maintenance
+requirements of the two systems. While in concept, maintenance of fuel cells can be done without
+significant disruption, the entire maintenance regime for a Hydrail train is not fully understood. In
+some cases, manufacturers may require that maintenance is undertaken by their own trained
+workforce, or a workforce with certain credentials. This could introduce operational complexities if, for
+example, different workers are needed to maintain various components of the hydrogen system. The
+maintenance cycle may be further complicated by regulatory requirements associated with, for
+example, replacement of tanks and how the system is safety tested after such events. Furthermore, the
+amount of downtime associated with servicing Hydrail vehicles compared to traditional electric
+vehicles is unknown. This could impact the configuration of maintenance facilities and the size of the
+fleet. The key point is not that the costs will be higher, but that maintenance requirements will be
+more complex and will require different processes to be followed, potential impacts on facilities and
+fleet, and likely a higher skilled workforce. The specific nature of these differences is unknown and has
+not been quantified through the IBC model.
+Forth, it is reasonable to assume that accreditation requirements of those undertaking work on the
+hydrogen related components of the trains will likely be more stringent than for those servicing
+traditional electric vehicles. The potential for limited availability of technicians to service the Hydrail
+System is not captured by the Hydrail System model. Specialized technicians will be required to
+service Hydrail vehicles and this is expertise that does not currently exist in Ontario at the scale that
+would be required. The lack of a skilled workforce could lead to higher costs at the outset as the
+industry trains technicians. To meet demand, the Province of Ontario may need to invest in
+educational programs to develop this skilled workforce. Development of a new work force has
+potential long-term benefits for the Ontario economy. These benefits are discussed in Section 4.7 this
+study. The key point is that the lack of a skilled workforce introduces risk to the deployment of Hydrail
+that would need to be overcome to ensure a smooth transition into service.
+Fifth, a significant potential benefit of Hydrail is the opportunity it presents to electrify more of the go
+RER network than would otherwise be possible through overhead electrification. This includes
+electrification of the outer areas of the network where overhead electrification would be cost
+prohibitive, and also to electrify corridors that the IBC model assumes would continue to run diesel
+service over the course of the 60 year RER program. Broader electrification could mean increased
+ridership as services will be more frequent and faster and associated increases to the overall benefits
+associated with the RER program. These benefits would be realized assuming agreements to operate
+HFC-powered trains can be negotiated in areas of the GO network that are not owned by Metrolinx.
+Sixth, while Hydrail related costs have been modelled, there is inherent uncertainty in such processes.
+On one hand, it is difficult to predict the extent to which capital and operating costs could come down
+in the future in light of a potential surge in establishing hydrogen economies globally. This would
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+174
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+come through increased competition, more real-world cases of implementation, and likely more
+research funding going into the technology. Similarly, it is very difficult to predict with accuracy the
+impact Hydrail could have on future energy prices in Ontario. Modelling work that has been
+undertaken is based on Ontario’s current energy outlook. It is well-understood that the outlook is
+based on one scenario where disruptions like mass deployment of electrical vehicles or significant
+downturns in the economy have not been assumed. As explained in Section 4.3, the load presented
+by Hydrail could lead to an increase in the wholesale price of electricity during the periods electricity
+is demanded by the Hydrail System. This will be the case if a situation arises where the availability of
+surplus baseload significantly declines due to increased adoption of electric vehicles and potentially
+increased use of electricity for home heating as is contemplated in Ontario’s Climate Change Action
+Plan.
+Seventh, Hydrail has the potential to be an anchor point for Ontario’s hydrogen economy. Lack of
+infrastructure is regularly sited as the key barrier to wide spread adoption of hydrogen technologies.
+The scale of Hydrail could provide that essential backbone that is needed to make hydrogen a viable
+technology option for commercial and personal transportation and for other purposes. To make this a
+reality, the hydrogen supply chain for Hydrail would likely need to be purposely designed and
+procured to ensure the broader potential benefits are realized. If, as an example, the fuelling network
+was purposely built for Hydrail, those broader benefits may be missed. Should a hydrogen supply
+chain be established and anchored in a long-term agreement for the provision of a certain amount of
+hydrogen to supply the Hydrail System, and that system also is used for other commercial
+applications, the price could be significantly different. The Hydrail analysis does not capture the
+potential benefits associated with such arrangements. Related to this point, Hydrail has the potential
+to facilitate continued efforts to decarbonize Ontario’s electricity system and to support continued
+installation of renewable energy production capabilities as it provides a storage medium that is not
+currently available. As per above, this would require that the hydrogen supply chain is effectively
+open for purposes broader than Hydrail.
+Finally, it is very difficult to quantify the risk associated with deployment of Hydrail at the scale that
+would be required to replace plans for overhead electrification. While all aspects associated with the
+production, storage, dispensing and use of hydrogen in fuel cells has been proven internationally, it
+has not been accomplished in a rail setting at anywhere near the scale being contemplated in Ontario
+and it has yet to be tested on rail vehicles that are comparable in terms of size and weight to what
+would be required to meet RER service levels as contemplated in the IBC.
+
+4.4.9
+
+Fiscal Analysis
+
+I It is important to note that although the NPV of the cost of both systems appear to be similar, there
+are significant differences in the timing of expenditures. For the overhead system, it is expected that
+much of the capital cost will be incurred near the beginning of the project as the overhead contact
+system is constructed. For Hydrail, however, the initial capital cost is expected to be lower but the
+recurring CAPEX to refurbish or replace hydrogen equipment is expected to be higher than for the
+overhead system.
+The combined impact of capital investment and operating and maintenance costs (i.e., the fiscal
+analysis) is analyzed in this section as separate operating and capital cost results that were presented
+in the previous sections do not clearly show how the investment affects annual budgets. A fiscal
+analysis has been completed with respect to the following four categories:
+
+
+Amortized cost: annual amortization cost of capital assets. The effect of initial capital investment
+will appear in the books under the amortized cost of investment. It is assumed that initial capital
+investment for overhead electrification will be amortized linearly over 50 years (that is, from 2024
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+175
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+to 2074). Hydrail’s initial capital, however, will be depreciated at different rates depending on the
+asset type. For instance, fuel cells have a significantly higher depreciation rate comparing to
+storage tanks due to their shorter life span. Components of the Hydrail System were depreciated
+at the rates shown in Table 4-40.
+TABLE 4-40 HYDRAIL SYSTEM – DEPRECIATION RATE
+Lifetime
+
+Depreciation Rate
+
+Lifetime
+
+Depreciation
+Rate
+
+Lifetime
+
+Depreciation
+Rate
+
+Electrolyzer
+
+15
+
+7 percent
+
+12
+
+8 percent
+
+Storage (including compressor)
+
+20
+
+5 percent
+
+20
+
+5 percent
+
+N/A
+
+N/A
+
+N/A
+
+N/A
+
+Refuelling (including compressor)
+
+20
+
+5 percent
+
+20
+
+5 percent
+
+Dispensing
+
+10
+
+10 percent
+
+10
+
+10 percent
+
+Fuel cell
+
+9
+
+11 percent
+
+6
+
+17 percent
+
+Battery system
+
+10
+
+10 percent
+
+10
+
+10 percent
+
+On-board storage tanks
+
+15
+
+7 percent
+
+15
+
+7 percent
+
+Capital Assets
+
+Distribution (including compressor)
+
+
+
+Cost of financing: annual cost of debt. It is assumed that the initial capital investment is fully
+financed by debt. The debt is assumed to be issued at a rate of 3.5 percent annually, maturing in
+30 years for both overhead electrification and Hydrail.
+
+
+
+Operating cost: annual cost of electricity. As explained in Section 4.3, the volume and unit cost of
+electricity was estimated using data provided by IESO and the Hydrail simulation model. The average
+annual operating costs for the first 10 years of operation was then estimated for comparison.
+
+
+
+Maintenance cost: annual maintenance cost. The maintenance cost for Hydrail was derived from
+the Hydrail simulation model.
+
+The result of the fiscal analysis is presented in Table 4-41. The difference between total annual costs of
+overhead electrification and low- and high-cost Hydrail scenarios is also presented in Table 4-41.
+Under the low-cost scenario, Hydrail would result in an average decrease of $31 million in
+Government’s expenses over the first 10 years of operations. Under high-cost scenario, Hydrail would
+result in an average increase of $55 million over the same operating period.
+TABLE 4-41 FISCAL IMPACT – HYDRAIL COMPARED TO OVER-HEAD ELECTRIFICATION
+IBC
+
+Hydrail
+(low)
+
+Difference
+
+Hydrail
+(high)
+
+Difference
+
+Amortized cost
+
+42
+
+55
+
+20
+
+99
+
+63
+
+Cost of Financing
+
+73
+
+25
+
+(48)
+
+34
+
+(39)
+
+Operating cost*
+
+34
+
+35
+
+1
+
+61
+
+27
+
+Maintenance cost*
+
+17
+
+14
+
+(3)
+
+20
+
+3
+
+Total annual costs
+
+160
+
+129
+
+(31)
+
+214
+
+54
+
+Comparison
+
+*The incremental maintenance cost from IBC model
+
+This analysis is based on the information provided by Metrolinx represents what is available at the
+time of the report’s publication. The analysis should be reviewed and further analyzed by Metrolinx to
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+176
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+develop a final conclusion on the fiscal impact of the implementation of the overhead electric and
+Hydrail systems.
+
+4.4.10 Findings
+The comparison between Hydrail and overhead electrification, as envisioned in the IBC, illustrates
+based on the information available, that total capital and operating costs for Hydrail are either similar
+more costly than overhead electrification. In both the low- and high-cost cases for Hydrail, total
+operating costs are expected to be higher than for an overhead system, as estimated in 2014.
+The higher capital cost for the Hydrail System is primarily driven by the requirement for more frequent
+CAPEX required to replace the assets in the Hydrail System, due to the shorter lifespan of the assets.
+In the low-cost scenario, the higher ongoing capital requirement is counter-balanced by lower initial
+capital required in the Hydrail System.
+Although an attempt has been made to understand and account for the variability in cost estimates
+that is inherent at the feasibility-testing stage, it remains important to emphasize the uncertainty in
+both the cost estimates for Hydrail and for overhead electrification. While the BCRs for Hydrail and
+overhead electrification are similar, with overhead electrification showing only marginally lower costs
+than Hydrail under the low-cost scenario, further design is required to advance the cost estimate of
+both systems to allow for a complete picture of the cost difference.
+The findings presented are based on NPV estimation. An attempt has been made to translate the
+analysis into fiscal terms because the government’s decision-making depends heavily on the fiscal
+impact of the project. As discussed in Section 4.4.9, the capital and operating costs of the Hydrail
+System would result in an overall annual expense ranging between $129 million and $214 million in
+the low- and high-cost scenarios, respectively. The variation between the scenarios is primarily driven
+by the difference in amortized capital costs that results from higher unit costs and shorter life spans of
+the Hydrail System equipment in the high-cost scenario. The annual operating cost also increases
+materially as a result of higher cost of electricity considered in the high-cost scenario. This analysis
+requires further review and confirmation by the Metrolinx finance team, at which time a comparison
+between Hydrail and overhead electrification scenarios could be considered and the associated
+impact on capital and operating costs that will be carried in the provincial fiscal plan can be assessed.
+
+4.4.11 Next Steps
+As discussed, a more detailed estimate for Hydrail should include costs like permitting and financing
+costs, and would also include a more detailed analysis of risk and the risk-related costs; this will
+provide a more accurate picture of the total costs of a Hydrail System. At the same time, work should
+be completed to update the overhead electrification costs. The IBC was completed in 2014 and,
+similar to the requirement for a more detailed assessment of Hydrail related costs, a more detailed
+assessment of overhead electrification, based on a more current understanding of costs should be
+conducted. This will allow for a more complete comparison of Hydrail and overhead electrification.
+Additionally, the focus of the financial modelling process to-date has been the total cost of the Hydrail
+and overhead electric systems. This does not represent the price of system to Metrolinx—further
+modelling work should consider things like procurement and financing costs to help provide a more

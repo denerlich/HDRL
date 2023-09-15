@@ -1,0 +1,1259 @@
+MPG339100
+
+Medical, dental and personal safety supplies, instruments
+and equipment
+
+MPG339904
+
+Office supplies (except paper)
+
+MPG339905
+
+Signs
+
+334
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-2 CAPEX BREAKDOWN FOR RER ELECTRIFICATION SOCIO-ECONOMIC IMPACTS
+Capital
+239
+Costs
+
+Total Costs
+
+Breakdown
+
+15 percent
+Design Costs
+Property
+
+$281
+
+60 percent
+Property
+35 percent is
+for
+consultants
+
+$740
+
+Custom work manufacturing services (except printing,
+finishing textiles and metals)
+
+MPS541300
+
+Architectural, engineering and related services
+
+N/A
+
+Legal services
+
+MPS541200
+
+Accounting, tax preparation, bookkeeping and payroll
+services
+
+MPS541400
+
+Specialized design services
+
+MPS541503
+
+Computer systems design and related services (except
+software development)
+
+MPS541600
+
+Management, scientific and technical consulting services
+
+MPS541800
+
+Advertising, public relations and related services
+
+MPS541901
+
+Photographic services
+
+MPS541909
+
+Other professional, scientific and technical services
+
+MPS524103
+
+Automotive insurance services
+
+MPS524104
+
+Property insurance services
+
+MPS524105
+
+Liability and other property and casualty insurance services
+
+30 percent
+Labour
+
+PRM500000
+
+Wages and salaries
+
+PRM600000
+
+Employers' social contributions
+
+55 percent
+Materials
+
+MPG111400
+
+Nursery and floriculture products
+
+MPG212310
+
+Stone
+
+MPG212320
+
+Sand, gravel, clay, and refractory minerals
+
+MPG3241A1
+
+Asphalt (except natural) and asphalt products
+
+MPG327301
+
+Cement
+
+MPG327302
+
+Ready-mixed concrete
+
+MPG334209
+
+Other communications equipment
+
+MPS541300
+
+Architectural, engineering and related services
+
+MPG336501
+
+Locomotives, railway rolling stock, and rapid transit
+equipment
+
+PRM500000
+
+Wages and salaries
+
+PRM600000
+
+Employers' social contributions
+
+100 percent
+Material
+
+$2,599
+
+30 percent
+Labour
+
+DATE: 02/02/2018
+
+MPS3X0000
+
+MPS541100
+
+$6,751
+
+CPG-PGM-RPT-245
+
+Other miscellaneous manufactured products
+
+Real estate brokerage and other services related to real
+estate
+
+15 percent
+Design Costs
+Fleet
+
+MPG339909
+
+MPS531A00
+
+5 percent is
+for insurance
+
+Carparking
+
+SUPC
+
+335
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-2 CAPEX BREAKDOWN FOR RER ELECTRIFICATION SOCIO-ECONOMIC IMPACTS
+Capital
+239
+Costs
+
+Total Costs
+
+Other
+network
+CAPEX
+
+Breakdown
+13 percent is
+for the CBTC
+signaling
+system
+
+MPG334209
+
+Other communications equipment
+
+30 percent
+for
+construction
+of buildings
+
+MPG23B001
+
+Industrial buildings
+
+12 percent
+for parking
+
+MPG111400
+
+Nursery and floriculture products
+
+MPG212310
+
+Stone
+
+MPG212320
+
+Sand, gravel, clay, and refractory minerals
+
+MPG3241A1
+
+Asphalt (except natural) and asphalt products
+
+MPG327301
+
+Cement
+
+MPG327302
+
+Ready-mixed concrete
+
+MPS541300
+
+Architectural, engineering and related services
+
+15 percent
+Design Costs
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+SUPC
+
+336
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+D.2.
+
+Hydrail
+
+Table D-3 has the OPEX divided into the IO categories for the model for only the OPEX that are
+different in the Hydrail Model:
+TABLE D-3 OPEX BREAKDOWN FOR HYDRAIL SOCIO-ECONOMIC IMPACTS
+Operating Costs
+241 (Millions)
+
+Total
+Costs
+
+Breakdown
+
+SUPC
+
+Electricity for
+Traction
+
+$3,820.00
+
+100 percent Material
+
+ENE221100
+
+Electricity
+
+Infrastructure
+Maintenance242
+
+$4,313.81
+
+70 percent Labour
+
+PRM500000
+
+Wages and salaries
+
+PRM600000
+
+Employers' social contributions
+
+MPG212310
+
+Stone
+
+MPG212320
+
+Sand, gravel, clay, and refractory minerals
+
+MPG331100
+
+Iron and steel basic shapes and ferro-alloy
+products
+
+MPG331201
+
+Iron and steel pipes and tubes (except
+castings)
+
+MPG331202
+
+Wire and other rolled and drawn steel
+products
+
+MPG331303
+
+Basic and semi-finished products of
+aluminum and alloys
+
+MPG331501
+
+Ferrous metal castings
+
+MPG332101
+
+Forged and stamped metal products
+
+MPG332301
+
+Prefabricated metal buildings and
+components
+
+MPG332302
+
+Fabricated steel plates and other
+fabricated structural metal
+
+MPG332A05
+
+Other architectural metal products
+
+MPG332402
+
+Boilers, tanks and heavy gauge metal
+containers
+
+MPG332500
+
+Builders, motor vehicle and other
+hardware
+
+MPG332700
+
+Threaded metal fasteners and other
+turned metal products including
+automotive
+
+MPG332A08
+
+Fabricated metal products, n.e.c.
+
+MPG334209
+
+Other communications equipment
+
+305.8 mil on
+communication/
+signaling equipment
+from RER maintenance
+(same $ as RER)
+
+305.8 mil
+communication/
+signaling equipment
+(same $ as RER)
+
+241 Input structure for IO industry BS485100 - Urban transit systems, based on the 2014 Supply and use tables for Ontario. For all costs with
+the exception of Infrastructure Maintenance materials.
+242 Input structure for IO industry BS23D000 - Repair construction, based on the 2014 Supply and use tables for Ontario
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+337
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-3 OPEX BREAKDOWN FOR HYDRAIL SOCIO-ECONOMIC IMPACTS
+Operating Costs
+241 (Millions)
+
+Total
+Costs
+
+Breakdown
+
+SUPC
+
+10 percent on
+electrolyzer
+
+MPG333200
+
+Other industry-specific machinery
+
+12 percent on fuel cells
+
+MPG335901
+
+Batteries
+
+5 percent on storage
+tanks
+
+MPG332402
+
+Boilers, tanks and heavy gauge metal
+containers
+
+MPG212310
+
+Stone
+
+MPG212320
+
+Sand, gravel, clay, and refractory minerals
+
+MPG31A005
+
+Textile products, n.e.c.
+
+MPG31B005
+
+Footwear
+
+MPG31B006
+
+Suitcases, handbags and other leather and
+allied products
+
+MPG321102
+
+Softwood lumber
+
+MPG321104
+
+Other sawmill products and treated wood
+products
+
+MPG321201
+
+Veneer and plywood
+
+MPG321202
+
+Wood trusses and engineered wood
+members
+
+MPG321203
+
+Reconstituted wood products
+
+4 percent on fuel
+stations
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+338
+
+MPG321901
+
+Wood windows and doors
+
+MPG321904
+
+Prefabricated wood and manufactured
+(mobile) buildings and components
+
+MPG321908
+
+Wood products, n.e.c.
+
+MPG322102
+
+Paper (except newsprint)
+
+MPG322201
+
+Paperboard containers
+
+MPG322202
+
+Paper office supplies
+
+MPG322209
+
+Other converted paper products
+
+MPG323001
+
+Printed products
+
+ENE324111
+
+Gasoline
+
+ENE324112
+
+Diesel and biodiesel fuels
+
+ENE324113
+
+Light fuel oils
+
+ENE324115
+
+Heavy fuel oils
+
+MPG3241A8
+
+Lubricants and other petroleum refinery
+products
+
+MPG3241A1
+
+Asphalt (except natural) and asphalt
+products
+
+MPG325101
+
+Petrochemicals
+
+MPG325102
+
+Industrial gases
+
+MPG325105
+
+Basic organic chemicals, n.e.c.
+
+MPG325400
+
+Pharmaceutical and medicinal products
+
+MPG325500
+
+Paints, coatings and adhesive products
+
+MPG325601
+
+Soaps and cleaning compounds
+
+MPG325900
+
+Chemical products, n.e.c.
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-3 OPEX BREAKDOWN FOR HYDRAIL SOCIO-ECONOMIC IMPACTS
+Operating Costs
+241 (Millions)
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Total
+Costs
+
+Breakdown
+
+SUPC
+
+339
+
+MPG326102
+
+Plastic films and non-rigid sheets
+
+MPG326103
+
+Plastic and foam building and construction
+materials
+
+MPG326104
+
+Plastic profile shapes
+
+MPG326109
+
+Plastic products, n.e.c.
+
+MPG326202
+
+Rubber and plastic hoses and belts
+
+MPG326209
+
+Rubber products, n.e.c.
+
+MPG327301
+
+Cement
+
+MPG327302
+
+Ready-mixed concrete
+
+MPG327303
+
+Concrete products
+
+MPG327A01
+
+Clay and ceramic products and refractories
+
+MPG327A02
+
+Glass (including automotive), glass
+products and glass containers
+
+MPG327A04
+
+Lime and gypsum products
+
+MPG327A09
+
+Non-metallic mineral products, n.e.c.
+
+MPG331100
+
+Iron and steel basic shapes and ferro-alloy
+products
+
+MPG331201
+
+Iron and steel pipes and tubes (except
+castings)
+
+MPG331202
+
+Wire and other rolled and drawn steel
+products
+
+MPG331303
+
+Basic and semi-finished products of
+aluminum and alloys
+
+MPG331501
+
+Ferrous metal castings
+
+MPG332101
+
+Forged and stamped metal products
+
+MPG332301
+
+Prefabricated metal buildings and
+components
+
+MPG332302
+
+Fabricated steel plates and other
+fabricated structural metal
+
+MPG332303
+
+Metal windows and doors
+
+MPG332A05
+
+Other architectural metal products
+
+MPG332402
+
+Boilers, tanks and heavy gauge metal
+containers
+
+MPG332500
+
+Builders, motor vehicle and other hardware
+
+MPG332600
+
+Springs and wire products
+
+MPG332700
+
+Threaded metal fasteners and other turned
+metal products including automotive
+
+MPS332800
+
+Coating, engraving, heat treating and
+similar metal processing services
+
+MPG332A01
+
+Hand tools, kitchen utensils and cutlery
+(except precious metal)
+
+MPG332A02
+
+Metal valves and pipe fittings
+
+MPG332A03
+
+Ball and roller bearings
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-3 OPEX BREAKDOWN FOR HYDRAIL SOCIO-ECONOMIC IMPACTS
+Operating Costs
+241 (Millions)
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+Total
+Costs
+
+Breakdown
+
+SUPC
+
+340
+
+MPG332A08
+
+Fabricated metal products, n.e.c.
+
+MPG333101
+
+Agricultural, lawn and garden machinery
+and equipment
+
+MPG333102
+
+Logging, mining and construction
+machinery and equipment
+
+MPG333200
+
+Other industry-specific machinery
+
+MPG333300
+
+Commercial and service industry
+machinery
+
+MPG333401
+
+Industrial and commercial fans, blowers
+and air purification equipment
+
+MPG333402
+
+Heating and cooling equipment (except
+household refrigerators and freezers)
+
+MPG333500
+
+Metalworking machinery and industrial
+moulds
+
+MPG333601
+
+Turbines, turbine generators, and turbine
+generator sets
+
+MPG333609
+
+Other engine and power transmission
+equipment
+
+MPG333901
+
+Pumps and compressors (except fluid
+power)
+
+MPG333902
+
+Material handling equipment
+
+MPG333909
+
+Other miscellaneous general-purpose
+machinery
+
+MPG334100
+
+Computers, computer peripherals and
+parts
+
+MPG334201
+
+Telephone apparatus
+
+MPG334209
+
+Other communications equipment
+
+MPG334A05
+
+Medical devices
+
+MPG334A06
+
+Measuring, control and scientific
+instruments
+
+MPG334409
+
+Other electronic components
+
+MPG335101
+
+Electric light bulbs and tubes
+
+MPG335102
+
+Lighting fixtures
+
+MPG335203
+
+Small electric appliances
+
+MPG335204
+
+Major appliances
+
+MPG335301
+
+Power, distribution and other transformers
+
+MPG335302
+
+Electric motors and generators
+
+MPG335303
+
+Switchgear, switchboards, relays and
+industrial control apparatus
+
+MPG335901
+
+Batteries
+
+MPG335902
+
+Communication and electric wire and
+cable
+
+MPG335903
+
+Wiring devices
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-3 OPEX BREAKDOWN FOR HYDRAIL SOCIO-ECONOMIC IMPACTS
+Operating Costs
+241 (Millions)
+
+Total
+Costs
+
+Breakdown
+
+SUPC
+
+MPG336320
+
+Motor vehicle electrical and electronic
+equipment and instruments
+
+MPG336330
+
+Motor vehicle steering and suspension
+components
+Motor vehicle brakes and brake systems
+
+MPG337101
+
+Wood kitchen cabinets and counter tops
+
+MPG339904
+
+Office supplies (except paper)
+
+MPG339905
+
+Signs
+
+MPG339909
+
+Other miscellaneous manufactured
+products
+
+MPS3X0000
+
+Custom work manufacturing services
+(except printing, finishing textiles and
+metals)
+
+MPS524102
+
+Accident and sickness insurance services
+
+MPS524103
+
+Automotive insurance services
+
+MPS524104
+
+Property insurance services
+
+MPS524105
+
+Liability and other property and casualty
+insurance services
+
+19 percent electricity
+
+ENE221100
+
+Electricity
+
+4 percent Gas
+
+ENE211102
+
+Natural gas
+
+MPS221301
+
+Water delivered by water works and
+irrigation systems
+
+PRM800000
+
+Gross operating surplus
+
+1 percent water
+$31,920
+
+Other electrical equipment and
+components
+
+MPG336340
+
+2 percent insurance
+
+Operating
+Surplus
+
+MPG335909
+
+100 percent Other
+
+Table D-4 has the OPEX divided into the IO categories for the model for only the CAPEX that are
+different in the Hydrail Model.
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+341
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+TABLE D-4 CAPEX BREAKDOWN FOR HYDRAIL SOCIO-ECONOMIC IMPACTS
+Capital Costs
+(Millions) 243
+Electrification
+capex244
+
+Total
+Costs
+$5,237
+
+Breakdown
+
+SUPC
+
+25 percent Labour
+
+PRM500000
+
+Wages and salaries
+
+PRM600000
+
+Employers' social contributions
+
+15 percent is for electrolyzer
+
+MPG333200
+
+Other industry-specific machinery
+
+18 percent is for fuel cells
+
+MPG335901
+
+Batteries
+
+MPG332402
+
+Boilers, tanks and heavy gauge metal
+containers
+
+MPG23B001
+
+Industrial buildings
+
+MPS541300
+
+Architectural, engineering and related
+services
+
+7 percent is for storage tanks
+5 percent is for fuelling
+stations
+30 percent Design Costs
+Fleet
+
+$6,443
+
+100 percent Material
+MPG336501
+
+Locomotives, railway rolling stock, and
+rapid transit equipment
+
+243 Investment in Infrastructure and Property uses Input structure for IO industry BS23C100 - Transportation engineering construction,
+based on the 2014 Supply and use tables for Ontario with the exception of Electrification.
+244 Investment in Electrification uses Input structure for IO industry BS23C300 - Electric power engineering construction, based on the 2014
+Supply and use tables for Ontario.
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+342
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Appendix E – List of Contacted Organizations
+Organization
+
+HQ location
+
+Main focus of the business
+
+Air Liquide
+
+Paris, France
+
+Production and distribution of gaseous assets (argon,
+oxygen, nitrogen, helium and hydrogen) to large
+industries and healthcare sectors
+
+Air Products
+
+Allentown, Pennsylvania, US
+
+Supply of LNG process technology and equipment;
+atmospheric and process gases and related
+equipment to manufacturing markets (including
+refining and petrochemical, metals, electronics, and
+food and beverage)
+
+Bae Systems - HybriDrive
+
+London, UK
+
+Hybrid electric power and propulsion transit solutions
+
+Ballard
+
+Burnaby, BC
+
+Fuel cell power solutions for transit, automotive, rail,
+infrastructure and defence sectors
+
+BC Ministry of Energy and Mining
+
+Fort St John, BC
+
+BC's electricity, alternative energy, mining and
+petroleum resources sectors
+
+Change Energy Services
+
+Oakville, ON
+
+End-to-end compressed gas fuelling solutions
+
+Clean Fuel Systems
+
+Brampton, ON
+
+Hydrogen systems integration
+
+CSA
+
+Mississauga, ON
+
+Development of codes and standards
+
+CUTRIC
+
+Toronto, ON
+
+Canadian urban transit and innovation
+
+Electrovaya
+
+Mississauga, ON
+
+Development and manufacture of portable lithium-ion
+battery power solutions for the automotive, power
+grid, medical and mobile device sectors
+
+Enbridge Gas
+
+Toronto, ON
+
+Natural Gas Distribution
+
+General Motors
+
+Detroit, Michigan, US
+
+Design, manufacturing, market and distribution of
+vehicles and vehicle parts
+
+Hexagon Composites
+
+Aalesund, Norway
+
+Supply of composite pressure cylinders and systems
+for gas applications
+
+HTEC
+
+Vancouver, BC
+
+Build and operation of renewable electrolysis and
+industrial by-product streams facilities for hydrogen
+production
+
+Hydrogen Business Council
+
+-
+
+Canadian hydrogen industry
+
+Hydrogenics
+
+Mississauga, ON
+
+Industrial and commercial hydrogen generation, fuel
+cells and energy storage solutions
+
+Independent Electricity System
+Operator (IESO)
+
+Toronto, ON
+
+Ontario Electricity System Operation
+
+Infrastructure Ontario
+
+Toronto, ON
+
+Renewal of major public sector infrastructure in
+Ontario (including land development and real estate)
+
+ITM
+
+South Yorkshire, UK
+
+Integrated hydrogen solutions manufacturing
+
+National Research Council
+
+Ottawa, ON
+
+Market-driven research and development
+
+National Resources Canada
+
+Ottawa, ON
+
+Development of public policy focussed on the use of
+national natural resources (including energy, mining,
+forest, climate change etc.)
+
+CPG-PGM-RPT-245
+DATE: 02/02/2018
+
+343
+
+Revision B
+
+HYDRAIL FEASIBILITY STUDY REPORT
+
+Organization
+
+HQ location
+
+Main focus of the business
+
+Next Hydrogen
+
+Mississauga, ON
+
+Water electrolysis
+
+Ontario Power Generation
+
+Toronto, ON
+
+Electricity generation in the Province of Ontario
+Powertech LabsSurrey, BCTesting and research of utility generation, transmissionand distribution power systemsQueens UniversityKingston, ONAcademic researchRyerson UniversityToronto, ONAcademic researchTransport CanadaOttawa, ONDevelopment of regulations, policies and services oftransportation in CanadaTugliq EnergyMontreal, QCAlternative energy infrastructure (wind, LNG andhydrogen) for Northern communitiesUniversity of BirminghamBirmingham, UKAcademic researchUniversity of British ColumbiaVancouver, BCAcademic researchUniversity of OntarioOshawa, ONAcademic researchUniversity of QuebecQuebec CityAcademic researchUniversity of TorontoToronto, ONAcademic researchUniversity of WaterlooWaterloo, ONAcademic researchCPG-PGM-RPT-245DATE: 02/02/2018344Revision B
